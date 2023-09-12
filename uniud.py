@@ -5,6 +5,8 @@ import requests
 
 from models import Closure, Lesson
 
+s = requests.Session()
+
 
 class Year(TypedDict):
     label: str
@@ -12,7 +14,7 @@ class Year(TypedDict):
 
 
 def get_years() -> List[Year]:
-    resp = requests.get(
+    resp = s.get(
         "https://planner.uniud.it/PortaleStudenti/combo.php", params={"aa": 1}
     ).text
     years: Dict[str, Year] = extract_json_from_eval(resp)
@@ -38,7 +40,7 @@ class Course(TypedDict):
 
 
 def get_year_courses(year: int):
-    resp = requests.get(
+    resp = s.get(
         "https://planner.uniud.it/PortaleStudenti/combo.php",
         params={"aa": year, "page": "corsi"},
     ).text
@@ -49,7 +51,7 @@ def get_year_courses(year: int):
 def get_course_lessons(
     courseId: int, year: int, courseYearCode: str
 ) -> Tuple[List[Lesson], List[Closure]]:
-    data = requests.post(
+    data = s.post(
         "https://planner.uniud.it/PortaleStudenti/grid_call.php",
         data={
             "view": "easycourse",
