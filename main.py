@@ -3,9 +3,13 @@ from pathlib import Path
 from uniud import get_course_lessons, get_year_courses, get_years
 from ics import Calendar, Event
 import urllib.parse
+from jinja2 import Environment, FileSystemLoader
+import shutil
 
 
 def main():
+    shutil.rmtree("./ical", ignore_errors=True)
+
     ordered_years = sorted(get_years(), key=lambda y: int(y["valore"]), reverse=True)
     assert len(ordered_years) > 0
 
@@ -50,10 +54,27 @@ def main():
             # endregion
 
             link = f"https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/{urllib.parse.quote(ical_file_path_name)}"
-            all_courses[course["label"]][course["tipo"]][anno["label"]] = link
 
+            if not anno_di_insegnamento in all_courses[course["label"]][course["tipo"]]:
+                all_courses[course["label"]][course["tipo"]][anno_di_insegnamento] = {}
+            all_courses[course["label"]][course["tipo"]][anno_di_insegnamento][
+                anno["label"]
+            ] = link
+
+        print(f'Downloaded {course["label"]}')
+
+    # Write .json file
     with open("ical/calendars.json", "w") as f:
         f.write(json.dumps(all_courses))
+
+    # Write README.md
+    environment = Environment(loader=FileSystemLoader("./"))
+    template = environment.get_template("README.md.template")
+    content = template.render(
+        all_courses=all_courses,
+    )
+    with open("README.md", mode="w", encoding="utf-8") as f:
+        f.write(content)
 
 
 if __name__ == "__main__":
