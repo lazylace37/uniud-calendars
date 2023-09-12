@@ -1,0 +1,532 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20231124T160000Z
+DTSTART:20231124T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:16ef94a0-bd89-4007-8802-1c163d871a4f@16ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T190000Z
+DTSTART:20231025T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:79aa4513-af33-4022-9707-8ca3071ca388@79aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T160000Z
+DTSTART:20231212T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:35dfaa43-8d00-41ed-8424-ec99db546bcf@35df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T190000Z
+DTSTART:20230925T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:f3da43d2-c918-416f-8940-128fd1e4b337@f3da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T110000Z
+DTSTART:20231127T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:d14f912d-892a-485f-92fb-c4c3957b98e8@d14f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T160000Z
+DTSTART:20230929T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:203877e1-034d-41af-9f5f-99b4efdae8d5@2038.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T150000Z
+DTSTART:20231213T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:4ab09ec9-aa0d-4e00-af94-915afa82632b@4ab0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T190000Z
+DTSTART:20231127T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:e1fa7858-1cd0-49a6-ad21-ded29baa3440@e1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T190000Z
+DTSTART:20231106T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:51347125-aca1-4c9c-b8ea-126808bbceae@5134.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T160000Z
+DTSTART:20231006T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:23629a7d-5cd7-445e-80f7-6667d8fead27@2362.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T190000Z
+DTSTART:20231019T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:a47203e7-5ec4-4771-a3f6-1ffae676f08d@a472.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T190000Z
+DTSTART:20231120T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:77d37538-fdda-4049-b6bb-a92ffab76811@77d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T190000Z
+DTSTART:20231211T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:16f2f3ed-18d5-40c0-9221-c9c7aa55d7ce@16f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T190000Z
+DTSTART:20230920T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:75681aff-d95a-42e6-8dc0-7d901fa73532@7568.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T190000Z
+DTSTART:20230918T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:9a00986c-c8b1-43f7-98f8-14e1ff06d445@9a00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T190000Z
+DTSTART:20231016T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:33290594-01e0-4f84-a6ad-5d45fc359795@3329.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T160000Z
+DTSTART:20231010T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:c25287de-2a05-4ee2-89b9-9a58335abb4f@c252.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T110000Z
+DTSTART:20231120T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:e0614332-f8fd-4db2-8176-590f199040ae@e061.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T160000Z
+DTSTART:20231128T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:f1a2048f-57b1-42d2-9f62-29af8a74c0c5@f1a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T160000Z
+DTSTART:20231020T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:956ad24f-b8f5-47b1-bf8a-3fd90cb89290@956a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T150000Z
+DTSTART:20231108T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:e7f4bf14-9071-4770-bc27-ce0f28ef7523@e7f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T190000Z
+DTSTART:20231030T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:45ba4707-5e0f-4a47-8593-d999bedaae33@45ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T110000Z
+DTSTART:20230918T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:6ab74bef-2c96-4be5-a238-6c25623ecd99@6ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T160000Z
+DTSTART:20231215T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:047545a4-78bf-450b-b700-19fb3469d354@0475.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T160000Z
+DTSTART:20231201T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:f2fe532f-6664-4b51-ba87-c67e29c5d0f7@f2fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T190000Z
+DTSTART:20231011T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:c30c502f-5780-4449-a4d0-028de892e1f6@c30c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T190000Z
+DTSTART:20230921T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:7e575744-1c59-4555-a9d6-77965c2b32be@7e57.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T110000Z
+DTSTART:20231009T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:a71e1cee-dc39-4049-835f-f350c8113cf8@a71e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T150000Z
+DTSTART:20231129T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:1f55796a-14dd-4a0f-b466-5e0c9e092c23@1f55.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T110000Z
+DTSTART:20231016T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:e5c47ad6-f0d4-46ce-9b1b-f1fa3a3961d3@e5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T160000Z
+DTSTART:20230919T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:2a3de3a1-ae4d-4900-82f4-08fbc584ddf1@2a3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T190000Z
+DTSTART:20231005T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:a7243f6d-a91f-4784-9e3b-f6cd87163d1d@a724.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T160000Z
+DTSTART:20231017T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:9b0d61fe-90c1-4191-bf54-ee8a8ff16918@9b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T150000Z
+DTSTART:20231011T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:bc5f2313-6763-49b1-8b9f-65ba43173ecf@bc5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T160000Z
+DTSTART:20231103T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:15fc3bbc-fae8-4460-9448-bb27395dced2@15fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T190000Z
+DTSTART:20231004T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:a9f766bb-2767-410a-8238-6d647be49d0d@a9f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T110000Z
+DTSTART:20231113T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:9643977c-1c2f-4d21-a561-817dbf40c2bf@9643.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T150000Z
+DTSTART:20230920T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:2fb996b2-99c6-409a-8ebc-ae8a3f21f968@2fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T190000Z
+DTSTART:20231115T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:30e4a955-39d3-452c-89e0-9f47ce7aeb7e@30e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T160000Z
+DTSTART:20231205T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:b33cc2be-ce63-4082-89a7-9805efc59633@b33c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T160000Z
+DTSTART:20231110T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:f20034b7-ebd1-4489-8e0f-f8a0e709f8ba@f200.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T190000Z
+DTSTART:20231018T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:8bc86f80-973b-4e91-93d2-7e20639053d0@8bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T160000Z
+DTSTART:20230926T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:66e054e9-2749-400b-a09f-948ddb25ea08@66e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T190000Z
+DTSTART:20231002T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:c078472b-16f9-4184-96ad-59131834767a@c078.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T190000Z
+DTSTART:20231204T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:acb27eb4-56ab-4be0-8a3a-3c8c9fe9f9d1@acb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T110000Z
+DTSTART:20231211T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:6b14a3b9-e2d8-435a-9473-bfdb05be9819@6b14.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T160000Z
+DTSTART:20231117T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:7bbc2433-84ce-4dbc-be13-17d53eed89f7@7bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T190000Z
+DTSTART:20231116T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:0c00802f-6530-4f37-ac66-020bba76a3dc@0c00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T160000Z
+DTSTART:20230922T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:55bea29d-caaa-412b-89d5-37825c8fb333@55be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T110000Z
+DTSTART:20231023T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:96236599-2dc9-4db3-b6d3-39838b6d1572@9623.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T190000Z
+DTSTART:20231123T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:c980eb5a-9d6c-47f3-9dce-31fe3c6369c0@c980.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T150000Z
+DTSTART:20231025T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:eb2250ac-d348-4858-8f98-8ed4a30bf5b8@eb22.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T190000Z
+DTSTART:20231214T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:abfcaf07-3302-4506-8c14-97e5db787438@abfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T190000Z
+DTSTART:20231102T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:69161c5e-d186-4ad5-bc4e-7f7feec79cbc@6916.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T190000Z
+DTSTART:20231026T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:dff634c9-d597-49fe-a9e0-52c0a094d477@dff6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T190000Z
+DTSTART:20231122T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:27978aea-a73d-4ab8-8fed-1bde455fe96d@2797.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T190000Z
+DTSTART:20230927T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:37e5063b-1e62-48b8-ac04-f0b7144ea32a@37e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T160000Z
+DTSTART:20231027T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:c009fd5b-b59f-43d3-b022-818030f03668@c009.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T150000Z
+DTSTART:20231122T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:915feb3e-3858-47d6-8169-f372c3e18aa2@915f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T160000Z
+DTSTART:20231107T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:048c4f29-4233-4a3a-be07-f3fb8525720c@048c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T160000Z
+DTSTART:20231003T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:bff7bd7a-a262-427f-93b2-dcdba7144e13@bff7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T110000Z
+DTSTART:20231030T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:14186c65-c191-4f07-8d68-7ec3ca0290e0@1418.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T110000Z
+DTSTART:20231106T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:c2b84d16-68aa-4022-855b-456afc44cf40@c2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T110000Z
+DTSTART:20231002T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:d8f9de5a-9e7f-47d2-afec-13967d4a2a49@d8f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T190000Z
+DTSTART:20231206T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:8b115148-00b6-40cf-94e1-d46ef5772759@8b11.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T150000Z
+DTSTART:20231004T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:a54ccb62-c7ff-4175-80e7-059ff059d98e@a54c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T160000Z
+DTSTART:20231031T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:7f8bd663-4001-47c3-9c1c-24b8f3cd4f3d@7f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T160000Z
+DTSTART:20231121T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:0cbc498e-00f5-4d05-a42d-0eb9d2b32218@0cbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T190000Z
+DTSTART:20231012T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:e71a1f8d-8189-43f9-bd64-ee040d6614e1@e71a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T150000Z
+DTSTART:20231018T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:c043af6e-4cfc-46ae-87a9-d727b50147de@c043.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T110000Z
+DTSTART:20230925T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:8462902e-cc3f-4bcf-ab49-22fa8bf67512@8462.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T150000Z
+DTSTART:20231206T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:4ffcc19b-c28a-4477-ace8-a6d7d47c3bed@4ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T110000Z
+DTSTART:20231204T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:6040ca69-7e2c-4f80-94f6-105fda9fb3f8@6040.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T190000Z
+DTSTART:20230928T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:4a62d240-4858-45e8-8063-e11451192db1@4a62.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T160000Z
+DTSTART:20231024T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:34fe0410-9ea9-47e9-8f2f-954e42c987b6@34fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T190000Z
+DTSTART:20231207T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:79645b63-1654-4ff6-af57-90c29219b412@7964.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T160000Z
+DTSTART:20231114T140000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:22c53897-f0f6-4e6a-bd29-282047457f73@22c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T190000Z
+DTSTART:20231130T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:fa817050-9714-40e4-9ba3-35fca3498938@fa81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T190000Z
+DTSTART:20231113T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:064c926e-949a-4581-85ed-f466e2b7e2f6@064c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T190000Z
+DTSTART:20231108T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:aaaa9f1d-d5a2-4766-9337-eaddd3343d25@aaaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T190000Z
+DTSTART:20231129T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:22665cb0-2393-4e7f-b8b3-683592e5d602@2266.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T190000Z
+DTSTART:20231023T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:834ab28d-e72a-4065-9eaa-0c720f7022e1@834a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T150000Z
+DTSTART:20230927T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:b9a6a1dc-f65f-429f-bbaa-86baee4a6f01@b9a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T160000Z
+DTSTART:20231013T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:1f362d43-dedd-40b3-b8de-2ca2ef2ac7b8@1f36.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T150000Z
+DTSTART:20231115T130000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:f8f5e20e-177c-47c1-9a90-cfdde28efeb8@f8f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T190000Z
+DTSTART:20231213T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:2bdfb868-5283-4d57-9ac8-317a75a12493@2bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T190000Z
+DTSTART:20231109T170000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:47ebf68d-4ef2-4e61-850c-4444f1805332@47eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T190000Z
+DTSTART:20231009T170000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:4cc3fed8-1345-457d-9dca-1ec967f4d761@4cc3.org
+END:VEVENT
+END:VCALENDAR
