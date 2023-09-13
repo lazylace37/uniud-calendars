@@ -29,7 +29,12 @@ Search for your course and copy the link of the desired calendar; for example:
   {% for course_type, course in courses.items() -%}
   ### {{ course_type }}
   {% for anno_di_insegnamento, anno in course.items() -%}
+  {% set is_anno = anno_di_insegnamento.isdigit() %}
+  {% if is_anno -%}
+  #### ANNO {{ anno_di_insegnamento }}
+  {% else -%}
   #### {{ anno_di_insegnamento }}
+  {% endif -%}
   {% for anno_label, ical_link in anno.items() -%}
   - [{{ anno_label }}]({{ ical_link }})
   {% endfor -%}
