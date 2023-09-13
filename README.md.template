@@ -2,7 +2,7 @@
 
 Calendari sempre aggiornati degli orari delle lezioni dell'Università di Udine.  
 È possibile importare i calendari nella propria applicazione preferita (Google Calendar, Apple Calendar, Outlook / Spes).  
-Gli orari vengono automaticamente aggiornati una volta al giorno.
+Gli orari vengono automaticamente aggiornati una volta al giorno e sincronizzati con il vostro dispositivo.
 
 Cercare il proprio corso e copiare il link al calendario desiderato; alcuni esempi:
 - Google Calendar: [\[Guida\]](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Use%20a%20link%20to%20add%20a%20public%20calendar)
@@ -13,7 +13,7 @@ Cercare il proprio corso e copiare il link al calendario desiderato; alcuni esem
 
 Always up-to-date calendars of class schedules of the University of Udine.  
 You can import them into your favourite app (Google Calendar, Apple Calendar, Outlook / Spes).  
-Timetables are automatically updated once a day.
+Timetables are automatically updated once a day and synced with your device.
 
 Search for your course and copy the link of the desired calendar; for example:
 - Google Calendar: [\[Guide\]](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Use%20a%20link%20to%20add%20a%20public%20calendar)
@@ -27,9 +27,9 @@ Search for your course and copy the link of the desired calendar; for example:
   <summary>{{ course_label }}</summary>
 
   {% for course_type, course in courses.items() -%}
-  ## {{ course_type }}
+  ### {{ course_type }}
   {% for anno_di_insegnamento, anno in course.items() -%}
-  ### {{ anno_di_insegnamento }}
+  #### {{ anno_di_insegnamento }}
   {% for anno_label, ical_link in anno.items() -%}
   - [{{ anno_label }}]({{ ical_link }})
   {% endfor -%}
