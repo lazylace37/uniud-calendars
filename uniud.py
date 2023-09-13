@@ -76,23 +76,26 @@ def get_course_lessons(
             lesson.nome_insegnamento = cella["nome_insegnamento"]
             lesson.docente = cella["docente"]
             # lesson.mail_docente = cella["mail_docente"]
-            lesson.start_date = datetime.strptime(
-                f"{cella['data']} {cella['ora_inizio']}", "%d-%m-%Y %H:%M"
-            )
-            lesson.end_date = datetime.strptime(
-                f"{cella['data']} {cella['ora_fine']}",
-                "%d-%m-%Y %H:%M",
-            )
+
+            lesson.start_date = datetime.fromtimestamp(cella["timestamp"])
+
+            start_time = datetime.strptime(cella["ora_inizio"], "%H:%M")
+            end_time = datetime.strptime(cella["ora_fine"], "%H:%M")
+            duration = end_time - start_time
+            lesson.end_date = lesson.start_date + duration
+
             lessons.append(lesson)
         elif tipo == "chiusura_type":
             closure = Closure()
-            closure.start_date = datetime.strptime(
-                f"{cella['data']} {cella['ora_inizio']}", "%d-%m-%Y %H:%M"
+            closure.start_date = datetime.fromtimestamp(cella["timestamp"])
+
+            start_time = datetime.strptime(cella["ora_inizio"], "%H:%M")
+            end_time = datetime.strptime(
+                cella["ora_fine"].replace("24:00", "23:59"), "%H:%M"
             )
-            closure.end_date = datetime.strptime(
-                f"{cella['data']} {cella['ora_fine'].replace('24:00', '23:59')}",
-                "%d-%m-%Y %H:%M",
-            )
+            duration = end_time - start_time
+            closure.end_date = closure.start_date + duration
+
             closures.append(closure)
     return lessons, closures
 
