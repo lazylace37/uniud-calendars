@@ -1,3 +1,4 @@
+from datetime import datetime
 import json
 from pathlib import Path
 from uniud import get_course_lessons, get_year_courses, get_years
@@ -17,6 +18,8 @@ def main():
 
     all_courses = {}
 
+    now = datetime.now()
+
     for course in get_year_courses(latest_year):
         if course["label"] not in all_courses:
             all_courses[course["label"]] = {}
@@ -33,16 +36,19 @@ def main():
             # region Create and save .ical file
             c = Calendar()
             for lesson in lessons:
-                e = Event()
-                e.name = lesson.nome_insegnamento
-                e.begin = lesson.start_date
-                e.end = lesson.end_date
+                e = Event(
+                    name=lesson.nome_insegnamento,
+                    begin=lesson.start_date,
+                    end=lesson.end_date,
+                    last_modified=now,
+                    location=lesson.room,
+                )
                 c.events.add(e)
 
             ical_file_name = (
-                f'ANNO {anno["label"]}.ics'
+                f'{course["label"]} - ANNO {anno["label"]}.ics'
                 if anno_di_insegnamento.isdigit()
-                else f'{anno["label"]}.ics'
+                else f'{course["label"]} - {anno["label"]}.ics'
             )
             ical_file_path_name = (
                 f'ical/{course["label"]}/{course["tipo"]}/{ical_file_name}'
