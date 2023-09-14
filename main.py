@@ -43,6 +43,14 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
                 location=lesson.room,
             )
             c.events.add(e)
+        for closure in closures:
+            e = Event(
+                name="HOLIDAY: lessons not scheduled",
+                begin=closure.start_date,
+                end=closure.end_date,
+                last_modified=now,
+            )
+            c.events.add(e)
 
         ical_file_name = (
             f'{course["label"]} - ANNO {anno["label"]}.ics'
