@@ -161,6 +161,18 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>COMUNICAZIONE INTEGRATA PER LE IMPRESE E LE ORGANIZZAZIONI</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20ANNO%201%20-%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20ANNO%202%20-%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>COMUNICAZIONE MULTIMEDIALE E TECNOLOGIE DELL'INFORMAZIONE</summary>
 
   ### Laurea Magistrale
@@ -752,6 +764,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 2
   - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>RELAZIONI PUBBLICHE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%201%20-%20CORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%202%20-%20CORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%203%20-%20CORSO%20COMUNE.ics)
   
 </details>
 <details>
