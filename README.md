@@ -940,6 +940,18 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>SCIENZE E TECNICHE DELLE ATTIVITÀ MOTORIE PREVENTIVE E ADATTATE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNICHE%20DELLE%20ATTIVIT%C3%80%20MOTORIE%20PREVENTIVE%20E%20ADATTATE/Laurea%20Magistrale/SCIENZE%20E%20TECNICHE%20DELLE%20ATTIVIT%C3%80%20MOTORIE%20PREVENTIVE%20E%20ADATTATE%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNICHE%20DELLE%20ATTIVIT%C3%80%20MOTORIE%20PREVENTIVE%20E%20ADATTATE/Laurea%20Magistrale/SCIENZE%20E%20TECNICHE%20DELLE%20ATTIVIT%C3%80%20MOTORIE%20PREVENTIVE%20E%20ADATTATE%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>SCIENZE E TECNOLOGIE AGRARIE</summary>
 
   ### Laurea Magistrale
@@ -1011,6 +1023,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 2
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE MOTORIE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/SCIENZE%20MOTORIE%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/SCIENZE%20MOTORIE%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/SCIENZE%20MOTORIE%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
