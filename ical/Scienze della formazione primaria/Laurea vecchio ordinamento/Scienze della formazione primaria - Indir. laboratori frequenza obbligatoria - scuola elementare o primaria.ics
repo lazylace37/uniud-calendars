@@ -2,705 +2,705 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231025T130000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231025T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:43aa5a7a-e6cb-42a2-abee-b8b72a17bea0@43aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231121T130000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:3dfd39b5-bc78-445d-aa32-a3589e5a6c8c@3dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231215T120000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:cd6a08d5-9c0e-42c3-9f11-ba9eb59244bd@cd6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230926T120000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:15826481-756b-4296-9f8b-6869722d8297@1582.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T130000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230920T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:49861e77-e32b-4fa8-ad27-d3065c6109df@4986.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231106T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:97cffe7d-e922-4c13-9dc5-232d2a6f7521@97cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T130000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231004T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:d3ec0cdf-3afe-4380-b17d-47e09621720b@d3ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231130T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:2836cb7c-d02c-4ad8-838e-2b21284315eb@2836.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231107T130000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:5a1751b1-ca4f-4015-8afd-989b431010c4@5a17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231103T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:633969b1-32fe-4073-9e54-785eae295589@6339.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231004T150000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:753e73b6-41ff-4094-9dd0-efcc38d14624@753e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231110T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:1843c351-ffe8-4bea-9a44-0a53005d9533@1843.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T090000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231016T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:e22bfdd4-f534-447d-ae6e-7ef70e9f7aff@e22b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231102T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:5d9ead2d-ade7-4000-801f-8c14db51d466@5d9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231024T120000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:6bd4b64d-ceb8-4709-8128-a55d5571351c@6bd4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231031T130000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:55d9f248-bb2d-4bf5-b7b7-0c04751e67e7@55d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T100000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231204T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:5fcdf51d-fad1-4483-ad82-f246471a7afd@5fcd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T090000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231023T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:95f33f92-117e-4eb1-aebc-26bf4414d20e@95f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231201T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:a1380ecf-3685-437b-b7de-aca1ef371264@a138.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230921T002717Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:8e76c429-e3f1-43fd-a1d8-dbc372b59d96@8e76.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231108T120000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:51450a70-93e3-47be-a432-7397b1f3b24f@5145.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231010T120000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:5bf0187e-271f-4407-9452-502973e72f2e@5bf0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230918T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:16dcdf16-8fe2-4565-a4b4-82c3d6f3cb06@16dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231006T110000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:67f4926c-f6a0-46ac-b239-5277c3e938fd@67f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230919T120000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:60d914f9-eb8e-49da-a4a7-5c92d3ddcc1d@60d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231116T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:38af5eb9-5e00-40d0-bec9-1322ece9a7a4@38af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T130000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230927T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:36eab1a4-e4e1-41d3-96c9-25da31e3e62f@36ea.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231023T170000Z
-LAST-MODIFIED:20230921T002717Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
 DTSTART:20231023T150000Z
 SUMMARY:Laboratorio di didattica delle scienze
-UID:5aeb53da-ae43-4e0f-9491-26158c438d3c@5aeb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231206T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:bc3320be-abf6-4f63-a223-1757edab5811@bc33.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231108T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:d3c79f6b-6fd6-4d6d-ba38-8c4132189f06@d3c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T100000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231113T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:5371a25f-3448-4bc2-bfaf-e5f09bb33582@5371.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230921T002717Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:4b836542-0b89-46d6-b378-6fe6ff7a44e2@4b83.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231213T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:6af95073-9d9b-421b-a62e-15d73c46beb8@6af9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231205T130000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:7010df46-c113-4fc6-8172-a216dbe7aa98@7010.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231002T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:91154eba-15f9-4a7d-8b2d-278b87b8ba9e@9115.org
+UID:21a4716f-c54f-4f78-825e-6e3f429b799c@21a4.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231207T180000Z
-LAST-MODIFIED:20230921T002717Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
 DTSTART:20231207T160000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:97b0e4a0-ee5c-4be5-8387-5560d46cff53@97b0.org
+UID:d55dcca2-fd84-4e04-b526-a46c9941289c@d55d.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231206T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231206T120000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:00d94df4-823e-40a6-9e31-aeedca290fa7@00d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231009T150000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:eaff1bd6-917c-47a2-b14c-f39a8b0fb917@eaff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231128T130000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:8e0f8408-f8a7-41a3-94b5-cbe9b4543990@8e0f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231124T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:16e95c64-5593-4c1e-9a66-5785d314ae41@16e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231129T120000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:9a197789-de80-4439-9c99-73cea171c263@9a19.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231026T150000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:71764c9c-3952-46a3-9339-394a2764d5a4@7176.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231211T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:6c24326e-41de-40e7-be8b-9f0be5bd5faf@6c24.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231117T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:8e7d4f74-6fbf-4deb-abdc-2810446474b2@8e7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T100000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231106T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:4637147a-6df6-492e-ad5f-9cdfb8f549bd@4637.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231011T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:537a74cb-d9e1-45e6-8e91-06171fad3574@537a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231113T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:5e641288-5475-42ce-8c2d-d0708b5f17db@5e64.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231005T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:ac6fa0b6-fbc0-41a1-b5e4-4ffc7d1afc55@ac6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231016T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:a900ae1e-1917-448c-809f-c8d1e038cbe4@a900.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T090000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231009T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:fa0d563d-4b9e-4a74-94c2-c201ce495977@fa0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231019T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:af7fa8eb-0fe2-4e0f-9936-4f173027be26@af7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T150000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231212T130000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:5304a3a6-2a2f-41dd-8af4-cf8aec25430b@5304.org
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230922T002742Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:25aa24d3-118a-4eaf-ae82-e5eb721ec2e8@25aa.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231018T170000Z
-LAST-MODIFIED:20230921T002717Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
 DTSTART:20231018T150000Z
 SUMMARY:Laboratorio di didattica delle scienze
-UID:42e1fa42-76ea-46ed-b4d9-9556f3bc7271@42e1.org
+UID:585e5ed8-4d5a-4714-8ffd-a964c170ce18@585e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231018T130000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231018T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:e345318f-f441-4c4f-b6b4-f020655ba14e@e345.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231115T120000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:f9e0f13e-b59c-4767-881b-6be51a52ebd1@f9e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230922T110000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:7f08924b-07a8-4983-8836-1bd0be28e3fa@7f08.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LAST-MODIFIED:20230921T002717Z
+DTEND:20231121T150000Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 2 [via Margreth]
-DTSTART:20231114T130000Z
+DTSTART:20231121T130000Z
 SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:b7dccfab-f445-4706-bfee-8df5eda3905c@b7dc.org
+UID:70d67baf-bd29-4ca0-8fbb-892261b71922@70d6.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231017T140000Z
-LAST-MODIFIED:20230921T002717Z
+DTEND:20231004T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231004T150000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:0193e962-ff26-4da2-96d1-fe2f5878c19a@0193.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231108T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:9fef1f3c-7ea0-4b1c-a763-025a57c48159@9fef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T140000Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 2 [via Margreth]
-DTSTART:20231017T120000Z
+DTSTART:20230926T120000Z
 SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:dc84ceb5-d741-410a-87a6-9dec2dff33d0@dc84.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231127T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:eca96a24-7898-4654-b6cd-6d06a4d9139e@eca9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231122T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:c98db303-4b8e-4f34-bcd6-d00152994c96@c98d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231030T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:e9f13849-bf2a-4458-a13a-30ba4d343b38@e9f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231115T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:0e79dba9-6ee5-4159-b1e8-eb4d22ddec33@0e79.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T090000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231002T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:45be960b-6030-45c8-bfde-208409702df5@45be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T100000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231030T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:ae553c95-8d66-44d0-bc93-47a2455033e0@ae55.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230925T150000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:ad397142-825e-4e40-8ec0-fde3ff8d7ca3@ad39.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231214T160000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:0edc8298-2e20-45ef-82fd-3702cf22831a@0edc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231003T120000Z
-SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
-UID:49b70659-5dd0-4737-909c-30b6cf8a9165@49b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231204T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:d2c43633-3eff-40fa-a3a0-bca526efcb3a@d2c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231129T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:fb3346c5-54ab-490e-a980-895e89ee0142@fb33.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T090000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230925T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:4af149ee-2c77-44f1-b4f4-20e58922c359@4af1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231012T150000Z
-SUMMARY:Laboratorio di didattica delle scienze
-UID:7c23b23c-74e1-4f5d-a7d3-440f96e5e27c@7c23.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231020T110000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:099e0f8b-4fc5-4f95-99cc-08d199f326f4@099e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231122T120000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:4b05f3a8-9a2f-48a0-b05f-435389af0e48@4b05.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T100000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231127T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:54382adf-db6b-4f68-8a2d-12794870e88b@5438.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T180000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231123T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:9f8beb62-8613-4667-ae1b-563e473800a6@9f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230929T110000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:89c79ac6-8c84-4cce-b564-75d8e5f4c5c6@89c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T090000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230918T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:9189051e-1558-4baa-aa2e-5d5a5ab4475d@9189.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231025T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:1f68a53d-a080-4e0e-969a-9b04a07539d6@1f68.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231213T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:dd0c64bd-5af8-4cba-90fa-184f766f8cd7@dd0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T170000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230927T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:aa32f7c6-bf6e-479e-9dc1-977020260f9f@aa32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T130000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231011T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
-UID:1c9ab783-d943-4da5-b6a8-dacf2c6a722d@1c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T100000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231120T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:e6ec3455-403c-4778-9ecf-f4b9283d3409@e6ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231027T110000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:e30a98f9-fa2a-4ac0-b3f9-fd99904d3a5b@e30a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T140000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231013T110000Z
-SUMMARY:Laboratorio di didattica delle scienze II
-UID:e4b70b0a-402b-42d2-8e39-10c6eb43476b@e4b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T100000Z
-LAST-MODIFIED:20230921T002717Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231211T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
-UID:71b4c795-ca21-42dc-8282-b161a29a9ff7@71b4.org
+UID:944a2997-e46c-43d0-a4d6-24bff813c509@944a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231120T180000Z
-LAST-MODIFIED:20230921T002717Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
 DTSTART:20231120T160000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:300f71c5-9cee-49f6-b8c5-f4d40e4882f3@300f.org
+UID:e71a3aad-27d6-4071-a047-0a58759363d3@e71a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231109T180000Z
-LAST-MODIFIED:20230921T002717Z
+DTEND:20231009T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231009T150000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:473f695a-33b3-4453-9500-de9da9348bbc@473f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T140000Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231109T160000Z
+DTSTART:20230922T110000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:2e1a44dd-1637-4abd-85c2-c22f965982f3@2e1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T100000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231030T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:adc68f6d-a94e-4a7d-82dd-ecb066121dbc@adc6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231128T130000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:f60257ea-fea4-4ace-abd7-417a6123d3e9@f602.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231129T120000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:008cdb7f-fcaa-459f-ae14-ef99161a4aa9@008c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231129T160000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
-UID:a4449ef3-1a7f-4ae0-8803-0fc94574178c@a444.org
+UID:cd1d8c97-1095-43b6-89da-b661bc7c44f9@cd1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231213T160000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:1691d7f9-38df-4d52-b142-855e24dbd924@1691.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T100000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231127T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:8b7df517-f138-44e0-bd95-9694e5ea8ecb@8b7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T100000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231204T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:eee9d3d0-79dd-4038-8ec9-439b47bcf720@eee9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231013T110000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:3f0949cf-3181-473e-b433-4b19fbe5fdce@3f09.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231103T120000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:84a20aee-f00a-4542-bf6a-dff35376e453@84a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231213T120000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:7f572c8c-c741-447d-a0c0-fc27f7b41af6@7f57.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20230929T110000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:12adf8a8-bcfb-4909-9fd8-70dacb1106c9@12ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231206T120000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:43c1e66b-dd62-4031-bec2-b72ec85fbed9@43c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T130000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231004T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:d68dfe9f-6b7a-41ff-840f-3c89f33a9190@d68d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230928T170000Z
-LAST-MODIFIED:20230921T002717Z
+LAST-MODIFIED:20230922T002742Z
 LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
 DTSTART:20230928T150000Z
 SUMMARY:Laboratorio di didattica delle scienze
-UID:ad2c31f1-60aa-44a8-a281-cec70e19af31@ad2c.org
+UID:361c7533-53c3-4c88-9dbe-fa85c9d9ca77@361c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T090000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231016T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:00d88449-045f-43ad-9db0-5ca13393dc6c@00d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T100000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231113T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:db5e1bad-ad78-494b-88da-9273f1c5b7ea@db5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231026T150000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:69974ae9-6ffb-4806-93fa-26a2625de98c@6997.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231124T120000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:846af56d-5341-4805-8c6b-ad3a1fbdb754@846a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231005T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:ccc1a94d-ef43-4f6f-90a1-a542db489b99@ccc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230922T002742Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:f17bf174-7bf0-4ebf-87cb-09d40a297bb7@f17b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T090000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231002T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:0fce9787-b7fb-4717-841d-1112afba7b2b@0fce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230918T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:23d35c54-585c-4219-9a38-aefb609a7cd5@23d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T130000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231011T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:162b63a5-4b19-488f-a1fd-5d83bd6a3c3e@162b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T130000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231018T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:5f002c98-0b02-4488-b609-fab6a55b136e@5f00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231212T130000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:b6644b34-71ca-4ee5-8895-0f6718cccf20@b664.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231113T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:4517bea7-b71d-4b58-a737-3a10caae4b92@4517.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231020T110000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:577ac4ca-19f9-485f-b1a1-39f1c8d97467@577a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231205T130000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:6ee82c65-b385-4bfd-afeb-67b83b45a06a@6ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231025T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:60b6cc13-3e27-4618-aa08-963332541196@60b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231122T120000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:933f618b-6f39-47e5-bb4c-1b6d9a8303aa@933f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231107T130000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:e732f6d2-5299-45a0-98ff-379cab9d5a3d@e732.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T130000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20230927T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:7850368e-ad32-4831-b87f-7c032e1e8c47@7850.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231130T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:0baf1191-8685-4790-b031-4d4d58b4eecc@0baf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231106T160000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:aa68d099-9f20-4eb8-9986-5b8f00fefac2@aa68.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231003T120000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:984f3473-f44a-4a22-832d-0398480b9043@984f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231017T120000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:73070a4d-2fff-4bd8-9aca-1634c3568771@7307.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231024T120000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:adee02b9-7b51-4661-9dac-fe6a02948498@adee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231006T110000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:1f2aa5b7-02b2-4e78-b2b9-f6e2bf46189c@1f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231011T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:dbf4c4ae-c26d-4ffd-92a4-f7bcfe6176a0@dbf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231012T150000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:97259ae1-06e3-45ca-adab-4506bbbde3d8@9725.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230919T120000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:9676e84e-8035-44fa-b2e8-0bf294139f86@9676.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231109T160000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:6bdceb3c-c353-4602-942e-7436ba1a14a1@6bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231027T110000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:897c33ae-8d96-4ebb-a3b6-26fb3d1d5af8@897c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T100000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231106T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:253139f2-dced-469c-8fb8-affd2a068fd2@2531.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T090000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230918T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:f7b6a2b9-e735-48b9-940e-55e46b91d5d4@f7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231016T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:e9fce0a2-c23f-4ec7-a240-9ff74483c687@e9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231211T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:3abd2feb-3bd1-4b08-8a94-f81c814876fe@3abd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T100000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231211T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:d7a8ca10-4162-4adb-8124-bd048bfcb8ac@d7a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231010T120000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:79067fff-490b-42a2-ae2d-b7dda9984db3@7906.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231031T130000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:3d24b7ec-30b0-4886-98c8-a194d8ebcf65@3d24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231204T160000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:c486d05c-d443-411b-8d9c-8cbd1902c2a6@c486.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T090000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231009T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:c3b8c7a8-4969-4f22-ba26-ae264722e68a@c3b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231002T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:2299ac26-59e1-4070-89b8-aec72d4719a6@2299.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231115T160000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:d25bcb5a-e838-42f4-8c73-e1d967481f86@d25b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231030T160000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:79d4f05f-2c43-4e07-b8b9-822db1f1e239@79d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T090000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230925T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:50dcda55-001b-4a28-b342-dff326890cce@50dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231019T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:776f5534-8707-49e7-9e88-a115e999642d@776f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230927T150000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:e03364b5-7f37-44d1-a0b4-f014cf55af4f@e033.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231206T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:ebe43870-6d8e-4a46-a300-075864593f1e@ebe4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T130000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231025T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:0284f0c4-727f-4f71-a5c6-589f835b88a9@0284.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231127T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:168a2258-924b-4d33-9718-9946e1334782@168a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231114T130000Z
+SUMMARY:Lingua inglese iii - laboratorio di lingua inglese
+UID:3c07a4dd-ff86-4a74-9095-b941c811acba@3c07.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T170000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230925T150000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:0dacca48-e4a1-476f-bb7f-70462351c5bb@0dac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231115T120000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:c904b85b-f1c0-4e2f-8986-92b42da15c7c@c904.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231102T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:f956e44b-41c4-4b33-9a33-00e5dd4f95b8@f956.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T140000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231108T120000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:3f63ebcc-7bfa-4487-91fc-72e572abcd21@3f63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231117T120000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:041fec1d-0fd8-45db-90a2-59cb4b27250f@041f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231215T120000Z
+SUMMARY:Laboratorio di didattica delle scienze II
+UID:94c2a805-38af-43a3-9b76-e780d817ecd3@94c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231214T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:7951927d-3d67-4df3-a29c-9abf5693581f@7951.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231201T120000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:245d31e0-c4ff-45a4-888c-dbe30d6ec75d@245d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231122T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:ba45bd93-d548-476f-b1dd-7f8c7ede0dda@ba45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T150000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231110T120000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:3f981184-8e6a-494a-a867-180e822a2ebc@3f98.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231116T160000Z
+SUMMARY:Laboratorio di didattica delle scienze
+UID:4a144ed8-8b65-4e42-b25d-16222a7093dd@4a14.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T090000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231023T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:879c8b2c-ebe8-4df5-b50b-b974b159c217@879c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T100000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231120T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Lingua inglese iii - laboratorio di lingua inglese
+UID:3f3e4b89-4ea9-476c-b4e1-dadad9df357d@3f3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T130000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20230920T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze II
+UID:00a3ed8f-deb0-45ae-a18c-56b6bb9aeae7@00a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T180000Z
+LAST-MODIFIED:20230922T002742Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231123T160000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> Laboratorio di didattica delle scienze
+UID:53c8f2a5-9d73-4363-8463-a4a971f0a6ac@53c8.org
 END:VEVENT
 END:VCALENDAR
