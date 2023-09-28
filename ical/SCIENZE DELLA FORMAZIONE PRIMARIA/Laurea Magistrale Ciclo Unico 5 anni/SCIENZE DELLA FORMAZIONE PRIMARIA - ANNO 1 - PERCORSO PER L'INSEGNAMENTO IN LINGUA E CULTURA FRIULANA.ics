@@ -2,1713 +2,1713 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231114T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231114T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:952e21e7-4bb9-4c55-8fbd-8a9b4b78b7cc@952e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231117T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:210b53d2-719d-4554-87c3-31bf794134b2@210b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12\, Auditorium [via Margreth]
-DTSTART:20231017T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:4ddd1d9d-677e-4742-b9d7-29635624ea50@4ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231026T080000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:8e539fa8-ad60-485b-8f5b-9a8b73a8c669@8e53.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T150000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231014T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:15bfc201-bf33-40bc-a373-71badd5ab095@15bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231106T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:2b5deb83-0855-435a-9c25-dadeb5128231@2b5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231130T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:f1edd091-47d6-4c5e-986d-4632d856bf9a@f1ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231211T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:2211f840-337b-48c8-9312-96de4c1a6d7a@2211.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231023T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:cf88ab8c-8a74-4e2f-9b14-dd2b9dd0d55d@cf88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231206T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:e579ce43-e47b-4d2c-8b3b-f71c24609efa@e579.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231025T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:269d4fd9-e484-498e-b56a-a260c44dbe1d@269d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231122T100000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:d0d5139d-6b4a-4caa-8819-18622866924c@d0d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231023T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:1af3587a-234c-43f5-8eda-655b6e6064e6@1af3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231028T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
-UID:0acfe542-dd38-4a21-a1a9-146b5df9cff4@0acf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231024T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:c88b9203-f9e2-4b1e-ab2f-7f81b1aa7826@c88b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231019T080000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:065d430d-e058-441b-b3f5-dfb5391e199f@065d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231206T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:d0819ec6-cb51-4b4b-926c-0cedcf752ef4@d081.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231129T100000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:c12354ed-a57f-4094-b947-8cb396c2cbf7@c123.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231025T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:6944b0c8-e235-4a3d-87a4-d8acc493e883@6944.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12\, Auditorium [via Margreth]
-DTSTART:20231017T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:2a389d96-b3fd-4da9-a065-44c76089d945@2a38.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231129T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:0ed09130-f289-48fe-a705-5bfe90ada7d3@0ed0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231114T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:8bf064a8-5671-4ce0-af40-70497c23d5c2@8bf0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231124T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:9c03045a-abc8-4bf9-8aef-c8c18ad78f24@9c03.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231018T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:f7f62a06-50c3-4c4f-af23-f3439100a54c@f7f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231201T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:c8ec4d91-fe10-4cf5-8577-4f4ed1bde339@c8ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231213T100000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:49e76ea4-9267-4dbd-adb9-f7793c5a31d2@49e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231108T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:1924461c-4cfe-45f1-9c1a-bd3dc3f752fd@1924.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231129T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:a236b75f-e206-472a-9dc9-a18278cfbacc@a236.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231121T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:ad8fe2b6-3d40-4630-b4c5-618358413e47@ad8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231122T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:8b5f0092-403e-447b-84fc-eed81f58ad2b@8b5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231209T160000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231209T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:b9a0971d-dcc2-4bfc-9bb4-300f5b8796ee@b9a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231124T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:b3448279-a41c-4b9b-a671-0853fd455bc4@b344.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231104T160000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231104T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:b83e5977-21ba-48bc-a24e-c663b94c8212@b83e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231023T060000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:72886c42-2eca-47b5-9417-71b98f44ab07@7288.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231129T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:6b1e9538-8554-45fb-ad5b-4cd1e4a5e06d@6b1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231107T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:e284a6c5-8237-42c4-ac60-28d6eaf6524b@e284.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231106T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:4d8d85ca-010e-4a49-8a89-4c4332dc0851@4d8d.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231115T100000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
 DTSTART:20231115T070000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:81ce14f5-c25a-41dc-ab0b-5149d51f5535@81ce.org
+UID:e1d15799-a79c-4972-ad4f-21a5b2af3fdd@e1d1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231202T160000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231202T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:5ff13f49-c985-4161-b57b-e3fefb4ae372@5ff1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231013T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:ce2f58de-f09c-49cc-b86a-58b720c6969a@ce2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T110000Z
-LAST-MODIFIED:20230927T002806Z
+DTEND:20231205T090000Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231017T080000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:f4b6fb25-5a55-4231-8bd1-ce7671fc1563@f4b6.org
+DTSTART:20231205T070000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:ffa1edf3-c978-4380-800c-9fd63bd88564@ffa1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231104T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231104T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
-UID:51a91421-0c8a-4a1f-b47e-bb784b0d0a49@51a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T120000Z
-LAST-MODIFIED:20230927T002806Z
+DTEND:20231031T090000Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231011T090000Z
+DTSTART:20231031T070000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:4bc1fc8a-7819-46ae-b9e8-54167ecf3611@4bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231106T090000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:a5067a7e-c53c-4307-a262-3e224c83ff26@a506.org
+UID:3049a499-db08-4dc4-ab84-dafe3fc92549@3049.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231204T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:51f411f0-978e-4f30-b4bc-844418a2f892@51f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231106T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:878caa00-7bbf-4a04-9baa-340ec5b5c3c5@878c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231016T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:97000740-8083-449b-af4d-519bbe85c796@9700.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231027T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:83fa9e48-b8bf-4b26-b64d-aec624cf1fd3@83fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231020T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:739aa3b5-1a74-4643-bd05-771294b9d055@739a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231213T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:1f365ed0-ae37-4934-a436-603c8c365ae0@1f36.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231127T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:98b75270-b3bf-4f81-a0ae-7d9ac7a88699@98b7.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231013T080000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Aula 12 [via Margreth]
 DTSTART:20231013T060000Z
 SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:6f5bf144-bcd9-41bb-b54b-4ba798ca7850@6f5b.org
+UID:1d06f233-927d-466f-8cb3-816b4c7a6e1e@1d06.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231027T120000Z
-LAST-MODIFIED:20230927T002806Z
+DTEND:20231115T100000Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231027T080000Z
+DTSTART:20231115T070000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:7d9b91be-7c7b-44f5-965a-772eb9cb7844@7d9b.org
+UID:0791fd38-caca-4b68-a8e7-40482b3d2b90@0791.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231116T120000Z
-LAST-MODIFIED:20230927T002806Z
+DTEND:20231010T080000Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231116T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:19b0f941-4107-47a8-b4ee-9dd845e65be8@19b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231215T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:36141334-451a-4452-b772-e8c6a79acc0f@3614.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231107T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:d1f54df9-a99b-4cfc-8c5d-79e56da500ce@d1f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231106T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:9189daf0-ea13-4e9a-bb5e-07773506012f@9189.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231122T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:0de73df7-f485-486d-9466-10fbef831abe@0de7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231206T100000Z
+DTSTART:20231010T060000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:b734c9a2-dba6-4b9d-9d69-0a665de403ee@b734.org
+UID:4261933a-162d-4900-8c0e-9d6e98e0a7ea@4261.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231127T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231127T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:386466ae-9aa7-4d90-99af-c8586b765f82@3864.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231213T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:7e0d8140-a79d-4ab5-b875-e9b97804ef4c@7e0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T110000Z
-LAST-MODIFIED:20230927T002806Z
+DTEND:20231028T120000Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231202T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
-UID:2f78926f-a0fa-4ed9-ac15-cf29d880b6e7@2f78.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231016T060000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:1b9d17d5-7f69-4cf9-89cb-7486c1181769@1b9d.org
+DTSTART:20231028T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
+UID:a788f132-2737-4b6a-bda3-ef5a1b4bcf4a@a788.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231023T110000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
 DTSTART:20231023T080000Z
 SUMMARY:PEDAGOGIA GENERALE
-UID:24c11dae-83e9-4df3-9850-9cd8426cf523@24c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231214T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:a269b73f-3e4e-426c-b916-b51331244a12@a269.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231110T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:880e17f8-605f-4468-bfb1-f780fc0f07b4@880e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231011T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:f4b7c862-d978-4327-ae3d-17e5ebefb718@f4b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231018T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:3fd2cefb-56c1-4b16-ac96-37322f246b73@3fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231016T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:80c5ca60-7290-4099-8759-000ed1b55011@80c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231205T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:4468b71c-c297-4ac2-9573-63d1a459922b@4468.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231129T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:e340c7d8-80f7-40c6-80d2-36ce8aa411ab@e340.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231102T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:8f659339-e9f4-4a2c-a467-29a8947f57f5@8f65.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231204T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:65c05190-da5c-46a6-b718-41e9c0efa918@65c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231214T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:24f90e4f-ba9a-48be-ae29-904fb31cc52f@24f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230927T002806Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:c6380dfb-3677-40b4-9566-b781b7641943@c638.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231211T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:9a57255f-4415-427f-89aa-6c2a1ce81b65@9a57.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231011T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:0523288e-c1f5-46fa-aa6b-b061eacdf75d@0523.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231020T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:9164e2ce-91cf-4fb7-b024-4f91afc9523b@9164.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231213T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:08c37386-adb0-4c78-a739-08a0491bc808@08c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231111T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
-UID:167a5ded-e2a6-4ca4-891f-0b6b65a33af3@167a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231128T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:e113015a-c555-4f96-8418-0b59cb4b07a8@e113.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231204T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:3e3df144-ed9f-4e45-a27b-87b70161be1b@3e3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231113T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:de0dee52-33b3-4e95-bc39-cb5a4491ba1a@de0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230927T002806Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:7dddbbce-0cd8-443b-954d-0296e768d0e3@7ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231016T080000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:905bec73-bf0a-4921-8abb-bb16ca6729ae@905b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231103T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:d9803d9c-e8ae-4093-8d2a-88a9e8b5f1aa@d980.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231030T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:e4891230-af9f-4e42-907e-377548f4b24c@e489.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231108T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:af3b6da3-34a8-444c-beca-bc6e83cf881b@af3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231110T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:63293727-57b3-4dd1-b38d-af3732896b9f@6329.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T160000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231118T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:ce1eba8a-3d34-4dde-a142-f8e0706ce7cb@ce1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231124T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:0deafb39-f748-42d3-9ae9-8da566e37992@0dea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231209T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231209T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
-UID:3c431c11-6821-4e7c-a6b4-c5013f73075a@3c43.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T160000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231111T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:672d5097-5888-4ab4-b601-1daed8294bbd@672d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231206T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:7a6cd4ae-332c-4c4c-8697-7d39fc7d8e76@7a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231115T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:809db645-a850-4b4d-a297-556a20528562@809d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231206T100000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:24e5b2cb-baf2-4c26-b46d-5fd1d2b32b72@24e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231205T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:272f1d14-e6a6-4c82-a43d-c03c2c47fd50@272f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231025T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:7ce1bf0f-8108-471f-a5f8-9726edd5c4c9@7ce1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231115T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:ebce431c-d89b-4012-ac50-0a4d3fcbbfe9@ebce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231021T150000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231021T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:18f560ea-7041-45d4-8ca0-ce3c7f487b5b@18f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231010T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:63fa2219-8e05-4649-b608-75e6d10d161d@63fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231111T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
-UID:20d6745c-8326-472e-a9bd-249b43ee833d@20d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231107T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:27705634-5796-4b0a-a8bb-80bde2bd24df@2770.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231129T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:dd509252-1e7d-4e4f-89a9-120e5ea06c5a@dd50.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231120T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:0f5971ed-a5f4-49e0-a29b-730e9b9ece54@0f59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231009T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:426631ad-49fa-4b8a-abc2-55a54b136635@4266.org
+UID:b6b2746b-8b83-4bf4-8786-2c89580f06fd@b6b2.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231025T120000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
 DTSTART:20231025T090000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:3f667063-94d1-4eb1-aa0b-f18d44df50a8@3f66.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231213T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:8bed91d8-e8c7-4a54-95fb-289344c97fc3@8bed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231215T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:c578b9b0-f933-4973-bd9d-75e9983a698b@c578.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231213T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:83de5680-7ddf-475e-a80d-b07b205fcb92@83de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231122T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:8bec247a-5e1d-4cdb-8638-105d27f2cda6@8bec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231113T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:23691d48-eb3b-401d-8d0f-65943a76d7cd@2369.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231026T060000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:582e14e8-3edb-407d-ab5a-a7292d60516a@582e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231108T100000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:68dfad59-05cd-4431-b1d5-c28977a8e798@68df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231013T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:5fde475a-f48d-4cce-81ce-b752d4e92d08@5fde.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231025T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:c89abddc-6041-4fe0-b077-dd140d2ac49b@c89a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231016T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:9513e6ee-7b06-4960-875a-e91c1b26c041@9513.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231128T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:057a7f70-b640-48b9-8cd0-6a583924b482@057a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231205T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:a9dfbe23-5c68-494b-a891-b698701aa114@a9df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231204T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:26775b22-9969-4718-a84b-7a1a342441ca@2677.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231201T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:9fc11e9a-739e-42d2-8552-d8fb85aedc2e@9fc1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231027T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:da733ae7-a8eb-4dff-b12e-685cad01420e@da73.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231010T060000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:8818b920-20a9-48bc-8c18-4c5d290b4da9@8818.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231211T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:95e415e7-55af-4e7b-bab2-75521402f31b@95e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231128T070000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:5b047264-9e32-400d-9180-dde8c0bd9054@5b04.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231027T060000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:d45980a5-a87a-40c7-973d-bf766ba09cb4@d459.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231024T080000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:bfaf0bc8-3567-4733-86e3-c67c39ac5fe7@bfaf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231124T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:fbfe8f21-5026-49fb-a1ca-aba1c974e0ad@fbfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231114T070000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:031bf49e-e8ce-4736-b476-9909b70cebaa@031b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231009T080000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:b0a642b1-ede7-46a0-8412-19140e71c8d9@b0a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231024T060000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:37d8e24b-0a7a-407d-8089-c6301e14e0f2@37d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231122T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:8759235c-6ee8-4fd3-8cd6-af1a37c682bb@8759.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231106T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:dbe53578-6c3a-4451-b2d2-5f34f869c7d9@dbe5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231127T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:d2bf20af-e049-4fb5-9d0e-99f722aff5a9@d2bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231031T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:a69628e2-0f77-4061-b99c-6e55286bd966@a696.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231211T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:82bee619-d5bf-4158-bb98-36ac58597a91@82be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231027T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:4397d74b-ac5c-4a9a-abeb-e33f64f277f8@4397.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231108T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:bcbf7b9d-7011-45b9-a71f-2ed9497a106e@bcbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231115T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:3b098d16-565c-4b4b-adb3-0f827d55d39b@3b09.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231012T060000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:4065383c-a2a5-4def-a9c8-016726b61e34@4065.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231201T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:a991c0db-c1eb-4c44-b38f-1abec2e65868@a991.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231031T070000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:78361875-2289-405a-92bc-98b295e26b40@7836.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231212T070000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:ae594c8b-3601-4692-9874-f2673ef27cb8@ae59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231209T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231209T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
-UID:9d8e5e7f-53a4-4e1b-b718-b71bcebb3250@9d8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231121T070000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:1662cff4-f03a-42cf-b7a7-c3afdf036192@1662.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231103T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:60d9ff54-bb32-4cf6-8845-1be741c23cee@60d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231020T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:ae9a65d9-1591-4ab2-bc91-14d62cdc602b@ae9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231103T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:84a601a3-222b-4e3e-8e31-2ea32a355e38@84a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231031T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:8049ecb3-1f52-42a6-848b-9450fff0bf2e@8049.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231201T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:c6a2b73a-23da-475e-a226-eb9e3b8e6e12@c6a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231128T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:b78cb92d-4d5d-4e05-9c3a-a69470ac026f@b78c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231028T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
-UID:83ea38f3-1a87-42d2-b8fb-f8ef22bcf4cb@83ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231117T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:e92825c7-728a-431e-b90a-a26176a31fc4@e928.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231122T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:b7b6d45d-8fe1-44c4-804f-2ef983d395f9@b7b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231121T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:66851519-89c1-4ad5-931e-bc0247387154@6685.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231019T060000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:2d60dd19-7e4f-41bb-ba9e-e6d237d592d2@2d60.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231018T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:a500e497-7f63-418f-804c-e327605afb3c@a500.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231030T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:09be35e3-90c2-4715-9ade-4f28f1f10856@09be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231020T060000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:eb4adc84-9189-480e-8ac4-804b7e28ca70@eb4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231212T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:9642acef-bdcf-48a8-a4a1-391d919c5edd@9642.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231215T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:4c5c28b5-9c15-44ef-a5ab-2a9fd85a36dc@4c5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231125T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231125T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
-UID:f63d1661-e238-4848-8159-c8133e6b3f13@f63d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231024T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:d39dfc53-b05c-4f9a-8d7e-a877f1c648f1@d39d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231114T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:79b6ee7e-5682-4a1c-a9ab-3e51ffed4e6f@79b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231018T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:282c0aa3-4016-4c66-833b-218da0894d8e@282c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231120T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:1880983a-3640-4185-9aca-670416baffdf@1880.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231205T070000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:b15ebc1c-a1ab-4672-8e44-1fe49a0d9995@b15e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231213T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:78eeb004-2736-4a9d-aa2a-25c635f7bcc4@78ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231127T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:c8455d09-b17e-476b-9ad3-d1a6fd9478ff@c845.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231011T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:2c1b6641-43ff-479b-814e-03c3ffdea5d4@2c1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231117T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:b0568aa3-3458-4010-9617-42bc12573947@b056.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231108T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:30eeda15-3010-49ca-8419-e08bc05d9828@30ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231109T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:b5cfa6e2-30e6-4b1b-a704-36b165dd4abc@b5cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T100000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231206T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
-UID:d1738c38-4898-40e3-be16-0e78eea5dfdc@d173.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231115T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:e6a19ce8-76ab-48da-be0c-3e0bdb0977cc@e6a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231123T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:8fb74d3f-35eb-4b15-8911-c5411257b7b8@8fb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231130T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:4d08df9c-6e5d-44ce-889d-60b929c5a1da@4d08.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231018T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:6eeeb4fa-f5d6-46ba-88c2-62b62f91b8db@6eee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231020T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:c13e5e93-35c7-4ef9-9dab-e8821a7690b1@c13e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231025T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:09999314-84b6-4a2e-9237-1005612dcb0f@0999.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231010T080000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:c6b05c17-8cd2-41ef-a16e-8509ba7db1b0@c6b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231113T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:ba3dcc9e-6403-4c55-95f1-3455d01158ac@ba3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231121T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:0c9256bd-e201-4740-abdd-6c8a353713fa@0c92.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231123T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:1ef3380e-407f-43b7-9f04-2ce56d4096d9@1ef3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231207T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:18611539-59b2-4d31-ba96-7816748cf39b@1861.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231009T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:1e11bb41-eeae-4c9f-a2cd-8903394d11b4@1e11.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231118T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
-UID:ae2e86f5-2bee-4544-a342-21bd4c49dd92@ae2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231125T160000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231125T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:4b1bcad7-bbda-43b4-a32b-66aa5308b166@4b1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231207T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:1824d684-a7ec-481b-9ae8-964600d6673a@1824.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231113T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:e3fddeb4-5660-44ca-8eb3-9cd87c24e93b@e3fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231202T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
-UID:6f620c41-5430-421f-a99b-fcd6f402541c@6f62.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231116T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:3ddbfbcf-17e3-4823-a397-799fb66b0908@3ddb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231212T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:256ed3cd-d72d-4aa4-bf72-aa9b51d2bff4@256e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231127T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:16a034d5-4b00-4a61-bad5-6bb86ca42f59@16a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231125T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231125T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
-UID:6f63101e-6f4f-44e7-b20d-2c983c34c1fc@6f63.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231018T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:d50dda28-bf01-47de-b014-fcde5c0c0272@d50d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231030T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:6874ae58-9284-4e66-b379-9e902b14d1c8@6874.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T150000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 3 [via Margreth]
-DTSTART:20231028T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
-UID:48eec9b1-1e4b-495b-9c79-6bd6ee342300@48ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231108T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:bea4ce6c-aeb0-4667-ba1e-bd73412d20fa@bea4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231115T100000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:9ebe146d-b5f1-44b5-886e-ef97a8d5048b@9ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231117T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:a1b1e06e-bf27-40c3-9f66-305ad67ed8ea@a1b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231120T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:5f25d46f-ce85-4e8d-a6a5-73e2aee82aa7@5f25.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231031T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:3e5883f4-2a56-4a2b-97b1-0b7968d31881@3e58.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231118T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
-UID:bb818653-9c5f-48cf-a044-49840f1d9300@bb81.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231013T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:2f4a018a-6739-4aa3-8b9d-c73b3c136008@2f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231030T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:52f9329f-da0d-427f-a878-bc5dad1e3809@52f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231215T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:73ae9cb3-7780-4765-bdc1-5767dca3b2f2@73ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231107T070000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:eaa1787e-7320-42a8-9af5-648d9ff9839e@eaa1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231102T090000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:762ee0db-1c3f-4d7d-8ca1-bd1854922bc7@762e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231011T090000Z
-SUMMARY:PEDAGOGIA GENERALE
-UID:d4b21d3d-b51b-4629-95cd-dc828932db48@d4b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231104T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 5 [Palazzo Antonini]
-DTSTART:20231104T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
-UID:1868f831-3d4a-4a16-8899-96dda7f6b024@1868.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T130000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231103T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
-UID:d6a4404e-038d-4288-9b61-495883b9edd1@d6a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T120000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231011T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
-UID:3a6a5b1c-6ff8-4946-9974-389cd8bb6cd6@3a6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T110000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Aula 12 [via Margreth]
-DTSTART:20231012T080000Z
-SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
-UID:f5e4cdd4-d5b9-4f86-b5ae-52a855ecac88@f5e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T080000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231010T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:db15f733-b7d4-497f-8ebf-085417198882@db15.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T090000Z
-LAST-MODIFIED:20230927T002806Z
-LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231212T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:8c5c59c2-41d4-42f5-abfb-bb4c0bab5633@8c5c.org
+UID:ad51d863-9203-4b8a-bc05-be99007ee66a@ad51.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231017T080000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Aula 12\, Auditorium [via Margreth]
 DTSTART:20231017T060000Z
 SUMMARY:PEDAGOGIA GENERALE
-UID:e5944400-1817-4a5f-b686-dab4d354cb83@e594.org
+UID:2b0bf9dc-0f2a-4f91-84c3-09f6850e4c50@2b0b.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231110T090000Z
-LAST-MODIFIED:20230927T002806Z
+DTEND:20231206T130000Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231110T070000Z
-SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:0fcce546-889a-40d7-99c7-21f3fa720e6f@0fcc.org
+DTSTART:20231206T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:959c65d5-d3b6-406f-b755-71c8379e4100@959c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231120T090000Z
-LAST-MODIFIED:20230927T002806Z
+DTEND:20231204T090000Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
-DTSTART:20231120T070000Z
+DTSTART:20231204T070000Z
 SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:b0e044d2-460d-45d1-a86b-9010d723473f@b0e0.org
+UID:be214264-53a5-4d79-b178-88625580512b@be21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231024T060000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:27450527-28cd-454b-89e3-3eef63563388@2745.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231023T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:3e3402ce-311a-4499-a619-76ef27c9a375@3e34.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231107T070000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:309e206d-eb01-4acd-b1d1-c3b61b252c8a@309e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231103T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:1e83e819-2b1d-4bc8-a760-cfc7950165e6@1e83.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231122T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:56d843c9-3570-49be-baee-d4decbbb5920@56d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231128T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:7c3620ce-ce7e-47ed-9740-c44b868bda30@7c36.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231031T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:c9cfc565-5ef6-4f91-9ea7-23ac2d67a1a7@c9cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231205T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:26cc1576-53ea-4401-b76b-c7c67faf1911@26cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231027T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:64410360-cbd9-424e-b540-669ef86ac00f@6441.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231019T080000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:0e1f5ba1-a898-412d-959e-3185cb46104b@0e1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231108T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:7f5b8086-4287-4e3c-b643-b50e6642825d@7f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231122T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:92def0d9-0207-4659-add5-cfb22c8c65b4@92de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231009T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:de6d755b-7390-4ee1-8602-27ac3434b6e8@de6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12\, Auditorium [via Margreth]
+DTSTART:20231017T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:975e0983-5190-4dde-8ed2-eae9ec7700e6@975e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231125T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231125T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
+UID:cb52a7e2-1eec-414c-820b-0a978fbccc0b@cb52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231211T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:05d25c84-40d7-4e45-ab24-c3188df6e9f6@05d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231030T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:4379cf3d-6a93-4f2e-b0e9-1f9ffbe5bfb6@4379.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231107T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:8c24c20a-5eac-4e8a-9089-baef5787a481@8c24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231013T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:10836f78-5d09-478e-9109-a5f8f3b8a569@1083.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231023T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:c80a52b1-be1f-4a54-b1c7-741375ff90f3@c80a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231107T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:9a6e64ec-8a47-4135-9bc1-50535bfbd41b@9a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231018T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:d78cba45-7fce-44d0-a458-2e6ec6ea8d18@d78c.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231110T130000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
 DTSTART:20231110T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
-UID:839553ff-c122-430c-8525-f5424ed6b633@8395.org
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:5a253567-1479-4f16-8807-0a3bcfebccdd@5a25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231122T100000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:478689c0-39d6-4dae-bdc4-6fb4e67107dc@4786.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231121T070000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:ddb3d70e-424b-499b-b238-79107e58c1d1@ddb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231130T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:57e51ae3-5397-4d67-b8e7-d0d0548d39c7@57e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231027T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:ef826199-af06-4cb3-a7ec-f36efc22daa5@ef82.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231010T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:3fdbc485-a758-4e73-9855-06f3e9216a17@3fdb.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231109T090000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
 DTSTART:20231109T070000Z
 SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
-UID:c74f77b2-5cbd-41be-9320-29e48dade06a@c74f.org
+UID:4ef37731-0256-4d36-8c0a-29a6be0664f3@4ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231120T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:ff7c51f1-3273-4f74-9517-6a17ac3e3210@ff7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231129T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:bc3a7228-28cb-40c4-86f6-baa26498fa2d@bc3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231118T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
+UID:372ef4ad-8769-4248-9f12-48e8b822a3b5@372e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231117T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:38a9bcca-c2fa-4c0c-a2bb-7810ca9aeaa0@38a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231211T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:05997f8d-2768-4871-82f5-2e63a355cb76@0599.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231028T150000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231028T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:00197738-a390-4223-82d5-0c695351e462@0019.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231212T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:d8f33d7b-e4b7-4bb5-a98d-fd7d1512e9f8@d8f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231207T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:6b7b7484-a042-4850-bf96-a1609e713129@6b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231102T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:a0177aac-b236-4660-a064-8538bec43e8b@a017.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231201T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:3dc1bf54-c54b-4918-867a-dd337662cbfb@3dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231009T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:63148ea8-665f-4c11-bce7-574f919397a9@6314.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231117T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:72d7e36d-f651-44ab-a8e7-8ab02e92e2c1@72d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231202T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
+UID:55920aa2-9e1f-460a-9f05-cd2429950b4e@5592.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231026T080000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:29d2f2b5-85c9-476d-8694-82001de0dcc9@29d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231027T060000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:8bf4a6f1-ad21-4b26-bbca-f1eda16ac3fb@8bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231108T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:b4833982-c2f6-4783-a4ed-0e8953577433@b483.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231013T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:c750d631-9f89-4e77-9795-22505a02867a@c750.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231019T060000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:104f867f-29bb-4b1e-9826-753a8eb847f3@104f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231118T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
+UID:94f14b3e-6c07-4256-b045-25c8b5bc319a@94f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231017T080000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:b449c559-cf12-44f7-b74d-9a3b247fec0a@b449.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231127T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:966b3318-9ba6-4363-8864-cac18fa1d064@966b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231024T080000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:ecfb37e7-a2f4-4659-8820-9a89e76a648d@ecfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231215T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:4c9871ac-de8f-4abe-bd1a-2226ecb1501b@4c98.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231201T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:a61f731f-5d7e-4956-9573-2a502f51860f@a61f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231011T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:de493421-5902-4f7d-bbe9-0e0261c8b391@de49.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231104T160000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231104T140000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:d952eb26-a369-4146-b9b1-e07b6265951a@d952.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231106T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:40da6d05-426b-465f-a3b0-a0a45ad1f3a5@40da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231124T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:e20a4f09-8d7b-41f1-abdb-01b4dcb8b11b@e20a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T160000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231111T140000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:401481f1-633b-409d-8729-1fc692943f2c@4014.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231212T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:fb7480a5-6b42-46e6-9753-75a538fb10d4@fb74.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231116T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:80ed9cf2-f71f-493a-a7c8-b87a55e2e2e5@80ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231110T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:9f217232-6bc3-4450-9280-b6e2f211630d@9f21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231030T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:a1a85761-d1cc-4530-8d9a-483f4e127b38@a1a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231209T160000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231209T140000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:bc001e88-5ac8-4358-a11c-a8ea63a25ffe@bc00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231205T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:8b55e52a-ac20-4c7a-ab3e-afbedc2f0e54@8b55.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231018T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:b6422557-d73c-4c72-aad1-831949fcb4bc@b642.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231103T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:22e69ff1-c752-4a99-894a-424ea59a4534@22e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T160000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231118T140000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:6ad61481-97be-4136-97e6-2502c117231f@6ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230928T002742Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:36f1a8f3-eba8-4e02-9a21-d7520da7dce9@36f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231113T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:0e199218-b1ce-4eaa-9256-db5913b60a2b@0e19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231114T070000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:3d07dec6-3b5f-412b-b687-210f8a782812@3d07.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231213T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:3791229c-0bc7-40c3-9aa4-06f3eb3ecf8c@3791.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231111T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
+UID:3012043b-2921-44fc-9791-1855595cb498@3012.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T150000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231021T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:d0d9af12-b6c0-45b2-80b4-eb49b55a8243@d0d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231209T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231209T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
+UID:9241b341-d3f3-4186-821b-3a53b3107883@9241.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231011T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:9759a598-972a-477b-8593-25d7753073d0@9759.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231024T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:5c9a706e-7e32-4947-bd15-38c89916407f@5c9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231123T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:fe5dc40d-af59-4c46-9f41-7a158056ee5a@fe5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231016T080000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:a95d9c22-e8d7-46e6-84b3-fa45cabbb13b@a95d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231130T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:fd452107-0f31-4362-9994-54417325e1bf@fd45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231109T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:64e1057f-b9a5-4a95-a796-f04f0effa427@64e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231024T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:15097684-7d51-4465-9d22-af67c2f30055@1509.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231120T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:74022535-d7b1-4efb-8d71-a620b754e9db@7402.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231128T070000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:460741f9-abf7-42ed-8ea9-fc3d9e3af4a2@4607.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231108T100000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:db111615-9457-4c96-9a83-fca9848d2910@db11.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231020T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:1a443c23-76ad-4c05-a5e4-f72889a1d02c@1a44.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231011T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:f9d83247-b813-4bd8-9dd6-2e1a996503e2@f9d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231117T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:b12a1308-359b-414f-bae1-1a0763bdffe7@b12a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231122T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:c0373912-5bdb-47ed-bb6b-ef2a0e39db87@c037.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231012T060000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:471583d6-134c-4844-802e-97cb591194cf@4715.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231030T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:a56ad4bf-6f98-4e48-8e89-2b225b8d87ae@a56a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231204T120000Z
-LAST-MODIFIED:20230927T002806Z
+LAST-MODIFIED:20230928T002742Z
 LOCATION:Auditorium\, Aula 12 [via Margreth]
 DTSTART:20231204T090000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
-UID:823b0549-9d53-4f66-b41a-a76e2b020bdb@823b.org
+UID:f88347c4-9c24-4f1c-bee5-6d85f17755db@f883.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231129T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:838f964c-0539-4a3a-a13c-740fec07e13c@838f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231113T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:7fd7f6c1-b6ea-4001-af3d-50b7e98fd007@7fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231108T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:2d36fb5c-8f79-409b-b19a-e905761d1804@2d36.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231009T080000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:d2dfd243-0770-4c34-9551-f75863689edf@d2df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231122T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:f3153581-dc77-42b1-b215-49a44aae6200@f315.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231028T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231028T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
+UID:737763f1-c56b-43b0-9f75-ecc70cec0a7d@7377.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231201T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:bf0505c9-aeab-476a-8f32-49080f21f149@bf05.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231211T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:fd73d247-a960-4e22-8a1f-d36697648dda@fd73.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231123T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:be0c7f2d-88c4-4673-81ab-468d8a16cbd4@be0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231129T100000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:cba47991-7944-4912-83be-7b9634e6484f@cba4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12\, Auditorium [via Margreth]
+DTSTART:20231017T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:5ba2513a-5587-4991-94fb-8807e288265f@5ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231018T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:ee3e4bf8-fcd3-4514-a0e2-b18124fa18af@ee3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231020T060000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:fccb3dec-0159-4eaa-af60-9d16c44a6967@fccb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231113T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:013786ad-2beb-4b34-a28a-ff02cae99431@0137.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231018T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:622992fe-f9a9-4a44-9a44-2c8c7cfb3ed0@6229.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231025T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:8b889cab-246e-4a92-a108-eb16e635993e@8b88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231031T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:22f99ae7-d659-4329-a2fe-643218a6f176@22f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231129T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:e93ac5cb-afd0-402f-a99a-83d7de88f019@e93a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231213T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:c073c744-652c-416a-a5cc-87eaf9e8c76d@c073.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231110T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:83297479-bc18-4f41-91af-94baf558f04c@8329.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231115T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:c00a9731-58e4-4945-bfaa-6629d8737c95@c00a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231124T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:ed2c11d8-aba1-4634-b112-d6ce938d6a35@ed2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231214T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:533d1986-bff2-4457-9562-c650f18472cb@533d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231129T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:2deea144-c8b0-4ff9-831b-ec409cec559f@2dee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231018T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:240af052-0346-40ed-8cfd-e077a91e9c3f@240a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231120T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:75643bac-88f5-4e90-ae87-169555ec44c4@7564.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231103T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:4f0067ba-b256-4aba-bc23-48ffb4701063@4f00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231020T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:cab67957-c2e0-40d9-b65a-b24a4bd8813d@cab6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231128T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:38771872-a6c7-43e2-acf7-58345b3d87f1@3877.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231124T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:859015fb-90a1-49ed-a14b-ad9548171066@8590.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231025T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:7e226d43-e2cc-4253-a44a-85bea8ab849b@7e22.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231128T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:8bed5f47-b0c2-4929-9bbe-513469cecfc4@8bed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231025T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:1178a01e-0140-425e-abec-ed1b83f1b83d@1178.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231025T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:8fe63da8-bcc9-489e-b760-8832eada78b1@8fe6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231213T100000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:a66f5373-20a0-48d4-8ed2-58516a8eaccc@a66f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231215T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:188d3a3b-46dd-4401-8dc2-c7534c700705@188d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231102T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:23fcb55e-6d5d-4053-a23b-48d999a6b270@23fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231206T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:12f293e7-5b19-4a71-adb2-4afcce7010fc@12f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231202T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
+UID:9b83f7c8-1f9e-4815-9247-e129370bd765@9b83.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231023T060000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:c8ddbaf6-7288-470c-aa74-75d8d7d55294@c8dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231214T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:a4989cdd-f2f4-4193-bc52-cee02bd0a30b@a498.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231104T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231104T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 1)
+UID:09a62069-4f22-4efa-b035-1a8bd0f9dd24@09a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231012T080000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:f72c1073-78a0-4864-8bde-b49d8ec7f256@f72c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231209T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231209T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
+UID:e7a5651e-a80a-458f-9e35-ddc28a6b01a6@e7a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231107T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:e050ffe4-ef8c-4783-b6fd-515df3b1f3c2@e050.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231127T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:0f1d92bf-28f2-43a0-8bcc-d8983278647a@0f1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231114T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:88a63a72-ad95-43e0-80a5-dee4ec655279@88a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231205T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:f33ce92c-e173-4625-afc1-b16eac19d54b@f33c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231103T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:72d7d86d-0fef-4d89-b424-ef7b8136cea0@72d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231125T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231125T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
+UID:477123e2-58dd-46b6-b493-127337c4dd94@4771.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231213T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:88d9c74e-fa49-465f-8f67-3bd0ba72f829@88d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231113T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:08ea7c2c-07a4-474e-a5fe-e8e84aa1b49f@08ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231010T080000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:32b7e38f-6339-46a0-ab75-c6a45b353534@32b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231108T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:ab7ceb7c-c230-4867-a2aa-ff042222c432@ab7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231104T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231104T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
+UID:a5e09eb1-9541-4985-9560-ffd62f0ce80b@a5e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231110T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:41b9768b-246d-4a47-aa8d-e51394e2b080@41b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T160000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231202T140000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:306bbdc9-c4f4-4b2e-a887-17893c97ad66@306b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230928T002742Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:90a65715-5cb1-4b6d-9f8c-45471cd3e99d@90a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231115T100000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:2374ef60-930d-4d8c-9f1c-a8ed93fefd47@2374.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T110000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231016T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:88aa029b-20f7-42b7-ada2-c8180557a110@88aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231031T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:b81401d2-40df-4e3d-ac6f-c23ca6031c72@b814.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231122T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:71111cb2-69bb-4380-9daf-aec6b7a9dfa5@7111.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231115T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:a3c9fbd1-d7ad-4eda-a469-a8660c842835@a3c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231206T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:dc011b3e-5a06-4b07-93a7-98a5fb7ed025@dc01.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231215T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:9ed03c8d-c749-4c83-b7e8-9ee2489e8b39@9ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231206T100000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:46cb9960-38a3-408c-a87d-8878f79b3032@46cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231215T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:ab0b4db4-51ac-427c-b86f-624001bf4967@ab0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231026T060000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:0c6353fb-9e02-455a-9650-d65c7290cf2d@0c63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231211T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:3239cf33-f0b9-41ee-aa15-c35422d49444@3239.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231011T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:f51a9ce3-bcac-470b-93f8-73dfb230e515@f51a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231013T080000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:42b7cf7b-fde5-480f-a498-0e14f9925da1@42b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231115T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:34d9866b-213b-4fe0-aaae-fb4211ca4cfd@34d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231125T160000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231125T140000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:a02fd738-000b-46a0-bfc6-2f5151d5a501@a02f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231016T060000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:6b193218-0977-47e3-b6c4-37c5782d7c68@6b19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T080000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231010T060000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:26d82f20-7d5d-42bc-a578-7bb1e06ace22@26d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231114T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:8ae96ce4-cbb9-426a-ade7-02a9b2a608ab@8ae9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231212T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:882db497-10b7-4961-a07a-4dbee6c86649@882d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231108T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:7cca6232-8517-42df-97be-356b3e5e5712@7cca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 5 [Palazzo Antonini]
+DTSTART:20231111T110000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 2)
+UID:4dba8c25-4471-4221-a69e-4993a7150e6f@4dba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231129T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA GENERALE
+UID:37dc0429-287a-4411-8f0e-4cee1c8a6747@37dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231207T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:1bebbcc7-9205-4bc8-ba36-926a49ae779c@1beb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231124T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:c1aac219-020b-4ec5-b103-cbdb22c5330b@c1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231011T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:0dd85cb8-dfc3-432e-9919-8079ecc6eabc@0dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231206T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:f58549e0-e1e0-45ed-9404-c5e85d03478b@f585.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231114T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:d9d787de-7d13-4798-a583-8431effe8f61@d9d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231116T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:a84c2aa2-da4a-40c1-b987-867e586607d0@a84c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231025T060000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 1)
+UID:935b927d-92d1-4f19-8b66-da63d554ecd5@935b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231018T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:af45a9b5-0c43-41ef-b309-56e7b2d5b5d8@af45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231127T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:0f6426e8-a477-418f-9d2c-a7df1e2fb014@0f64.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231212T070000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:3660b412-28b4-488b-9567-9b0e6641403e@3660.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231120T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:22745aa8-705e-4bae-bd8d-fed515fc1e69@2274.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231121T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:b97649e5-db07-49cd-9356-c127f7946889@b976.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 12 [via Margreth]
+DTSTART:20231201T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:a7b7f966-e9f2-4118-ae0d-7c2b832991dd@a7b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231030T090000Z
+SUMMARY:PEDAGOGIA GENERALE
+UID:61224947-f55e-4ffa-9d76-76d55cba8045@6122.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231121T090000Z
+SUMMARY:PSICOLOGIA E PSICOBIOLOGIA DELLO SVILUPPO
+UID:ffc4c880-7eb7-4dd7-a10b-83981d3f9020@ffc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T130000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231213T100000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:b43c21c1-073f-432b-9cc1-49810831c9e7@b43c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231014T150000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Aula 3 [via Margreth]
+DTSTART:20231014T130000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE I (GRUPPO 3)
+UID:14afd4fa-8e21-4796-ba13-2bda8bcb029d@14af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231106T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:9e7eda5a-a4e4-4b7d-83d8-5645100e5d8b@9e7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231117T070000Z
+SUMMARY:METODI DELLA RICERCA STORICA E DIDATTICA DELLA STORIA
+UID:e48e62b3-203b-44dd-a931-d457815943b2@e48e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T090000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231121T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:831437f3-2787-4b5f-a9af-7882d7b124a1@8314.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231204T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 1)
+UID:094ff42b-d9b6-4c51-90a9-96f31595677f@094f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T120000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231011T090000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PEDAGOGIA GENERALE (GRUPPO 2)
+UID:f2707fa7-fa8d-4630-ac93-459d2f474091@f270.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T100000Z
+LAST-MODIFIED:20230928T002742Z
+LOCATION:Auditorium\, Aula 12 [via Margreth]
+DTSTART:20231206T070000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI DIDATTICA GENERALE (GRUPPO 2)
+UID:4fe24145-6a20-4d17-a81d-5848145307cc@4fe2.org
 END:VEVENT
 END:VCALENDAR
