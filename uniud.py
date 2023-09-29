@@ -73,7 +73,7 @@ def get_course_lessons(
             lesson = Lesson()
             lesson.id = cella["id"]
             lesson.room = cella["aula"]
-            lesson.nome_insegnamento = cella["nome_insegnamento"]
+            lesson.nome_insegnamento = cella["name_original"]
             lesson.docente = cella["docente"]
             # lesson.mail_docente = cella["mail_docente"]
 
