@@ -72,7 +72,10 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
 
 
 def main():
-    shutil.rmtree("./ical", ignore_errors=True)
+    # Delete all calendars
+    for f in Path("./ical").glob("**/*"):
+        if f.is_file():
+            f.unlink()
 
     ordered_years = sorted(get_years(), key=lambda y: int(y["valore"]), reverse=True)
     assert len(ordered_years) > 0
