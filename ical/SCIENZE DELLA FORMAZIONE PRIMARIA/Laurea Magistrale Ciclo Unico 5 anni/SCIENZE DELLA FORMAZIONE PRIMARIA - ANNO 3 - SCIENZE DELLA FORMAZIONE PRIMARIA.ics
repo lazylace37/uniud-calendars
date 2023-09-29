@@ -2,1617 +2,1617 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231012T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231012T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:db2c456f-5a3a-4a33-9164-23e215e7146b@db2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231211T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:5dc82f43-29b0-4084-ba81-70ef974d3db7@5dc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 18\, Aula 19\, Aula 17 [via Margreth]
-DTSTART:20230921T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:dc2fefea-3eda-479f-a450-dae4efb62229@dc2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231113T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:894417ee-378d-4d64-b047-74e7e76e6495@8944.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231211T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:23a61d74-7a54-427b-8a84-ebc233ddae2b@23a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231211T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:fbdc97ef-5082-4032-ac01-271a2ba35da4@fbdc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231127T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:382e2c61-ab36-4eab-a669-69515fcd5d15@382e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231023T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:a367eb7c-e4d3-4366-87f6-a5eadf1f59e0@a367.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231009T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:2e748e4a-ef2a-4c1c-815c-0db578d3b2e1@2e74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231009T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:249feae8-dbca-4615-83c3-3f33a4327e26@249f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231002T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:fe6e3f25-a12e-4e5e-986c-519e11425248@fe6e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231024T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:83a884f3-117a-4f50-9b67-d50d10db7bac@83a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231127T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:bf765377-6820-4e83-b3e1-8ac6be92f42a@bf76.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231205T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:a11405d9-b6a6-42b5-88df-0809c8a77291@a114.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231207T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:3d7eea9c-1f77-42c8-bc0d-cc41a4dd89db@3d7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231204T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:40e34ea0-e796-466e-ae17-2208e80937b4@40e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231130T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:4de39a62-87c9-4543-a934-fb8e139cec55@4de3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231107T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:59067f91-7b44-4b4a-811c-bb9642a83a91@5906.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231031T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:34a92a5d-84c8-4135-803c-518e2409999b@34a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230918T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:8f688902-f101-47b6-9bd7-9a1c3e4b3d43@8f68.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230928T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:556cdde1-c153-4010-aa61-526bf6f1d95e@556c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230925T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:35caa0bf-ac0a-4ff7-9d8f-3c0050f01dfc@35ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231204T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:9fcec48b-f862-4710-adb1-ba5660a76169@9fce.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231129T170000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1 [via Margreth]
 DTSTART:20231129T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:0cee857b-ed40-4023-bd51-1577b54107f6@0cee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231026T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:04da447e-a23e-4ecb-abe1-bcf67cc2647e@04da.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231127T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:cf21321a-0e05-43b6-8389-0c71d35b9598@cf21.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:78d4a219-062a-48c2-8108-c12f2dec1e05@78d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231106T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:df098835-0f21-4c68-a8f6-c01f4e1aae6e@df09.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231109T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:abc868ce-9424-458a-bd29-af95fd3ec7a8@abc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231026T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:652a7c8d-a397-45f2-88aa-be4e4a41dc2d@652a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231030T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:5ac625ba-aa08-4401-bebd-01a172f0a4ba@5ac6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230928T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:1856939d-5a4f-4ad1-b2ce-e95c81040bcb@1856.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231030T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:94127f97-403e-4877-9803-3fd751a6a603@9412.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231114T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:6033818b-ce13-485e-8184-24f670f1404b@6033.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231124T130000Z
-SUMMARY:Tirocinio 2
-UID:dbdbb7e6-dea9-4999-b452-1631e85e6151@dbdb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230928T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:619824a2-100f-42ca-ab41-47e5c298f283@6198.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231109T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:ad30ca7c-8e54-4556-861c-49e63e7dd92a@ad30.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231018T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:5ea9b778-1f74-4611-994d-fdacc8c27b8b@5ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231002T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:b65981a0-af4a-4cc7-9f82-dc10dd669c5a@b659.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231117T130000Z
-SUMMARY:Tirocinio 2
-UID:acaadb4f-7df6-4b0d-a386-1056dca62455@acaa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231103T130000Z
-SUMMARY:Tirocinio 2
-UID:41a389b5-d75f-4880-98e8-4ccc49741fd8@41a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231213T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:98331782-934a-4e91-812b-c9f690decde5@9833.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230919T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:b8169df2-8f17-4927-897c-dedbb056f92e@b816.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231012T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:8551796a-951a-4f60-8b9a-45f5aef42117@8551.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231120T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:57a23c93-e1fa-47f0-8465-7ddca8eaca1e@57a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231031T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:d5fb2532-bd0f-4070-b5e0-c5e5feeddefd@d5fb.org
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:d986bb17-8419-4b9e-9a99-4282052ecf6f@d986.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231127T120000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 2 [via Margreth]
 DTSTART:20231127T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:f588a977-da43-4a77-8f5b-d07454c09388@f588.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20230927T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:41b5dfb1-1f6e-4ea6-abfe-9e493afbf001@41b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231215T130000Z
-SUMMARY:Tirocinio 2
-UID:4d7787cf-5df8-4513-a5d8-16dc6a955170@4d77.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231206T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:2bf3da66-7f28-4e67-ad71-ec8353d603c2@2bf3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231214T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:b1765d18-dd80-4e15-8098-37cfe5d9c859@b176.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231102T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:db7029b0-76cf-469d-99b0-d8c96f921187@db70.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231017T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:cc9c26d0-38a6-4661-a7da-15889c66497e@cc9c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231030T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:12197c0f-be52-401a-a9ed-334b822cbf4e@1219.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231006T120000Z
-SUMMARY:Tirocinio 2
-UID:87f34429-7a48-4104-91c8-d4d5e4688299@87f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231020T120000Z
-SUMMARY:Tirocinio 2
-UID:6506535a-fef6-4650-bc62-3ab4723cffcf@6506.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231026T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:66113294-3e36-4a6a-8f2b-7fc261c6af9a@6611.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231026T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:5dafd1d4-ddc7-42a9-abf7-9a2d88ae502a@5daf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231019T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:3784d04b-eb88-4bcd-ad74-cecf51262e68@3784.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231113T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:2eb9ef8c-5457-487b-8e5c-9c140d7a2596@2eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231122T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:6068f207-eb0c-4388-8e9b-495aa91e7b2e@6068.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231102T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:4af6c242-b482-4bf4-aeb5-7572c064dd7c@4af6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231030T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:19ba537a-0d64-40b5-bf07-478484b3686d@19ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20230927T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:25e8e6cf-c3d6-4111-8bd3-c40ad152617c@25e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231213T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:ddd1ee8c-b823-4a4d-886b-acb020ea6343@ddd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231010T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:12d719ed-dc54-4b18-9b78-fc86a89ba3cd@12d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231205T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:ebaeb48e-c479-4c4f-bdf7-33878ca3a8f9@ebae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231004T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:88d630e3-0785-48e5-aeab-b33f230d01ea@88d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231123T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:6be4ea37-38b1-4564-b4b4-07afd6107c1e@6be4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231003T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:327d4d12-b5ea-406d-9aa0-d8f70660ae42@327d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231023T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:78d200ad-d996-4184-9c2b-d94dc3cd2407@78d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231211T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:82eb31eb-ff1b-40bc-95bf-536df8dc234b@82eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231113T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:eb4d6581-45e4-4bb8-94bd-71763d8af2f6@eb4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231121T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:10ee11b7-b72f-4e64-bd23-493e31cb5b66@10ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 18\, Aula 19\, Aula 17 [via Margreth]
-DTSTART:20230921T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:f6e7f601-d95d-44e2-83da-623a08e6bec1@f6e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231025T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:6f563727-c6ea-491d-924c-264224c9b367@6f56.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230926T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:28589b86-df9e-4818-8590-1ce6dc1495cb@2858.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231102T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:5acda21b-765c-42a1-ab3f-adf27aeb1d86@5acd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231212T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:e4d05ce1-2be3-4923-8137-753f5204af17@e4d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231204T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:7fd0bd4e-78ae-4ee1-8725-a4d42a642b68@7fd0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231016T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:1c541545-fd5c-48dd-a41c-e0db7fcaaf63@1c54.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230918T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:51e9e2cb-6ea7-43db-ac55-6cca8769cc20@51e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231123T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:daa078c0-b524-4cca-97f3-b778f5874107@daa0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231019T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:3329ce0c-038e-4a9d-930d-570eb78d13c2@3329.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231121T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:9baa16f3-346e-4113-9d39-1b6d9a7bf78f@9baa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20230928T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:7e51edc4-734e-4e82-a529-b2dce24956ac@7e51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231129T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:28453444-943a-4547-a14f-76b990948e27@2845.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 18\, Aula 19\, Aula 17 [via Margreth]
-DTSTART:20230921T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:975b0cbc-086d-478c-b4cb-ab9dd92a6800@975b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231023T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:9147b99a-53ef-453b-8e69-e0310def63ae@9147.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231016T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:ac3a1fa4-6a33-44ea-84db-9e9da82901e1@ac3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230918T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:72e21a03-ad91-44e0-9bf9-7337aa30cb33@72e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231214T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:8b285db3-2baf-4350-8fad-b9f32029e3a9@8b28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231122T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:11bff6ee-abae-463d-a7fe-de929954f353@11bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230919T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:8913f341-a976-4330-a010-36dbbe50e34b@8913.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231130T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:0ba0884e-0673-4e2c-85b2-98fdcfce7bf4@0ba0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231019T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:5c205001-30e2-41f2-abc6-50cb5d9e432a@5c20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231106T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:d5edb79e-ea39-42e9-9343-e9aea2b5b118@d5ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230927T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:80c71b25-ac90-494a-a00c-70957aee3055@80c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231025T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:587b2169-0fc5-418f-9ccb-64b4c4f65101@587b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231018T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:fa38c33c-ec6a-4462-8e23-2e5b367c98d2@fa38.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231211T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:89eff975-8b68-4472-ac9d-a0caf5ba677a@89ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231002T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:b108fd4e-1de9-45b9-a350-4962da589bac@b108.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230925T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:16de9960-4490-410a-886e-6f534a93aa53@16de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231206T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:a18e9bf0-2d7f-4b8d-9d71-91fd16c6f725@a18e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231123T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:4fbff6f1-4c4f-4cec-ba8f-dc4a8ceddbc1@4fbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231005T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:ab52ed69-bfbc-4255-aa08-bd5dce0bd245@ab52.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231025T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:7a39b69c-878d-44ac-a4fa-0673d20ad336@7a39.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231115T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:b8e5bafe-60c8-41f9-b5a4-090e0f1e1f33@b8e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231106T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:ed290c50-0ff8-4955-a08e-a6d7a43512bb@ed29.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231211T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:1727af87-6f28-43a4-bee8-862bc74dd4c2@1727.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20230920T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:f87d1763-8722-476a-bd6e-5cc5601cfac7@f87d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231108T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:c7d24f32-6b02-4266-8c05-e1127c56568c@c7d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231204T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:2521a12f-51eb-49ea-88bf-43024a3e0cf5@2521.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230918T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:d3b239c5-680c-4634-b420-b5a86c6e4382@d3b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231204T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:39b74b74-5c7f-4c97-bf4c-60986bb7f782@39b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231019T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:e6512e35-e8a5-4b1e-8c06-032a21b79d75@e651.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231106T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:94096ac7-1f26-49de-a6d3-d86ab91c3148@9409.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231027T120000Z
-SUMMARY:Tirocinio 2
-UID:ad8e0740-1dfd-4a31-bd28-edfe4367027d@ad8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231207T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:01e15f1b-8062-4075-a7a8-c405a9bcd052@01e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231214T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:6a074f11-ad07-4b06-9b05-58be03abb69d@6a07.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231123T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:daf4aab1-698e-40a2-be42-6172b4a551b6@daf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231110T130000Z
-SUMMARY:Tirocinio 2
-UID:ac7dac0c-123b-441c-8db5-f263078213b8@ac7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231017T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:7bb754f3-c4df-4567-9190-8339826b3260@7bb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231114T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:d0d10b73-e448-4c61-963e-2f42abb78bd6@d0d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231024T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:e0bad74b-ad51-45af-913f-8e3698474f89@e0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231120T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:d6450863-0349-41cb-b583-b0c2308c95e8@d645.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231116T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:92214714-2289-4915-83b9-2e6340acb912@9221.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231108T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:4ccb70a2-41e1-4c75-bb5a-219a7192b75e@4ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231016T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:9d22e085-1909-408b-a992-5e220438a569@9d22.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231012T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:a317477a-a6fa-4324-8329-5278448bf42f@a317.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231113T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:407b5e27-c30a-4726-aad5-a53e3551fef6@407b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231128T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:0572cffb-b499-4d32-84fe-f9c60f30eed4@0572.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231207T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:a866ad06-fdec-4012-b232-4b98a059b240@a866.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231113T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:e82dfaa0-2518-41fd-ba6e-e1ae90ffd798@e82d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231213T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:af752921-b122-4d13-9e35-e391c0dad942@af75.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231005T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:8227ac2c-2856-4f1d-8413-08305c2365e8@8227.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231204T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:de22fb8e-84da-441a-8912-232a6aa7becb@de22.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231002T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:85826853-0658-4397-9598-b42e653efdd0@8582.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231128T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:4230b5b4-954f-4b17-8e4a-0fca5c00b684@4230.org
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:f5998f70-d569-478f-8a68-33d8f56601a2@f599.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231018T140000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1 [via Margreth]
 DTSTART:20231018T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:627f3a14-c240-47fc-a7f5-0a32324cb4a3@627f.org
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:1bc97a22-7c5d-4a17-a987-6ef36dc9c923@1bc9.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:6bb0fee0-7508-4d54-be78-cca8751c68a2@6bb0.org
+DTEND:20231124T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231124T130000Z
+SUMMARY:Tirocinio 2
+UID:1becf1e5-1a5d-443c-89e9-910eaa87b707@1bec.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230925T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230925T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:fc910802-50d6-4ebc-917b-e2714df825ae@fc91.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230926T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:d4aa4885-908e-42f8-9b04-1e4e01e6628c@d4aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231023T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:743a1892-5bb9-48e1-bd16-087ce822fb0b@743a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T160000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231123T160000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231116T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:da113ee1-96b0-4a28-a3a3-a614639fc6c8@da11.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231106T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:faf26f25-0ce2-45a6-9388-68e80c2a33e9@faf2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231009T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:5e518451-a650-4594-b2bc-bf7b9fd95c33@5e51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231016T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:1e06478c-9839-41fb-a4ff-2d248b6f867f@1e06.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230925T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:2c5e8807-70a7-4fc1-bb23-babd05cd2f03@2c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231129T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:835e2c4a-dc3e-40a1-bb1d-b04bb411e86f@835e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231116T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:f8f3686b-dbf8-4a76-b50b-8ada7bdf3f1a@f8f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231004T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:06dfb4a1-0e29-4c14-9d2f-3444e0319f67@06df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231120T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:fd59ae75-7e9c-47db-acce-2416fbb21c94@fd59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231120T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:0e0cbf45-ac8b-4144-a281-20bd786db978@0e0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231010T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:1e7164ac-4b24-41e4-91aa-3b166b7941cd@1e71.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230925T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:8193d180-94f2-49ef-a09c-961bc997606b@8193.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231109T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:7b282b58-a78c-4851-8f63-8532869698c8@7b28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231023T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:db3d21d2-4c6a-4732-8813-b47ef80c7c80@db3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231120T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:9ff0dd98-eddf-40bb-9afb-1d345e8e4d3f@9ff0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230925T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:5991cce3-7795-494b-9791-350515d3a3a4@5991.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231107T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:c7fd1431-9dce-46a5-9dcd-6cf5e3ab6ce5@c7fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231030T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:acc9a41a-5ac3-4017-91bd-aa20adbc074e@acc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231102T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:d4a72c75-7362-48bb-abcf-49b0e919f5fd@d4a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231009T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:4d5723bf-3909-4148-a7e2-bbcc7e56b257@4d57.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231109T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:8fa7b9cb-d554-4f83-990e-d9ff0ba2566f@8fa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231002T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:bd9e5b6e-5df8-4d98-8f6a-77702b8b2a4a@bd9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231113T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
-UID:6cc51d21-6227-4782-9c06-b5aa9835574d@6cc5.org
+DTSTART:20231123T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:821073d0-2fed-42be-a919-5eb960f06fdc@8210.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231002T150000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
 DTSTART:20231002T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:1beb3501-514e-4a95-a20b-0944b0c97ea8@1beb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231127T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:dd75e88f-fe10-4ee3-9296-4218b14c8e81@dd75.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20231106T100000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:265116e7-b092-41a2-8d14-b9e8fd064955@2651.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231115T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:23f54f03-6cb1-43ba-8e0e-3b04b7faf08d@23f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230918T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:6ee0b0b5-903d-4576-8113-1e820b5173b4@6ee0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20230920T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:2e09009c-71bf-4c16-8d72-de8c30035e83@2e09.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 2 [via Margreth]
-DTSTART:20230918T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:d4a4389e-fe74-4bd6-bd41-f14fbd480af8@d4a4.org
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:4e9745a6-b29d-4c97-87c1-9a71c3331fe9@4e97.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231011T140000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1 [via Margreth]
 DTSTART:20231011T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:e5fba9e2-c069-4940-accc-ee109775d842@e5fb.org
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:27983e72-17ca-4bb6-a998-0a7d5e1ed752@2798.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231206T150000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20230920T160000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1 [via Margreth]
-DTSTART:20231206T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:05e6a3a1-d0d0-4da4-90db-d2abfc4f6ed4@05e6.org
+DTSTART:20230920T140000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:5a8c0a58-ca6c-4db9-97ee-08af2b7c9866@5a8c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231013T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231013T120000Z
-SUMMARY:Tirocinio 2
-UID:de6a6070-f8a5-45ea-a7c8-0ddc86e05112@de6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231011T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:de410f70-ad0a-4427-885e-2f6bdd7572ca@de41.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231116T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:c31e6f77-d016-4b35-a8bf-462d83e8ca75@c31e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231201T130000Z
-SUMMARY:Tirocinio 2
-UID:3957352c-2941-4c21-9bd7-10b1446d3c6f@3957.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T160000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231211T160000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231030T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:89dc23c9-ba92-4318-82dc-60b3bcbec674@89dc.org
+DTSTART:20231211T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:a508de75-3f1b-4e56-b017-fdd0fd2b21bc@a508.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231016T170000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20230926T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230926T120000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:1d9cd675-0024-4aff-a972-8fa20f69780e@1d9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231016T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:58114b8a-abd2-4dcc-a9f0-d240998a3075@5811.org
+DTSTART:20230918T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:d6b1232a-128a-4679-bf70-5a3a47d0e1bc@d6b1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231120T180000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231207T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231207T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:ab5b3829-fe13-4dd3-846f-444163e9e773@ab5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T160000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231120T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:19fc7721-0e69-405b-884f-7afa60103b9e@19fc.org
+DTSTART:20231113T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:a8faedea-adbf-4e31-b00d-a211f70fd8e8@a8fa.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231005T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231005T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:c9976c69-4998-4f68-ad16-b94737c82a95@c997.org
+DTEND:20231024T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231024T120000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:473a47ee-9458-4f92-93b9-05416c6ff2f2@473a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231122T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231122T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:619d611b-77b9-49f0-9dd3-6d9c769699bb@619d.org
+DTEND:20231016T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231016T070000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:2aa92380-afdf-4a49-982c-6b3cd3365cd8@2aa9.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231115T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231115T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
-UID:8d53e511-6c20-4ab5-880a-1e664f77023a@8d53.org
+DTEND:20231031T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231031T150000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:fdc0e5ea-0e80-49c8-a8cf-5f4485654adb@fdc0.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231214T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231214T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:787ee47e-bfbf-44ab-a3fd-2c7ea85b2459@787e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231005T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:e8803707-c1b7-498e-b9c9-9136c4e64346@e880.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1 [via Margreth]
-DTSTART:20231011T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:37dc8c52-7eb8-40f9-b0e3-fe45d1593ad1@37dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231012T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:929dd87b-9b14-42db-b504-82844cc5227b@929d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231130T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:74031938-04f5-43ca-b573-dc67f9c537ec@7403.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231113T160000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231016T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:4048715c-404c-42f0-a36c-e852d165e05b@4048.org
+DTSTART:20231113T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:11ef32ff-3acd-4f9f-9bd3-3cb795e5a712@11ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231204T100000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:9b80c26e-53e8-488e-b03a-86b8a51baa1f@9b80.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231212T170000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 2 [via Margreth]
 DTSTART:20231212T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:8be4fec8-e48c-4512-b3aa-4747ad12d0d3@8be4.org
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:c6d67393-b61e-43da-8829-9fcaec37ef57@c6d6.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231023T090000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231002T090000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 2 [via Margreth]
-DTSTART:20231023T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:70e282e7-cce5-4391-975e-9bb5d7c2922d@70e2.org
+DTSTART:20231002T070000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:fdfd8e5c-8a4d-4f37-9642-1eec002a990c@fdfd.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231207T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231207T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:7ce343c7-f8da-4d32-8045-0da28b26fd6a@7ce3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T180000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231206T180000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231108T160000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:a403c37b-9df6-4e99-ba84-6f4c8c1d441e@a403.org
+DTSTART:20231206T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:66b72c16-7b92-4cae-a214-249bb74a459d@66b7.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231127T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231127T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
-UID:880c1f2c-7fd5-4ca1-aaf5-f72401722313@880c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231009T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> DIDATTICA DELLA FISICA
-UID:5961f38a-c5e0-420f-896d-0e20741ee3b7@5961.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T160000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20230920T140000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1 [via Margreth]
-DTSTART:20231004T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
-UID:30400786-0d2f-4de4-8498-f9785554126c@3040.org
+DTSTART:20230920T120000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:448d2fa4-c68c-4441-a716-6c92d3be42f6@448d.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231130T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
-DTSTART:20231130T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
-UID:fd8e5eef-d10a-49ae-9bc0-2aa4a4233bae@fd8e.org
+DTEND:20230925T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230925T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:1236591b-9af6-4b8b-a4eb-cffbd67bf083@1236.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231009T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:9978807b-032a-49b4-b256-3fec1c22d355@9978.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231003T160000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 2 [via Margreth]
 DTSTART:20231003T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 2)
-UID:489b7be5-def9-4f6a-819c-26b18c8576a7@489b.org
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:93e27910-fb76-46a3-83b4-74bb3dfd1589@93e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231207T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:ca52634f-d2e5-467d-9121-52de8450e040@ca52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231009T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:6d2592b4-5308-4191-ac10-fe50174dc702@6d25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231214T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:00f9218d-0581-456c-8c97-fc5c882e0a0d@00f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231016T090000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:f4d5b00a-9604-447a-b239-1b84eefffa99@f4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231215T130000Z
+SUMMARY:Tirocinio 2
+UID:bb1bb5b6-7e5b-4986-af4f-c06a2c3a5529@bb1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231030T100000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:944d8797-a0cd-413c-b260-95f588a287c2@944d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231120T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:f888b316-c59e-4fcc-af85-032ca725b478@f888.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231129T130000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:e1fbea22-de0a-4d44-90a8-9ff7681d9122@e1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231211T100000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:6cab42af-49fa-4a92-8fc3-67c562013fee@6cab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231204T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:5d99e12f-2135-4e56-ba7b-397362f2237f@5d99.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231106T080000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:0807d6bd-aba1-436b-a51a-d54c0d8c9936@0807.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231114T130000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:8badc38e-cc69-4d2e-963e-1e96730eda6f@8bad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231123T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:4f1a6fd3-db64-4a3a-972e-0e8825c32af5@4f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231206T130000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:029f475a-6a56-4324-b891-1ad7d47b441c@029f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231108T130000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:9b629aa3-4d73-4ee2-bca7-88af461185aa@9b62.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231106T100000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:4a9e2478-c38d-4fb0-9d3a-b78a9c4d3275@4a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231002T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:e9b43897-7001-4056-8eda-0aa1de935ee3@e9b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 18\, Aula 19\, Aula 17 [via Margreth]
+DTSTART:20230921T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:ba4bc345-55cb-4b19-8905-18454e8f9103@ba4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230925T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:228e1798-2ec8-4a29-942c-b4832c0ae66a@228e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231030T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:4af1920e-9445-4032-86b7-9b6a97057c53@4af1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231023T090000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:5cb6c349-eef8-4dee-98ec-06ec2282bfa2@5cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231103T130000Z
+SUMMARY:Tirocinio 2
+UID:807a5393-878d-4a9d-a09c-1d1518e75afb@807a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20230927T120000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:8cb84a85-fbad-46e1-a05c-42ca4bec9ad3@8cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231115T130000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:e2879312-7188-4a57-b101-bf8ec4ffa836@e287.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231120T080000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:27729603-32a9-41ab-9b10-6a3e234eee9a@2772.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231023T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:acffe681-e627-4047-ae60-11ea0d801586@acff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20230928T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:74d9661f-06d1-4aaa-a09e-55e2cfa85164@74d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231116T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:45128ebe-cc56-43db-8239-38ba97c90483@4512.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231002T090000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:2e2ff9ff-9d01-4c6a-9065-d93201330f11@2e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231025T140000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:6fda24ec-36fe-4115-a6fe-bee43c451860@6fda.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231211T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:59935c1c-65e4-488f-aa05-e87a88e4c9b5@5993.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231211T080000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:e4397e7c-5915-425f-81eb-f9fc1d859338@e439.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231030T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:b2c1c94e-e39f-4642-b2b9-da2a210de21e@b2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231204T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:fc18df56-57a5-4049-875c-f667d0fb3a23@fc18.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231016T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:cdfe5ef8-7a00-4d3c-8b34-829ef029020d@cdfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231102T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:38faf579-470d-4fa7-b78b-5c6492037b48@38fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231206T150000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:b1a8ef25-dfeb-4271-a267-d0468e601d8b@b1a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231005T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:3ce8783b-05f0-42d8-8221-737ef41c8d2e@3ce8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231211T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:cee0a37b-f572-41cf-922e-d1fe120a4b86@cee0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231010T120000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:3d514909-bf30-4ceb-9947-4febdeeceb0a@3d51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231130T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:71d16f52-bad7-4f29-be4d-dd857916bd63@71d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231013T120000Z
+SUMMARY:Tirocinio 2
+UID:53115e6f-d837-4882-be5a-5c8ec5d7d5d8@5311.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231004T120000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:cc4fbbf8-57a0-4705-b61b-88a5fc894146@cc4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231214T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:c67ba18b-68fe-404d-bacd-61ae24629529@c67b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231023T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:9fe95416-8052-4189-af7b-ff9ff7297cd1@9fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20230927T140000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:c0fc0746-ca1a-4f9c-a9c3-42fa75130e5f@c0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231108T150000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:78296414-a2a2-4961-9e2d-20a1e6a6eddc@7829.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231121T130000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:f513533e-eed8-49bf-9eb9-83d11c350f5a@f513.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231018T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:28c16df5-074e-4683-b46c-0883c07d02de@28c1.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231009T090000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 2 [via Margreth]
 DTSTART:20231009T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE III (GRUPPO 1)
-UID:13e2cee2-cb56-40e5-a89a-25c010034051@13e2.org
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:51db59d9-2fb8-4f6a-8183-a3a929f0a74f@51db.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20230928T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:73d8a49a-c89e-4b01-a4e2-beee8b75a7c2@73d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231009T090000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:6a0e4424-1116-4b51-a95c-cc701cd5bffe@6a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231026T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:c93de17f-ad9c-4859-843b-c9d4ab904002@c93d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231005T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:bf856345-7869-4824-9ae0-61a2a535706d@bf85.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231109T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:15ae0150-2c6c-4651-8a18-c25fc4a559aa@15ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231205T150000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:4f2010a1-ba15-43cc-823b-3337659a6cae@4f20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231115T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:78cea59f-d256-4fe3-b19c-e212e0fbd552@78ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231110T130000Z
+SUMMARY:Tirocinio 2
+UID:8c10f561-6ab2-4d47-864b-c123c0bb672d@8c10.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231108T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:49141bf9-8f1b-490b-b034-73a1a880b6ee@4914.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231122T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:bd201cdd-3134-40a3-8b12-95598dca6187@bd20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231016T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:ca513ae4-d27d-4441-884d-7308722ecf00@ca51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231213T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:7964a285-d11d-46bc-b8e7-e4099b6cb828@7964.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231122T130000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:620de73a-4494-472d-aed1-a17ce7ba5d78@620d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231106T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:f37179dc-3da6-41ce-acf9-8ed75354c124@f371.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231023T070000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:2abedb1a-d48c-4ac4-87c3-24e912a6d9d5@2abe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231113T100000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:10f04ba4-e68c-4e62-99e7-03d0b53ce02f@10f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230918T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:90c8152c-eba8-437d-ae63-3ad81e2c8634@90c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231106T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:b44466ea-3ec1-4e32-9d66-fc0f1710fe05@b444.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231019T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:b7540895-e226-48d2-ba07-f1cf5728d970@b754.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231201T130000Z
+SUMMARY:Tirocinio 2
+UID:7eb016b4-3f4e-495d-8b38-60a928442113@7eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231023T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:f654322e-97ad-4ba4-bcc1-0fa822c7dd58@f654.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231129T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:f2c1e4b6-7565-4469-8808-112a3bfd8dbc@f2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231128T130000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:ae657ec5-e869-49bd-a216-c2f499e46226@ae65.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231116T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:efe832b9-1dff-4613-95e8-2687ecb2b72c@efe8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231213T130000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:41ad0695-6eda-44be-b958-2e05daaa574f@41ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231109T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:dc3e926c-75bd-4dc8-8a8d-278fa4112959@dc3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231214T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:5d6bb8f9-dab3-4044-93b5-590cd37341df@5d6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231204T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:71fca195-620e-4063-9387-5003eefef4cd@71fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231204T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:c18ccc58-6281-41fe-826d-3e1940e7ca31@c18c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231127T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:61a087fa-eff7-438f-bf21-698a549f25b9@61a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230925T070000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:40bbec7a-b65b-488d-8366-fc7558404109@40bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231107T150000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:4e8c5a12-2643-44eb-ad70-fef053488938@4e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231117T130000Z
+SUMMARY:Tirocinio 2
+UID:c7b70e29-522a-4d14-b61b-0859d5dfd0b6@c7b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230919T120000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:eddf68ad-daeb-4f34-aab4-14aa95101b4d@eddf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231003T120000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:c24be580-9482-46b1-8595-a9278100c60e@c24b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231128T150000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:3ef58d73-78a7-4c2b-8311-243b15a5b486@3ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230927T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:1ca39fcc-e402-4643-a2bc-a864ea0a4c37@1ca3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231211T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:6607f8c1-d86f-4bee-ac10-cbd5f2b47a28@6607.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231009T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:a71f5e75-96ba-41ab-b01f-48306c54950c@a71f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231023T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:2d3ff430-88a0-436e-80fd-d352fc7a0d9d@2d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230925T090000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:0a5f5b49-2aa3-48dd-8487-02e6f56cf399@0a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231018T140000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:bce224cb-7f83-4c5b-a5a7-04939a0a02dc@bce2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231011T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:5e279099-752d-4cdb-ba11-6fb98e52371b@5e27.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231107T130000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:2504c3f1-53e7-4000-a182-081e26170c14@2504.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230925T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:d812a864-8b32-4eff-b3a3-697e83840d47@d812.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231010T140000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:5663df84-a018-4950-ad26-a3c9d4a145a3@5663.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231106T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:e8647387-636d-4c2d-8c7e-146952390d7d@e864.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231006T120000Z
+SUMMARY:Tirocinio 2
+UID:142db3a0-c740-45e7-9f55-20d8fc064296@142d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231025T120000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 1)
+UID:f8f00fa6-2f6d-4e9e-8ecd-63c810e0aeb8@f8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231115T150000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:6e2fa832-06f8-4ba3-9c15-5bc7c2bd906f@6e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231030T080000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:3329e1d5-ebe5-47ce-a5ee-7c40f664c4d6@3329.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231012T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:d7a42d90-0fdb-47b4-bcb4-e58d9ecd7a0e@d7a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231012T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:b74365cb-b393-43b8-a964-0113cbb0f4a7@b743.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231204T080000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:9419c16e-11ce-4b15-8bad-bf4e12cad74c@9419.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231212T130000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:588f6e48-d0b8-4af9-a5ae-e46859bc33e8@588f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231031T130000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:9c71b772-669c-4e39-9d51-702c5d4e7274@9c71.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231026T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:c83dcca9-a618-4df6-9557-03f68eb68694@c83d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231012T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:14027674-9007-4cf3-9a40-3dccbabcc1f9@1402.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231120T100000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:c43ad72f-a2df-4707-bf9d-9324650ba0a8@c43a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230918T070000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:eacdf69c-f3e1-4e79-ae38-396e0cbb6ec1@eacd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20230928T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:2527a84a-2cb3-4fac-8532-82be1dd34267@2527.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231009T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:23a5f93a-d78e-4682-9189-bee53518ff38@23a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231109T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:959fafe7-ce8e-4427-b2f1-8cb83c59e871@959f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231025T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:7c60a837-56f0-4f96-b32c-ef8e43f34e4e@7c60.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231026T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:e9220514-7b67-4c38-b68c-282b48b558d7@e922.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231102T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:371513e6-8155-4af8-9f07-e6525261e7f6@3715.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231122T150000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:f6aea50b-ac16-4ffa-85ad-1af9fd0bd0a2@f6ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231120T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:af4c07f0-16dd-49dc-977b-57c0b00cf6ee@af4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231123T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:e02ea632-7dec-46c6-af75-38e1a0d9bb63@e02e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 18\, Aula 19\, Aula 17 [via Margreth]
+DTSTART:20230921T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:9f9b1a98-789d-4d2b-98ad-f6eb80413c0f@9f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20230928T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:f1f5d8ce-c11a-4e18-9aa1-2c0b16e2cb8b@f1f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231207T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:a8726fe0-f8a9-4dfd-b282-cf4350051979@a872.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231004T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:413981aa-b8fc-4515-b195-583479af4774@4139.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230919T140000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:c03a67d3-2285-4b93-8c4c-3c8cd5e161bb@c03a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231213T150000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:768a0422-56fa-44cd-ac01-1010adc9007b@768a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231130T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:7816bf2b-954e-4911-8040-6b5d197c4899@7816.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230918T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:e924ef25-1003-42fa-a0c9-bac13fd37ab1@e924.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231026T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:7e7a46b0-ad50-442d-8e8e-414b1561decb@7e7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231121T150000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:a4fcbe27-2617-4ba2-b17b-831b84fb0ea2@a4fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231127T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:a51240ed-8819-4b99-bc48-872bcbe527fb@a512.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231020T120000Z
+SUMMARY:Tirocinio 2
+UID:5050b001-0525-4e01-805c-14729365ddda@5050.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231214T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:02a6bce2-4eb5-4cda-908e-995e2da2dc00@02a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231102T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:ec5eed83-8ddc-452c-9c4c-1c0e6d2e7c97@ec5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231123T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:b2fdeab5-248a-43a4-8612-47070ccb362d@b2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231005T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:9283d716-19dc-4c8d-92da-f63489c7a214@9283.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231017T140000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:88e8adff-f66b-429c-b065-d2d149fe37b3@88e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231113T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:8c08b4a9-5194-40c3-b645-9294e260bed8@8c08.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231019T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:d3810736-cc7d-4588-9a34-d4d92cf5c853@d381.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231130T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:d83ec517-4a7e-405d-920a-0cb8ef0f7dd3@d83e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231016T150000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:5465f6b1-6a80-46e5-b85c-4484bc51e541@5465.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231113T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:ab9c7a95-02f4-40c3-996f-aff387dbed98@ab9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231002T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:e7938a60-f1a2-4335-b3c1-0c91281a3f1a@e793.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231130T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:2f4bc1c1-47fc-41b9-af6b-6de5fbf3fd74@2f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231207T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:cebc8215-f462-4b38-bd16-c5fcba39b30b@cebc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231127T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:0a6040d0-07a0-4cfb-b918-680d7f801a54@0a60.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231205T130000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:1f4e3818-5a60-4406-bf78-8ea39053517a@1f4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230925T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:91af8cee-ab9c-49ec-870f-cc1fbe1f293d@91af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231114T150000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:96880020-4c20-440b-b6f4-8722d4109450@9688.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:0b560f06-4866-40ec-b75c-5bddce11d0e8@0b56.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230918T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:169c6042-88ee-41f3-8ef0-2f4fdbeda48d@169c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231030T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:d048f354-98e7-4657-9f2f-d6dd5a6386bc@d048.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231116T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:caa8b2bc-15e2-46c3-bad5-b4eed3bfcdc1@caa8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230918T090000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:dcc2a16c-f225-4ad8-a3f1-653973306608@dcc2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231017T120000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:70d6b95f-2aa5-4ce7-b1b7-5cf77c579c5d@70d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231024T140000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:b1e5c1cc-1eb8-4244-b28d-b7a955dc2972@b1e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231106T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:b276c0e0-065a-4f7e-9815-f2a3e7e382af@b276.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231012T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:0417b316-5ce0-495c-83ab-d414e95f6e87@0417.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231005T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:ee5ea8eb-1622-4678-9437-556917caf483@ee5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231127T080000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:6b98e0da-7b74-4161-9edd-66a72237eb3d@6b98.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231027T120000Z
+SUMMARY:Tirocinio 2
+UID:b99fd92f-63b4-40d7-b0d9-c37cd45fe87f@b99f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231120T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:21cdfc93-1448-4dc3-82d7-ceea4f9982a1@21cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 18\, Aula 19\, Aula 17 [via Margreth]
+DTSTART:20230921T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:522ae7cc-6d8c-40f0-b437-4a397a83b654@522a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231102T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:1bfc41c0-e284-4edc-9534-e9d7d12bd846@1bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:925617f1-794e-4d4d-a2a6-f612eceabdeb@9256.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231011T140000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:109877eb-52ae-4e3c-a1b9-04ad23e4b0d0@1098.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231127T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:ed0b51ec-dcee-44a5-a43b-62813f8a0494@ed0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20231113T080000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 1)
+UID:325b7b2e-c4bf-441f-8d88-ff1cee75d94d@325b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231109T130000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:c2a2b892-03e9-4fd5-b22e-c155e709a1c1@c2a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 2 [via Margreth]
+DTSTART:20230926T140000Z
+SUMMARY:LABORATORIO INGLESE III (GRUPPO 2)
+UID:3067ac94-f9e3-4cd8-995f-29ee2df68458@3067.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231019T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:64f0d956-7bc5-46ec-bf96-2296838e27d6@64f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231116T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:50316998-8147-4a81-a1b7-0d2769c96fca@5031.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231016T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 2)
+UID:22db9e25-b343-481f-bd7e-a19807c00091@22db.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231002T120000Z
+SUMMARY:LABORATORIO FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO (GRUPPO 1)
+UID:3347e687-1b6c-47d5-ab9f-629f820a47d1@3347.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231030T160000Z
+SUMMARY:DIDATTICA DELLA FISICA
+UID:ef2b507d-8e18-42c0-b209-fa22c9eecc16@ef2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 17\, Aula 18\, Aula 19 [via Margreth]
+DTSTART:20231019T120000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:4be814e5-3939-4587-a46d-24c1b2045f4a@4be8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231120T130000Z
+SUMMARY:FONDAMENTI DI GEOGRAFIA ED EDUCAZIONE AL TERRITORIO
+UID:cd62c42f-02aa-4a46-9e7b-bf6d00f768ee@cd62.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1 [via Margreth]
+DTSTART:20231004T140000Z
+SUMMARY:LABORATORIO DIDATTICA DELLA FISICA (GRUPPO 2)
+UID:d9d9731d-487a-4876-90a5-4d3b478a8de8@d9d9.org
 END:VEVENT
 END:VCALENDAR

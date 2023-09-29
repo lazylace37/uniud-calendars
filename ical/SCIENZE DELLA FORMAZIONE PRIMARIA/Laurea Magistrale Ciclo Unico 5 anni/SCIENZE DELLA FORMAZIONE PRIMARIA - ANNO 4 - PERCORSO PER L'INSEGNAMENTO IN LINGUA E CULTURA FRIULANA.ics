@@ -2,2209 +2,2209 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231017T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231017T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:28448d06-bce0-4dbe-ad80-8dfa0f205b5a@2844.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231011T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:452a1202-c5e0-4ff0-8857-6e30de066a32@452a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231004T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:ca1ff112-c3f9-40b3-ad4f-39e55e2c9e6c@ca1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231204T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:acdf220c-e356-4222-a578-1080ca20aa31@acdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231003T120000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:292416b7-47d5-4b5a-82f5-3e832dec0967@2924.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231031T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:5fcbe3fc-cf59-4498-baa7-47c4de5845d2@5fcb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231004T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:badb1df7-59c2-44a6-af51-1ec91d38f138@badb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231122T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:cdeef4e4-541a-4614-baf4-aa2d4e58bf82@cdee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20230920T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:55680800-bc92-4e92-a56b-24871ec80438@5568.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T150000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231201T150000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231124T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:cbe5836b-2891-459a-8c71-2555fc1bf2a7@cbe5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231004T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:2dcd81ac-7031-4437-9072-f1222dce9f3c@2dcd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230919T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:b2b52123-8d23-4954-b755-6c851ccfac0e@b2b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231006T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:f0a62596-c2df-4cee-b460-9dcc0bc3ed12@f0a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231120T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:4d6c9141-e1cf-40fb-ac78-c0cbed7193de@4d6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231018T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:c50608b7-4a8e-4f60-9975-72fde844fb1a@c506.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231110T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:9750017a-7b9e-4643-b9ad-95ac597166d8@9750.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231113T070000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:5c58af0e-c7cb-4e39-975f-e15221ae8fc3@5c58.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231116T130000Z
-SUMMARY:Tirocinio 3
-UID:d4f09e92-f297-46cb-a2b8-6eb89c4a2e93@d4f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231024T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:18b89325-5343-4b1e-bacf-b2c307017fcd@18b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231006T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:57f5027c-5602-4ce4-b4e4-06eaa4b0fab7@57f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231127T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:5a19d9e9-12ec-4d9a-926f-e8b44470c2e5@5a19.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T080000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231025T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:42313f86-8947-4682-a757-630bc31b2ed8@4231.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231204T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:0ed5136a-4e94-4aa6-80df-e7304dfd5119@0ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231006T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:15744bf0-2d48-49a3-bb61-d82d852ab6be@1574.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 5\, Aula 7 [via Margreth]
-DTSTART:20230928T120000Z
-SUMMARY:Tirocinio 3
-UID:2f8af138-369f-4a3b-abe6-dffbdd747016@2f8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T080000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231004T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:6dbe26ad-c0b1-475a-9391-a6652ec4f350@6dbe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231205T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:e42fe7c0-5862-4ae1-b3ef-0509b282368f@e42f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230926T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:2baf09c3-10ad-4534-864f-56e8282e5196@2baf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231016T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:eb8e1a81-9df0-4d1e-9b8f-4be3fa32ddac@eb8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230929T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:78dfbcd3-a377-49a2-9ce8-401f0c249603@78df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20230922T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:9b8ebe26-831c-4ac2-b6d0-ab9f5816a44e@9b8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231212T130000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:07869298-fb26-42c7-b51d-c576b421166a@0786.org
+DTSTART:20231201T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:ca6a7f71-408f-466f-af5f-a787e7c4fb59@ca6a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231121T150000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
 DTSTART:20231121T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:42fbc011-e517-4a3b-b709-408b40e9f8c7@42fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231113T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:a9851baf-f6ff-4592-b572-27be81d4334c@a985.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231023T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:d4e1bf09-c512-4e2e-b7f4-65012e73a323@d4e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231215T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:6d971241-8ae8-459a-a2b3-35b6fddb9ba3@6d97.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20230927T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:56073745-0c25-4218-b7dc-e93a839c2d60@5607.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231122T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:b5fddf3c-b6a2-403a-97ee-d0d69856fac7@b5fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231010T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:95453c6a-e962-425a-b425-0c42b34af4b3@9545.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T080000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231011T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:56d0df7a-7cd2-4498-8f21-14b50c58731c@56d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231030T070000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:533278ac-9168-4dbf-872e-f643923fceb5@5332.org
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:2b7dc6be-e056-4ef1-8584-e2f282e12321@2b7d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231127T110000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
 DTSTART:20231127T070000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:99ad23fe-32e3-49f1-a71a-f9c86cbd871e@99ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231019T120000Z
-SUMMARY:Tirocinio 3
-UID:13fa213a-3f4b-4099-a9a4-c807ac784f0d@13fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231207T130000Z
-SUMMARY:Tirocinio 3
-UID:e593142b-07da-4bc3-95e1-b80d966bfba3@e593.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231128T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:2b593ca4-2900-435a-ba9e-71fc5ae1c35a@2b59.org
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:aeaba73b-a78a-4031-b1a1-f0738b8fa6f8@aeab.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231103T150000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11<br/>via Margreth
 DTSTART:20231103T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:227c4d63-e285-4314-9d33-36a47ab0d376@227c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231206T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:a5830ed2-50c3-4c75-b10a-85c3169d017b@a583.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231108T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:24a6bcf1-d234-4529-8a33-682e8582029c@24a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231122T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:4acce181-11b5-4bc5-a51b-db55dbaafb6c@4acc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231009T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:5fbf5782-b0d2-4ba7-ae52-ee1efd3d59ad@5fbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231025T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:8ab7d1ae-c0b7-41bd-9cc8-39ecd0326d1e@8ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231122T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:dc54cd7a-9da5-49e8-bddd-73273816abf4@dc54.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231002T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:bff10ec0-2165-4eb5-beb6-d573d470004d@bff1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231117T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:6ce416d8-09a5-48b0-b44c-1c1acecb0ef4@6ce4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231212T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:49759b89-797e-4806-b85d-0fe8d11a76e9@4975.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231201T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:513437fe-4bc6-4e9f-ae27-acef8d7bc985@5134.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231130T130000Z
-SUMMARY:Tirocinio 3
-UID:c5a6fd38-b0af-4594-91fc-a17bed7ab87c@c5a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231129T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:83ffbfad-a936-40d4-8a61-fad940d5a3c3@83ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231002T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:72f07915-3fa4-41b2-8b74-427dcd1a5cf5@72f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231204T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:30f49028-bc11-43df-8549-b857de251eed@30f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231024T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:9bd1ec69-30de-4ecf-9027-f4273e8136b2@9bd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20230918T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:eb5d9576-5bf0-44ba-902a-11837ea42c2d@eb5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231115T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:bca37609-96e5-4669-9e21-796e42a8183c@bca3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231115T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:2031b171-ec3f-4d5e-99e7-b35d6cf3a8b8@2031.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231206T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:4836c732-0e99-47d2-a83a-c24fb4a1ce8a@4836.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231115T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:cd39e90b-aa39-49c5-b6b9-637d59e87c6a@cd39.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231010T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:d0beaad8-dbe1-4961-a608-615d852f72d2@d0be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231027T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:ad9084a1-048d-4512-8abd-9c044dbb6f3c@ad90.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231017T120000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:54e51183-04e7-4e28-a9f3-f53cd05e34e8@54e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231031T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:151105f1-74df-49c4-87f0-05eb1dda534b@1511.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231003T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:6ab69b3e-d9bb-48e9-8b4d-50af33c35902@6ab6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231128T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:4a63ac12-3fce-4287-95ea-b3ad53ee5878@4a63.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230919T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:4f45ad83-1913-4be8-b8a5-ac8a1e1cd8b7@4f45.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231016T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:5727e575-1e31-4ef7-9996-5bdd3dbfe848@5727.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231003T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:0770c3ee-977b-429d-a4b6-3ebe296514d9@0770.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231129T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:071ea7e0-976c-497c-972e-28a3d2a6e1c9@071e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231121T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:d1242e96-602c-488b-9f82-0f6f61fa2fad@d124.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231129T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:b833da32-a05f-4814-bee8-812e6ab1a02f@b833.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231206T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:4db2ecc2-9636-4d8f-b5b7-0d53b8c91378@4db2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20230929T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:f9f3bf8f-2200-49d1-b377-3797515ff0cf@f9f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231113T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:0d3eb27a-be13-438e-81ba-35e9888459fc@0d3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231129T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:4a5a4a12-f15d-4fbe-ab2d-0c9a758d1119@4a5a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231106T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:4bb2fdc9-7819-4b01-855a-e88ba6457075@4bb2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231115T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:1deaded3-1463-4690-b907-0a4561bcd56d@1dea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20230925T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:ec8a77b9-b824-4ea9-af89-257828abedb0@ec8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230918T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:55393587-aa6d-4a49-8357-ad77f67b688c@5539.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231121T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:64b6661e-0ac5-45f6-95de-4b468df80c39@64b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231117T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:3a729350-a221-4cda-84f9-26b8a99c9b3c@3a72.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231201T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:41a9f9b2-9b80-485c-b301-06ba6e63a7a1@41a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231107T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:ed6ac792-b637-4344-9bc9-4ed8c08fe63a@ed6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20230918T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:63fb95ce-04cb-4ffb-901c-fce704ec05fb@63fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:a1c30755-405f-44d3-869e-20c90a74723d@a1c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230918T060000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:d429660a-e259-4071-b7b2-e7173465c4eb@d429.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231106T070000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:f05a43c6-9aaf-49d9-976b-16021f85d281@f05a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231206T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:f5b7e7c8-95f8-4948-ba31-6d10101b7650@f5b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231017T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:7ddaa7f4-3ac4-4458-9dd1-6ac14ced5d9f@7dda.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231013T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:9185757d-d24d-44e9-b83c-d0c44d7e1a9f@9185.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231211T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:3711ce82-52a8-4081-beab-a9f2b332813c@3711.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231003T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:8c79d8aa-826b-44b5-8781-bfd5d144c7a3@8c79.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231030T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:b98061a5-9d66-400d-bf4b-e2ba09043691@b980.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230927T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:c92d1553-e5e5-4891-8a75-ab050e440889@c92d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231129T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:67e90067-38ef-4c4c-a4fb-fa9dbc74e877@67e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:10a86eeb-23e0-42fb-9b3a-1ca771d9a177@10a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231120T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:5092dcaa-eb41-4df0-8449-2352519c90b0@5092.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231113T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:419e924c-6d25-40bd-b396-f0e7143fc3d1@419e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231206T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:fa537dc4-7049-4f06-b18b-9a29893ceeb4@fa53.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231018T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:fc268ade-5926-4942-82aa-7e705184e926@fc26.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231122T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:e68d0ed4-107b-4642-9845-61c03ea332e4@e68d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231016T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:19771b77-b1bb-4c5c-895d-4028807a1a97@1977.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231023T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:e0f2d5f3-bd14-41d9-a998-ae73f44ef098@e0f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231020T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:955b3c7a-307b-4285-96ee-78ec41e72969@955b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230925T060000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:5bea6abe-a9c1-4358-812e-4c19a61b7d5f@5bea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231121T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:0f997454-357a-4866-b7b9-865706eaf70b@0f99.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231030T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:5214363e-b00f-462c-9a21-800495a88902@5214.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231106T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:7b5d52a7-bc67-4da2-924f-01cbdecfafb7@7b5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231003T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:2c2088d8-5cff-4182-9082-08fe4e57dd1b@2c20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231115T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:db66ac01-368e-4f4f-9c3a-3b3a82bdef38@db66.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231128T130000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:43d2b239-62ef-4c42-bc30-4a04da1825ff@43d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231016T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:1960a53e-08cd-4a02-8218-6408354c8b3a@1960.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231024T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:0bb69d0a-235d-490e-8235-1d833b260b10@0bb6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230918T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:ce59e022-8aa8-4782-b32b-1bec9247f252@ce59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T080000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231011T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:8af44bf5-3800-4c00-8a95-cae49b7fc7eb@8af4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231206T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:def58271-7a64-4325-b205-67f513067f67@def5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231107T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:ad9d7c1e-331e-4dd2-9b6d-2c924f39677a@ad9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231127T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:c2f642b6-1cd7-4502-a324-9b353e6f656e@c2f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231213T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:e0027ebe-9957-4e78-91e2-7a321505264c@e002.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231113T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:4f47ba55-ba0b-4cd8-8cb5-a5df517ca2ed@4f47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231016T060000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:1029c3d1-c12d-479d-b951-eef004f622c2@1029.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231002T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:db8393f2-9009-4ab4-a3c1-c5828b1cc634@db83.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230922T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:e518ed50-7cbb-4c3d-a7f9-835250eb0dad@e518.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231013T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:228d2447-e62e-49f4-9403-6ffcf184486e@228d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231023T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:a79bf1a1-e96d-4b40-83f2-1557257a91e0@a79b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231213T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:24d13fdc-18da-4b99-bf20-4fc7ac6c7135@24d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231023T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:d704fa70-ce6f-4c97-a3b8-f1c42663a7f1@d704.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231024T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:159110e4-110b-4f95-ab91-0381149b135b@1591.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231108T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:ba2b529d-c827-4e98-8e44-b0bd53124e90@ba2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231009T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:fbcae9cf-9803-4d67-9c81-e17da00084b3@fbca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231106T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:4077e7ba-2241-46cd-843b-d232fe79fff0@4077.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231204T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:8c18a716-7af4-4052-8e8d-63df5df19338@8c18.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231024T120000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:e8c31ab0-f148-4165-b720-65fa258ddae5@e8c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230926T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:af22b5ac-1502-4eed-a01a-4d46a5b1395c@af22.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231107T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:5f8de726-8319-4ea0-87a1-ee525164300c@5f8d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231213T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:bcf4e9b8-a956-4d4e-befd-1ec8d8f7f9ae@bcf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T080000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231004T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:0dd51a9d-b695-41db-87f6-a78dc6e453f2@0dd5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231010T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:d5ff0a31-e71c-4dfb-9f2d-13f60c642a47@d5ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231020T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:f32a828d-3080-4b75-be2f-3870f12d22d1@f32a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231123T130000Z
-SUMMARY:Tirocinio 3
-UID:13abe63c-6b84-45f9-b57d-e0fff4e58bc0@13ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231128T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:f3a31764-5c45-4646-9958-66db94e79b9a@f3a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231025T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:b72842ae-cd34-4ded-a853-d658e2e65b9a@b728.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231009T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:9b03acfc-a19a-4470-b580-b584cbcebd9d@9b03.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230918T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:90658cee-8697-4e51-9061-effcee1cec83@9065.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231201T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:5ae99aa8-a9eb-4828-bffb-b0c45ce30597@5ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231115T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:e10e9f81-f82e-49a6-ba81-5a5ece38ad2a@e10e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231002T060000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:c5abec9d-d226-4fa3-9a6d-62cc693fe35e@c5ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231009T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:091e3048-2393-440e-a0f8-03c77c8f89db@091e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230919T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:c69983aa-055a-4e5f-827b-d55909762675@c699.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231120T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:57fee8fe-5e53-4582-9083-abd42830f190@57fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231011T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:5e13eb44-11d1-42c1-a217-b1080b96fe8e@5e13.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231124T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:c6e0b601-33c9-4f0e-85cf-d609f30d6f35@c6e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230920T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:8eff6358-7321-4396-8e46-dbc781bab210@8eff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231215T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:3d38ac54-3c14-443c-9617-acfc059211c5@3d38.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231212T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:66f2f5d6-2756-4203-a45b-5ff7361dcd8b@66f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231031T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:267ccc9b-43c0-4739-9550-447bc34b0999@267c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231214T130000Z
-SUMMARY:Tirocinio 3
-UID:c15dd47e-8a92-412f-8af0-d99208eb53a3@c15d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231110T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:03baf94b-ffe0-46a1-8d28-3c5a913dbbe5@03ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231128T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:249f57d6-b7a2-4c1f-9fee-05f23cbfeec7@249f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231211T070000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:483a3f18-fe40-4693-b797-4a2829d2f969@483a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231120T070000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:2fa47f4b-3768-44a9-95b1-db3ecbd2022b@2fa4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231213T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:5706a919-834b-4156-9814-d9a84ff07a89@5706.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231009T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:bd5f9a58-2bf8-4a24-8bee-38f4c1fac82d@bd5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231009T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:c738d8c6-a898-4e24-817a-2586337653c9@c738.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231113T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:d50bab8d-79e9-4eb8-bf58-eab7c424cada@d50b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231127T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:18c1a3cc-aaa6-45e0-9c33-fc8dc8db4d3c@18c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231031T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:910c74bf-58a1-4b02-8ea8-0414ad1cd82e@910c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231018T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:57001cd2-128b-4d9c-bfdc-26e1ae48ed7a@5700.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231013T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:03ad1114-81cc-4379-ba4c-0761756ee711@03ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231114T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:1dd9a62f-8662-49dd-9030-36ec5a7f538a@1dd9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230918T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:7f3d64d8-2a26-40b9-9cbe-982a3945b925@7f3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231121T130000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:79a2d1a0-f846-4703-82d8-1153ff2d8ecc@79a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231103T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:f1908628-6dd4-47aa-bdfc-a1a68523f4fa@f190.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231011T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:37dd00a8-2b3b-4982-98f1-e4033042b66d@37dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231212T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:b675ee73-7fcb-45bd-b735-dd6ee894a5ad@b675.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231004T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:d7594f10-3ecf-4a41-96d9-832fc1ffa6c1@d759.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231030T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:a08edc75-d160-46f1-b02a-f7234114ad28@a08e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231030T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:99380c76-cc67-4015-b2bb-798f569057ac@9938.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230925T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:4846f11e-62ea-4731-a8da-71484ac6c850@4846.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231031T130000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:e0b4d831-37ec-492d-bb4c-7a3368667767@e0b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231025T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:cad58b18-e283-488b-8e80-e56190f518fc@cad5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231129T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:5c76400c-6226-4401-8ace-e9ee11fcc95a@5c76.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231213T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:7225187b-cc66-4fe4-83a1-87b83a50c688@7225.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231027T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:bbbd41d9-f4bf-4b5f-80e0-e5ed6ce2a5ec@bbbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231026T120000Z
-SUMMARY:Tirocinio 3
-UID:483fb09d-14e6-458b-a735-df55c038364a@483f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20230925T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:44f0d5b4-a992-4f72-b627-26bfe73220db@44f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231114T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:b6c1c89e-04ea-49eb-9981-e2ccefeee9d2@b6c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231017T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:a1f12353-2d6a-4665-8b5c-13b2a2c7aa7f@a1f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231211T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:35748517-ccb4-4072-ad22-2e06eb582433@3574.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231212T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:18f6bf35-d04c-4267-b368-a718f91442d2@18f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231115T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:5d32d7ec-eb4b-417e-8dc0-c7803c7b7740@5d32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231122T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:6eab0f26-547b-4063-8263-67db9625b6ec@6eab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231010T120000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:0103d7db-b658-46dd-9522-ca2be51243dd@0103.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231023T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:5f9d1ed4-372e-4979-a5bd-684579aa94d4@5f9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231213T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:0b6a1eff-49b3-4d1a-927a-a129be4ef61f@0b6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231023T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:126f69ef-d8ec-4b42-abd6-d05b5924f346@126f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231002T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:983199b9-7a3d-42bd-bb55-18aad2fb2956@9831.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231213T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:69247fa4-f322-452b-848c-d61516c3fc9f@6924.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231107T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:ef766429-f33a-456d-9ea3-e98899920f2e@ef76.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231027T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:b60c5854-59da-4347-88de-f4d9a7b90ff0@b60c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231204T070000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:1dbe2620-b54c-459b-bc23-b2c7b838fa43@1dbe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231120T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:bb0d3b89-cd5c-4aea-9034-31cced0e7f85@bb0d.org
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:6af3b7ab-220a-4b34-beeb-9d3b12fc30f4@6af3.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231109T170000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
 DTSTART:20231109T130000Z
 SUMMARY:Tirocinio 3
-UID:e471ba30-10c0-48c9-b66f-2db49bba1c4f@e471.org
+UID:b46c053c-9092-4cf9-81c1-408b74ab987e@b46c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231018T080000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231023T170000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231018T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:c40ba6f5-74d5-4bb2-9a8c-b31a0beb67a9@c40b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231108T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
-UID:a2c28707-ffa1-4a03-b4b2-bd03306dc21a@a2c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231106T150000Z
+DTSTART:20231023T140000Z
 SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:db934208-8b32-40ef-8ae4-19a27459bc52@db93.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20230920T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:49e4e524-b431-493d-a6cd-836a9c4b83c7@49e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231114T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:4f8eef3d-8bcd-4ce5-9d73-c21bf29abcdd@4f8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231002T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:423710bd-e6ef-4f56-8ea3-e8c0c6a30023@4237.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T090000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231206T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:fa815416-eef3-4eac-9cec-d8c243874194@fa81.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231108T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:b8f3cd58-2436-4fea-8c0a-96c221109099@b8f3.org
+UID:29b15b2e-aa4f-40be-b517-6384b496dea8@29b1.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230926T140000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
 DTSTART:20230926T120000Z
 SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:173bc5e4-4611-4639-ab98-07b48879b047@173b.org
+UID:d8aec8c1-f210-40ca-8426-dc004d334bff@d8ae.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231023T100000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231115T090000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231023T060000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:5fc364d3-08b1-4f88-9c30-532cd7be63a9@5fc3.org
+DTSTART:20231115T070000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:79f4f4fe-f7fb-447a-8abc-fda31883a57a@79f4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230919T140000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231002T100000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230919T120000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:13281b37-48af-4e2a-873d-18fb4840c07b@1328.org
+DTSTART:20231002T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:5595be5a-96fa-447a-9c38-bc4556cd0215@5595.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231127T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231127T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:8299efe0-15e1-4f43-aa56-1a0c277e6906@8299.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231106T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:16d2da63-67e5-47bc-9444-cf0bff6cca3c@16d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231018T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:20925f26-c308-4483-9366-e50bf5696d93@2092.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231213T090000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231114T130000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:859d7ecf-b8a1-4f17-8e84-d173b9d4e6a8@859d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231211T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:8d99cb6b-9692-4b4e-ae77-46cbf3a5bdb7@8d99.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230925T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:3d0815d1-ca23-47bc-9189-537187e5145f@3d08.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231211T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:17e78162-edd6-4207-a6cc-ed19621aebe7@17e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231025T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:e1cc436f-c9e7-4df6-b4b1-03905e581f0f@e1cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231103T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:eb8d9751-3339-4c87-9cba-a97789f7209a@eb8d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231215T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:7d74f419-a585-4de7-8294-2bc0221b5b93@7d74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231025T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:9e8cc20e-dc0b-4221-818a-94222ee752de@9e8c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20230919T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:23e605fb-940c-4b6f-9878-bff950b2f320@23e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231010T140000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:e9ce42a7-b218-4e33-8ee7-ad65ba79e845@e9ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231124T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:91a38db6-5e88-450e-a139-c06b1e9c557d@91a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231012T120000Z
-SUMMARY:Tirocinio 3
-UID:a006fa72-72de-4a85-9c26-1e3bf5b3e71c@a006.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231211T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:afe16eb1-4939-432c-afff-5a3f519c4605@afe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231030T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
-UID:336a7eb4-e734-42a6-a5d8-346122f6450a@336a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T080000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231025T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:a28359d4-1030-42ae-b1fe-be46dcb625a5@a283.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231205T130000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:d2cea01c-732f-4b67-b126-4581c273509e@d2ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231205T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:f0a6937e-7b30-40f2-b19f-6661b59f563a@f0a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231120T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:4b99c987-1650-43eb-a682-6cd31e6d1911@4b99.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231205T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
-UID:a1e2c91d-c381-43df-b5f1-2b399fc8835a@a1e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231127T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:af686c08-dbd4-4195-95dc-387e43f61fb9@af68.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231004T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:dd48e60f-de77-4764-a397-8871b312a539@dd48.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231110T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:db726221-b728-46c1-b820-eb73266143c2@db72.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231018T120000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:9d5c5cbc-a407-494c-960c-717b099c6706@9d5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231009T060000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:0624e44c-6f36-43d4-9462-45a857eb36ca@0624.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231127T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:8428664a-cab0-45cc-b388-0637fde6b7c5@8428.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7 [via Margreth]
-DTSTART:20231204T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
-UID:40ee2d9a-ab95-4ab2-bfc3-50fc438d8853@40ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231114T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:727c0e0a-ec0e-4058-a704-1823e091d3d2@727c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231204T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:08f6bf3b-9693-4bbb-b847-b67d85498779@08f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231120T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:864d2927-5a8e-486b-ae3b-d36988b1bfd1@864d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231205T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:61fdf9b1-732f-4976-a32b-cc595e0e9c5c@61fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231017T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:37c7db9c-b5bd-4d51-9819-b60683c075c0@37c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231107T130000Z
-SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
-UID:547f8d97-3dfb-45dd-a1b8-6a9fa5992631@547f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231005T120000Z
-SUMMARY:Tirocinio 3
-UID:bc358155-47e2-4bb0-9b34-11dcdc206f7b@bc35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T080000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231018T060000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
-UID:14feb51d-9a24-423c-91e6-6c448ddaff12@14fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231106T150000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:b8e9cf47-4588-4e8a-b0ab-455f17e3a1b4@b8e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231117T130000Z
-SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:6285f6e4-92c9-4491-8e7f-a57d9681c7c6@6285.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20230927T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:8d72e3f7-f142-4626-90b7-756bcb0a0f84@8d72.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231030T070000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
-UID:e8fb0278-c17d-4f0d-894f-e705d864ad83@e8fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231108T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:52739ec1-a625-4f00-90a9-c31240a02854@5273.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231108T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:ab6930fb-cd17-44dc-b92b-7b1201943b6c@ab69.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231108T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:7bbc393b-b089-4ebf-8f41-816b3fe485c1@7bbc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231002T140000Z
-SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:c6deeae4-76f1-4f1c-b914-ddfabb04888e@c6de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
-DTSTART:20231102T130000Z
-SUMMARY:Tirocinio 3
-UID:c584a14d-1156-4832-8db5-29929270b7cb@c584.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T180000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 7\, Aula 5 [via Margreth]
-DTSTART:20231113T150000Z
-SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
-UID:fa26e3cc-9c10-4ac0-901e-298063eea9e8@fa26.org
+DTSTART:20231213T070000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:c41f3800-d1d2-4731-80d5-6112fd61a69c@c41f.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231122T110000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
 DTSTART:20231122T090000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
-UID:aa779cea-7ace-4a04-bcbd-216761aa3d09@aa77.org
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:46e4b6b5-8258-49e8-a0d6-1f24356d942f@46e4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231020T160000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231115T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231115T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:dbded829-8ba0-45f5-a246-bd0f1860f0f0@dbde.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231009T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:e0c6e44a-a0e1-42e8-9150-63fae5426534@e0c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T170000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231020T120000Z
+DTSTART:20231215T130000Z
 SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
-UID:ea1a10b8-18fd-40bb-9d7f-da7efb9be047@ea1a.org
+UID:752ba581-3548-443a-b1f0-ccb091c01c51@752b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231211T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:027daa91-009e-4770-8bd1-014699c4c0af@027d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231128T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:021be59c-3370-49c2-82ae-63ba86d29f46@021b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231020T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:728aef4f-93e5-46be-a0e5-98fff93872ea@728a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231103T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:aab5e46a-4acf-42ca-84bc-6630aa728649@aab5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231204T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:64b958eb-657f-40ad-8db9-5401a79b8814@64b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231026T120000Z
+SUMMARY:Tirocinio 3
+UID:24ebf67d-ed16-4f23-a425-4b0082c13ae4@24eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231017T120000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:95346577-1ca1-4359-959a-b946d3cb55cc@9534.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231017T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:31de4165-88ec-43f2-9c7e-898762f48fbd@31de.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231211T180000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
 DTSTART:20231211T150000Z
 SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
-UID:7841c132-da5b-4658-9ddf-e670b5ce0d14@7841.org
+UID:087723ea-a28a-41a5-aa66-23e00741eafa@0877.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230929T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20230929T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:4d022a85-d6c3-4e6e-8438-4cb197141505@4d02.org
+DTEND:20231121T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231121T130000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:a5932928-4130-4a65-b875-b897050be05f@a593.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231129T150000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231120T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231120T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:0ca86320-1e57-42d1-951a-9712f1bd21bd@0ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231121T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:b64143f1-050e-489c-9df8-c20e4621f215@b641.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231212T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:22532ccd-05be-48bf-abd2-2c97ede74864@2253.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231213T070000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:ae784c01-cc52-49db-864c-d52898eab663@ae78.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231206T070000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:32236d79-1cdf-49e9-8470-874d0723a7c4@3223.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231124T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:2f704f04-902e-44ea-9425-cefea792c7fb@2f70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231025T060000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:9ac597a2-2dde-44b3-a3c2-d20475a18ae4@9ac5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231031T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:43bc98a4-6c5a-4c69-a53c-550a9841ca62@43bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231127T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:484a806b-2281-4651-97aa-ad141f3bcf9c@484a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231030T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:4a8d9298-28b1-46bd-ac98-aac03c6a5b9b@4a8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T140000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7<br/>via Margreth
-DTSTART:20231129T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:07d43239-4ec8-4ad6-ad60-4e277e709c3b@07d4.org
+DTSTART:20231018T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:d1bdf143-9046-4165-9d71-0ac7164c9642@d1bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20230920T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:37a18d10-3188-44b6-a8dc-19aae06cee1f@37a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20230922T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:38d1eea8-d3b6-4f86-9131-88824b9683e7@38d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230918T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:efd4b6fd-00c8-419f-9ccd-a2b045531a54@efd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231108T090000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:5424169f-7e5b-45f9-805f-857d2a07b0f0@5424.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231011T140000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7<br/>via Margreth
 DTSTART:20231011T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
-UID:1741c079-37f7-4b0a-a32a-a8bd115cedd3@1741.org
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:fac03962-e80a-486d-8f03-bac206d4ad81@fac0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231108T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:e5080a26-b5bf-4be1-9ca2-68e52f413b68@e508.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231002T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:187d67cd-db2e-4ae0-848e-9601c256c1a7@187d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231005T120000Z
+SUMMARY:Tirocinio 3
+UID:bffade1f-b67c-44e2-8c55-b8ba9b35e123@bffa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231025T080000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:446df0df-c2c0-4c3c-80a5-84dbda91f51f@446d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231011T060000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:aa0e41f2-f092-4ac4-b0e8-cdcab8e85a34@aa0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231016T060000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:60bb30aa-bead-4650-90b7-07daeedcc454@60bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231010T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:b8cccf94-bc95-4af3-b2af-2b0e3f67de07@b8cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231106T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:0b63dce7-97c2-4052-8853-7ef8262527ea@0b63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231107T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:1f5f72e0-b550-425f-9a19-ce092ff342b4@1f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231207T130000Z
+SUMMARY:Tirocinio 3
+UID:d78e962b-69da-46cc-8ddd-1fa03d698605@d78e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231114T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:e6653ce1-8dac-4439-a7d3-7198b7123f62@e665.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20230925T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:ee4d9166-8c70-4024-97df-8dd913d23aaf@ee4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231002T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:cd4573b2-06d2-430e-b602-c874f5b61ca6@cd45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231106T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:9e04ebbe-e350-4361-8b64-c07faf0338b8@9e04.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231016T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:094648fe-4a4d-4084-833b-2660edf36a05@0946.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231129T070000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:17880c93-5794-4d76-8342-63a4d0761d24@1788.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231127T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:faccbb37-ee8a-4a39-ae23-5ed5d4abedcf@facc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231127T070000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:b091e05c-a5f3-4ae7-a518-b5d0e780a20d@b091.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231027T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:d729574d-4d8b-46c7-bce9-577b0db1191c@d729.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231113T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:0203fe0c-3832-42c9-a4b1-856ace905614@0203.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231115T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:744521e1-fc69-4782-8eb9-ba968f692559@7445.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231002T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:92d76701-e531-43e3-a7fe-64d7ae77bd5e@92d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231123T130000Z
+SUMMARY:Tirocinio 3
+UID:29901a3b-e16b-49eb-b126-950ac20a0928@2990.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231025T080000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:219d465f-d3e2-4fb1-9cf9-d67d5f213724@219d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231204T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:0bd59e90-6e37-4f47-ae72-aa13ad4d061e@0bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231106T070000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:49a751c5-8620-484d-ac29-e014c6c10b01@49a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:f11446b3-5084-4673-9d6c-104c129744c6@f114.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231018T080000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:7d1966c6-1a25-4679-954e-5bb6d256a6a8@7d19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20230920T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:9271ff3d-c9c6-4e19-8f6a-b628ce39d340@9271.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231011T100000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 7\, Aula 5 [via Margreth]
 DTSTART:20231011T080000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
-UID:656cea4c-0198-4700-b40d-ff93fd917cc4@656c.org
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:40eb507a-1503-4437-b1ae-f123bc6d6970@40eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231030T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:360e4f42-4b15-4901-83a7-843b8bfbb6ef@360e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:9f920af6-8a1d-43a7-b6c8-dc4a03875b87@9f92.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231013T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:639e3d27-07e8-43d3-914e-3b6c47ab5aaa@639e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230925T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:d227513c-f520-4154-8810-1a645e0400d9@d227.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231030T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:635e396e-b4e0-461a-b64f-b7bc3ae68c3e@635e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231107T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:fedfec3d-84f4-4016-ae4a-85028513dd16@fedf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231003T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:38fa9e86-c6ab-438c-8f45-0ecb59abb485@38fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230920T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:e94cdee3-8d28-4d33-8607-a421f3f8c146@e94c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231003T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:57bf180c-1846-4220-a8ec-c133afb7a6ed@57bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231205T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:b8780b07-d9df-4069-9519-ca3d71ae3d68@b878.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231017T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:a41f3831-8b22-488a-a402-6a1573d0a512@a41f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231113T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:8d506ccd-4a8a-4622-93d5-89c5afd25439@8d50.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231017T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:268eb40c-fc1f-4e50-bf87-503bcfcfbb09@268e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230918T060000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:c2ed86c1-9814-4d11-952e-93050fc3a573@c2ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231017T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:3f001e19-1566-484d-9183-a6f786457f1c@3f00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231004T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:f724cddb-7a7d-4ab3-9d18-3b0003bfa6b4@f724.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230926T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:9d122205-8705-47f5-bc30-f897681d54bd@9d12.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231018T080000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:9d74a7bd-2573-485a-83a5-33e361e3b96f@9d74.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231120T070000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:32c417d3-b61a-4a46-a1f1-e33443a9861f@32c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20230918T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:98d227ae-20a9-43de-82cd-40b97bc01c97@98d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231211T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:eb71f585-c4cf-4c21-904f-cb1cf62fb66c@eb71.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231117T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:e935d2b1-a319-455e-a453-d2834a1718fc@e935.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230927T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:2fdde2fc-e26f-43d7-8753-9ec446330b44@2fdd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231211T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:e29a0966-1382-4379-89d4-adef1b13cb2d@e29a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231031T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:54a35b79-78ef-49c4-a35e-be6e8f9f30de@54a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231201T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:d2399bce-41c4-4390-b14c-1ec83b985063@d239.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231009T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:551be3e6-fd6c-4355-ab30-295d0444adf7@551b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231130T130000Z
+SUMMARY:Tirocinio 3
+UID:e9841900-df81-4166-a739-0132a699b6f2@e984.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231027T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:fabc1762-fc9d-4af0-8cd0-e2dc45be543b@fabc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231120T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:855324b8-0124-455b-9130-0c4d0dfb3193@8553.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231120T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:b4bb7f18-6bf3-4713-ab5b-5421279a18a4@b4bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231116T130000Z
+SUMMARY:Tirocinio 3
+UID:810697b0-f2f5-4f85-ab22-8b76e153f6f7@8106.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231115T070000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:23f082cd-7dc1-46a4-9c10-7163809ab1dc@23f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231110T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:06bb59d6-128d-45bd-a266-98f8163b1151@06bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231211T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:d01ae9cc-d0d1-49db-8ba6-eb66d20d8d90@d01a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231020T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:e7fc158d-82ba-4fea-bc9e-a5c078c0f0cb@e7fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231122T090000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:cb9dc4c2-e186-431d-8e23-6c075d21b7d8@cb9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230918T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:d0f8252e-853e-4beb-97af-29d0713ea64f@d0f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230919T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:7c6c2113-8d12-4022-bc92-d13f00d416e3@7c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231107T130000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:168e3b70-3787-4e85-9b54-154a674b8407@168e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231018T060000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:5a32d2fd-7343-405d-a235-07fbd0adbba7@5a32.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231113T070000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:251cbcd8-986d-43ae-bfba-317427d87245@251c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231114T130000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:2009ecba-e0e9-405e-ad3a-aa69e440d28d@2009.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230922T160000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11<br/>via Margreth
 DTSTART:20230922T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
-UID:c795bd09-0a9c-4fd9-9b03-7c75058c011e@c795.org
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:3fa73ff3-9f34-47d0-8240-3a9f91f64a83@3fa7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231027T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:1a09115a-95df-4ca3-a3eb-de77137bc44b@1a09.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231113T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:d9e3b3ef-b616-438a-beed-50239ebeca19@d9e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231204T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:b580368e-7937-4fef-a68f-ca02963c0948@b580.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231120T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:39d6db22-8cce-4aff-bf9a-52e1b259a220@39d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231206T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:60e70740-ec97-4d6f-b2ce-97b46dd69b62@60e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231102T130000Z
+SUMMARY:Tirocinio 3
+UID:47deccef-6985-462a-87d1-69c448526676@47de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231009T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:e0f3de32-3829-40e1-9f1d-c5151edddd1e@e0f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231023T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:34aa6b07-fa6f-4b73-9aaa-17dd0fde475d@34aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231003T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:59757b78-938c-457b-bc1d-106fffef6f6e@5975.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231122T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:2ee04bbc-9087-4d0a-9beb-158e5a0fa5b1@2ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231211T070000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:1f28d704-c7f2-4416-bc5c-f7b69a77440e@1f28.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231018T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:0a496118-78f4-4911-b6c5-49be4ad84619@0a49.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231004T060000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:73efb3cf-5ea3-41b0-8e13-0ae15eee74a2@73ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231206T070000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:579e3874-5e26-4641-82aa-6fb69c4354eb@579e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231004T080000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:f9e44873-ffa3-4301-ab34-bccf2beff9de@f9e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231127T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:e63dc1bd-77a3-4352-aa09-d48f528f8331@e63d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20230925T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:0f39c4e5-96bd-4dde-b620-2cc2e4eb5686@0f39.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231031T130000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:a7d38f7c-3441-455b-a418-57550e4af80a@a7d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231113T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:bad4df06-533d-4504-b748-25c79d751159@bad4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231013T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:6d8e31bb-134c-455f-88aa-07c80f60741e@6d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231120T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:3c7438b1-ab69-4cdd-bb67-2bbc5591b709@3c74.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20230927T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:d65def81-136e-4b53-8a02-98280600d877@d65d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231129T090000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:a5af8e8a-91b4-4502-a69f-34737c0907bc@a5af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231003T120000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:07e511d8-e9ee-4f68-8347-8577f1bc1b65@07e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230919T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:367e50b4-04e1-4a0f-b431-2ac795839163@367e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231201T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:4fa44de5-10a1-4dac-97df-57ddae93bab4@4fa4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231004T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:fad97790-7065-4392-8113-3bc6dd782532@fad9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231108T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:6b7c8337-41fa-476d-9ffd-f5194c00e6ea@6b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231016T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:40c77a0e-1a5f-45ed-a24e-8609493534c4@40c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231106T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:ba4425d8-3e25-45d5-8de0-98b344807273@ba44.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231024T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:ce940127-896e-4241-8545-9f4ffd64dce4@ce94.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231002T060000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:e1c24500-45c3-4d15-a201-213fd217ca38@e1c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231006T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:444404b9-d59f-4832-a448-d4fe6160b150@4444.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231002T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:d8837ee1-2865-42b9-9788-23e96c686eac@d883.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231129T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:5e2b011f-6279-4218-ac40-67607333b211@5e2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231215T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:f72105a3-38e6-4a94-8126-297e04292c6d@f721.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231025T060000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:4e3efed9-e914-4adf-ac46-00152c187e17@4e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231115T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:890a58c7-8e21-4c02-80cd-e32959e064d6@890a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231108T070000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:57a35e03-493c-4d04-87c9-aa9323be895b@57a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231010T120000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:d2aca566-8bdf-4104-bb3f-8490447eb551@d2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231110T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:97152235-46d1-469c-b319-4ce7082a3c0a@9715.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20230929T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:7164fc0b-9300-4f42-aa02-544b12e29e31@7164.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231009T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:ddb61748-fa04-418c-b290-03de6c48264e@ddb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231009T060000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:16137f35-3e91-4357-837d-57d9076a70e5@1613.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231124T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:d0581846-bdc1-4c12-ad56-5974698cc557@d058.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231011T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:e84c6eed-3ecc-4534-8f38-43546f98b2da@e84c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231117T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:02ee0d40-90db-4e11-9cf3-a2b032d68798@02ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231030T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:9c6edb6d-d8b5-42bf-a7fe-c07cf188f54a@9c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231128T130000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:a260e133-ad88-43f3-87c3-a7a39d442ee7@a260.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231020T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:848a2fff-66d9-4a4f-be87-76088efc43e3@848a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231025T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:5f9d45d0-ad57-48fe-9680-83c859798418@5f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231016T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:76834ba0-19e2-45a2-aac1-8c2eab9e9f0c@7683.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231110T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:87b8108d-7b50-4a42-b38b-3895de017621@87b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231115T090000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:fda306d2-9117-4f15-92c7-fd7c69e51129@fda3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231002T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:a858303f-3037-4ad5-a345-7256521a6a6d@a858.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20230927T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:65d27a9a-fb3a-4aeb-9a4b-bca8a9274151@65d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231013T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:a1d5e3d6-1786-425a-9a71-4d005a1561ea@a1d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231129T090000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:e52b0c6b-a815-4877-a0ac-d78f7b18f97c@e52b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231122T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:a569ae10-d9a2-45cb-b84b-2d13d71d72dd@a569.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231024T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:3660ffc4-8fb0-4858-98d5-b6d070693b7f@3660.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230929T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:7c1a1a17-b311-4de9-a01a-ac25a7048617@7c1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231212T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:54fdfcff-f442-4552-a590-61ae1f9122b6@54fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231206T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:f5d23917-6e91-4a22-a8a4-ae1a95130a3e@f5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231205T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:3505a56c-37c9-48b3-951d-fd9fd9a9af9b@3505.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231023T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:49070e63-5e88-4dd0-9da1-bc9d3939d96c@4907.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230919T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:92150870-483b-4697-9730-00bdbd718df6@9215.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231204T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:5f35efae-62c8-4a75-917a-15689e038212@5f35.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230919T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:74cf60b2-4c87-454f-ac0c-c3a200ed196b@74cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231010T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:67e6d510-8092-4d71-a076-8024281d47e0@67e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231023T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:52a91f66-efe4-4e91-8dc0-77b596d5dc2e@52a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231122T070000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:f1a8039e-c786-4c73-8a72-73c837e7681a@f1a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231011T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:737a2f20-eeb5-4993-ae21-31415c01302e@737a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231004T060000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:99853a9f-22bb-45f4-ad8e-6aeea30b6ec0@9985.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231010T140000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:24891d3f-a213-4889-9c95-d4579c392ad4@2489.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231128T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:5b421c13-6941-4d1a-aaf5-b39f7ba4ea34@5b42.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231114T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:bcd6c73a-4a5e-4e11-8023-539ba2ed1883@bcd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231024T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:948b6a87-9750-435f-b4b5-d39e35a3fc28@948b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231004T080000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:374fa144-e0d4-410c-8a4d-43adf09bdf6a@374f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231003T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:f4da7380-3e7e-4d95-b096-714efd805c91@f4da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231031T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:5805282f-b379-4e3e-9146-e2f63adfef84@5805.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231129T070000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:9e56f0af-7c00-4fdd-8fb5-75cfb2c00320@9e56.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231128T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:0c59f2df-ebe3-45b4-b2c9-cf810faba0ce@0c59.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231129T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:0cc4114b-8845-4390-bc1c-145482b3404a@0cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231106T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:cabc553d-ce3a-4c05-9a20-81c1cf907615@cabc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231023T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:05010c4b-098d-4522-812e-ae5204ebb188@0501.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231018T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:45708b21-0aff-4caa-bfa7-77511962c6a9@4570.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231024T120000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:9fa6fb85-ec99-4f24-a898-604624a4cde6@9fa6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231205T130000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:2cd068a7-d1a1-4df8-9446-599a056fda1a@2cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231204T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:67ca40e8-e5d4-44d6-bbdd-562f7077d216@67ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231113T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:067e7b65-0499-46bc-89c8-7d55d3ab3ec3@067e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231212T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:2a612080-72f7-499c-8266-1f02325243e0@2a61.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231115T090000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:8a7420d9-d7a3-452f-924c-65c560a59588@8a74.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231120T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:e86abed6-4195-42d4-9b34-8e2c833c4812@e86a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 5\, Aula 7 [via Margreth]
+DTSTART:20230928T120000Z
+SUMMARY:Tirocinio 3
+UID:9306fdc3-813f-4552-b05d-db6ab8cd19b7@9306.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231114T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:7365af23-b1b4-4c4a-9179-870de8c1b978@7365.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231011T060000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:607ecf42-fb54-4ef3-96c2-0903ecfca925@607e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231124T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:941e4d77-c8f4-4786-b897-5cc9153b332d@941e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230918T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:c0893b8c-6611-4f2b-b7af-26a7e0e01ff9@c089.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231122T070000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:579d8ca4-ec7a-4893-9e0d-6674b7f65c57@579d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231011T080000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:9b66be6e-35b1-40d0-a6f7-209e353c833c@9b66.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231010T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:f9684156-3304-442f-80e3-1fa7bdbbeae6@f968.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231106T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:fad9b582-6e72-4667-9109-60819666084f@fad9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231213T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:2e13111e-1e8a-4b50-8909-9eb10d949b91@2e13.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231204T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:59da2aa4-5229-4965-8ff8-7996fc686308@59da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231006T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:6f99f115-35a8-403d-ad20-3b99f3d78ea9@6f99.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231023T060000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:af5fadcc-cb21-465d-8cff-dd713cf46466@af5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231030T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:d84ca945-4f8e-4082-8878-7b54a83b0b67@d84c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231106T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:08392f55-a912-43ed-a7d3-fb1364e9a87f@0839.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231128T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:f3b6e242-6cf9-45b6-a17d-05e004fb7227@f3b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231025T120000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:6a296b56-7239-481d-a23b-570763ae0021@6a29.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231113T070000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:a0cdd5a6-16ea-41e5-8ed2-c651ad0d04a4@a0cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231127T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:b439ea4c-a5b1-485d-b3d9-ee7632ea5561@b439.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231009T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:5c70ac04-abce-49d1-be02-0c1b88a82934@5c70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231213T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:5e5f1d8c-b97d-4421-9c43-e1d62083804d@5e5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231103T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:35ce0d33-e26c-4573-85e9-6c376fb3c39b@35ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231108T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:988f8aaa-abea-49be-896c-228a28d64808@988f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231212T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:08a32e4f-6349-4b96-b760-3adfb4f3e716@08a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231107T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:a157e78c-7f60-4205-b6d8-9e9c7c02eec4@a157.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230919T120000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:5bde54dd-e041-4f9a-949c-fbbbcc25c157@5bde.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230925T060000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:1d6c34c6-131a-4b4e-a1b5-9104a8692585@1d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231107T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:faf85801-bbd7-4c0e-9b58-d317c39c814a@faf8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T090000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231108T070000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 1)
+UID:5419c0d4-5c03-448b-b6d2-99f52c8aeecb@5419.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20230918T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:d1752b71-3197-4ae2-87c6-b412b68d9af9@d175.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231214T130000Z
+SUMMARY:Tirocinio 3
+UID:267e77d1-d459-47ed-b045-52753bf14738@267e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231206T090000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:da285caf-0f6d-4ecf-ac04-921da84baa5a@da28.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231129T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:ccf57529-d1d8-4bff-919a-8196f7eec779@ccf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231004T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:972d1dd8-bcf3-4abf-8b67-8f3161253692@972d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231204T070000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:44d6ded8-99a6-4bb2-8f52-699cc1542f92@44d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231215T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:a9ebd84a-cf4d-4774-8fa4-fd197e117265@a9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231122T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:e202d67a-52f9-454c-949e-96068bd7d3ce@e202.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231127T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:acbefbee-79b5-4b3d-bce6-14b251c1a534@acbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230925T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:b02020b8-4f0f-48cf-b4c6-bdbcf728851a@b020.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231025T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:187291d7-c9ac-4baa-b0fe-9030a8e136f8@1872.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231206T150000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:f8c78565-e12f-4be1-ac62-b17148f832f3@f8c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231024T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:17300bc8-962a-4c92-9c18-3fb6d6fd89ed@1730.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231023T110000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:b9fdd933-8efa-4b00-9bea-389beb4626f1@b9fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231206T090000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:3d486a76-4149-4eec-b100-142ba4652bc3@3d48.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230926T120000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:afb41ce3-9fd4-44ff-8a8e-66551483c59a@afb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231114T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:e295562a-38fb-4aed-8aa9-120cb0fda764@e295.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231121T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:8225a146-de1f-45a2-85dc-cb04231deb90@8225.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231212T130000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:b182d940-2a06-413c-8782-22104041a52b@b182.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231031T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:5b727932-59be-4e5c-b46c-bf01e7af55d1@5b72.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231117T130000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:a32754d6-1b2c-4883-b755-c50e3e134886@a327.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231211T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 1)
+UID:e45cc387-6083-40e9-a13f-4b1a1bb09bdf@e45c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231213T090000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:ed4394e8-cd3f-4985-966e-cd77cc0f27d7@ed43.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20230929T140000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 2)
+UID:f3f294e3-3400-4d2c-bc76-8d2c79fca6b5@f3f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T080000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231018T060000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 1)
+UID:437c2d7e-e5ed-4cea-904f-20773d47508a@437c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20230918T060000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 1)
+UID:d1a07e3d-ff73-4626-97af-489100b34536@d1a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7<br/>via Margreth
+DTSTART:20231213T130000Z
+SUMMARY:LABORATORIO DI TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO (GRUPPO 1)
+UID:391c8631-7ad5-4820-a87f-d8a4460a40ae@391c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231012T120000Z
+SUMMARY:Tirocinio 3
+UID:c9712ec3-7855-4927-876a-24eb1968049c@c971.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231006T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:61794da0-6a6d-41c5-997e-eca7ee45b8ee@6179.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7 [via Margreth]
+DTSTART:20231030T120000Z
+SUMMARY:LABORATORIO DI TECNOLOGIE DIDATTICHE (GRUPPO 2)
+UID:29cd483f-9094-449c-8574-2f9f31c3492b@29cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231205T150000Z
+SUMMARY:PSICOLOGIA DELL'EDUCAZIONE
+UID:3ca4f488-9101-4c22-be81-0af9b9afb319@3ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231016T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:782425ea-f7a7-4cfa-8239-28a011691793@7824.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T180000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231205T150000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:4061dfc7-f39c-46a4-9ee1-3ab727bf6c19@4061.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231121T130000Z
+SUMMARY:LABORATORIO DI MUSICOLOGIA E DIDATTICA DELLA MUSICA (GRUPPO 2)
+UID:34682aa3-e8b4-482a-9d1f-1c891d286c13@3468.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231030T070000Z
+SUMMARY:MUSICOLOGIA E DIDATTICA DELLA MUSICA
+UID:1dac4a5e-235d-4b36-a637-8b0ce27ffa87@1dac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230922T120000Z
+SUMMARY:TEORIE E TECNICHE DELL'EDUCAZIONE MOTORIA E DEL GIOCO
+UID:632dd88d-66f5-4508-a6de-401843cb6496@632d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231213T090000Z
+SUMMARY:LABORATORIO DI PSICOLOGIA DELL'EDUCAZIONE (GRUPPO 2)
+UID:a1129cb7-7264-45b7-acc9-2c27f5e16089@a112.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231009T140000Z
+SUMMARY:PSICOPATOLOGIA DELLO SVILUPPO
+UID:7f25db15-7c1e-40b3-bd3c-e58960151655@7f25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 3\, Aula 5\, Aula 4\, Aula 6 [via Margreth]
+DTSTART:20231019T120000Z
+SUMMARY:Tirocinio 3
+UID:1456ab3f-09ab-48a2-a091-7f38f6912231@1456.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 7\, Aula 5 [via Margreth]
+DTSTART:20231108T090000Z
+SUMMARY:LABORATORIO DI PSICOPATOLOGIA DELLO SVILUPPO (GRUPPO 2)
+UID:08391dd9-062c-43e9-a476-40163f3caee0@0839.org
 END:VEVENT
 END:VCALENDAR

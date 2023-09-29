@@ -2,1726 +2,1726 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231108T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231108T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:3c82aff6-ccc1-46c8-89f5-eae7aa9e0447@3c82.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231212T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:81998d58-101e-4193-bfc9-3b0fb72230c6@8199.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231214T143000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:49c677b4-6dc2-45e6-8e9a-fbf0f405395c@49c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231206T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:e5fbea24-f589-48f7-b79c-3fb61223c26c@e5fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231002T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:4c9a8589-73db-4ff3-b226-fabe8d664201@4c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231226T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231225T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:bfa00e3d-39ce-48b5-9d70-bdb08e860e02@bfa0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240112T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20240112T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:93991376-2a6d-4ffc-84b4-7c5f790d6c3e@9399.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231204T093000Z
-SUMMARY:BASI DI DATI
-UID:a9725690-0100-44fd-b87b-c0ad8a47309a@a972.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231005T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:929932d3-a139-4a91-987d-c5d1efd02a06@9299.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231030T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:d6b53229-d99a-46ca-948f-f3174d0ee5b1@d6b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240116T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20240116T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:9dff9cbe-eb9a-4541-ba0c-74746c4ef64d@9dff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231120T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:e3aede44-114a-4a7e-9491-17915d6125f4@e3ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240115T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20240115T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:d9dff21c-5323-463f-8d85-93eadc8399b4@d9df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231013T083000Z
-SUMMARY:BASI DI DATI
-UID:88fd2ac5-6265-4d40-a2fc-9fa89c934121@88fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231006T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:2058c9ba-5a3e-46fa-9de0-82537b7aee5c@2058.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231121T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:d119d660-c78a-4f6e-b66e-4bb49820c105@d119.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240108T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20240108T093000Z
-SUMMARY:BASI DI DATI
-UID:239d1de6-f3e6-48ba-90fb-fae85f0cf9e1@239d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240118T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20240118T143000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:b921da31-e2fc-44f7-abb1-05610999a38f@b921.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231117T093000Z
-SUMMARY:BASI DI DATI
-UID:8f459d3a-3de6-4974-8fd1-41aab50e85c4@8f45.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T153000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231019T133000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:78f1e136-156c-43c6-a9f2-7b44459e2e3d@78f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240101T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231231T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:a8527aad-1ae1-4e6e-831c-d439536e97f7@a852.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231130T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:fa9bc4b2-0868-4828-bc00-956f8602875c@fa9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231110T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:cbbd2593-f5dc-42d0-89b1-8454c5283162@cbbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20240117T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:6de5e16e-54d3-41ab-88ab-51823bcf3e4f@6de5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231113T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:d036c688-efd3-4a7d-8b9d-3d72b17f31ec@d036.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231113T093000Z
-SUMMARY:BASI DI DATI
-UID:77ea0dfe-14cf-449b-9da8-cf46f9266885@77ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231218T093000Z
-SUMMARY:BASI DI DATI
-UID:8f5dae8c-fd2a-446e-bf52-23f60a076df1@8f5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231123T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:0d5ea0a4-9f8c-4027-89df-56c98906d084@0d5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231205T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:d4d096e3-e915-4cb4-a0bc-88e1f095ba8d@d4d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231024T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:1f27c4ec-7798-4b0b-919c-9ceb2a57b5db@1f27.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231115T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:1e7a228c-71c2-45ac-8474-1defb83c7cff@1e7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240109T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20240109T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:28d95f19-4be4-4d2b-b985-184fe16d2b71@28d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231116T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:30811532-1ac3-44ba-95be-696330a4dc00@3081.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231213T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:d82d9f7e-460a-4550-92f5-12c20801ab41@d82d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T123000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231004T103000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:e878e272-3585-4e73-8686-d941f4c3433f@e878.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231019T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:7df56e76-7d50-42cb-a10e-b553e4fae41d@7df5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240115T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20240115T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:275e8e1e-aef0-4dc8-bb5a-a433ebe77840@275e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231218T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:60ab40ec-8ea6-43a0-a40a-0199e9be3b2f@60ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231116T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:9e51290e-2f5c-40cb-9eba-0b5eac75b632@9e51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231211T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:b2518d9b-85ac-4974-ae87-4f932e4a8463@b251.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231207T143000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:cbabf4e5-eccd-422e-80ac-bd18f9b17bfd@cbab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240106T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20240105T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:3a67ceb0-ccec-419d-9e0f-a2669a6295b7@3a67.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T123000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231025T103000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:261e6c73-f3e1-4151-946b-c6dc3ed1eeb3@261e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231013T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:5ec82997-5010-4c85-9eae-a7f1b8351c2e@5ec8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231025T083000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:e0217373-69d2-4e39-90fb-1f56b96065fa@e021.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231107T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:eb9036ca-c747-4bfd-98b7-3cd1ddee53bd@eb90.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231124T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:fc7e82ef-9a39-4a84-8359-e53650f6da0d@fc7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231017T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:c9fc512d-6e82-4d3c-bf77-a1ace72ab20f@c9fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240115T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20240115T093000Z
-SUMMARY:BASI DI DATI
-UID:15c1c24c-5666-47bc-899f-5ac6ab33fa48@15c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240108T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20240108T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:0f9bf7de-78d8-4217-9122-841e1a61a2cd@0f9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231219T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:8996118d-e672-485d-a839-f193f41ff2de@8996.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231114T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:c1ad644e-7af6-4c91-8fc2-70ca744f22c2@c1ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231107T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:f0c24e18-2e67-4f1b-8837-8a3f92b7aa1c@f0c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231122T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:5b4bbb39-35a0-46bf-a3aa-5ddd32be505e@5b4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231009T083000Z
-SUMMARY:BASI DI DATI
-UID:0269519b-9937-4c1e-b746-f20cbc8972e4@0269.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231010T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:b8d1bf37-9c47-44ff-b898-c4f2a6fccfd4@b8d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240116T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20240116T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:beee40da-70ae-47fb-9f05-a289c8641c89@beee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240118T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20240118T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:218d63f0-4470-4983-bec1-2bfb9e42fb94@218d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240108T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20240108T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:574b2d2e-0b98-4f4d-8d35-244aa45d8149@574b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240112T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20240112T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:2bf13548-9d30-4cec-b430-ffdfc5534ee6@2bf1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231102T143000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:edb2624b-c8df-452a-8b0d-ebeb1e73ec11@edb2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231130T143000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:2716afe7-8ccd-4f99-a424-3da44b7d57a7@2716.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231215T093000Z
-SUMMARY:BASI DI DATI
-UID:3df2965b-7497-4930-8df1-828d682bedbd@3df2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20240111T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:1d07d987-e276-43be-9195-f27b03a550f0@1d07.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231129T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:c62bfc6f-3934-4f0e-b5d4-a3daa9cac03e@c62b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T153000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231016T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:7a0c5634-ea45-4419-8f51-378d66949af7@7a0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231204T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:fd2013c2-1b28-45dc-840b-5dd9a858f901@fd20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T153000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231023T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:5540850b-bb15-4ca4-a603-e7286492f31b@5540.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231016T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:eb48ca62-d016-4a99-b025-49022d109954@eb48.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231023T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:d120bafb-34cb-460b-8e7d-5dd130d127a0@d120.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231220T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:61e4215d-04ac-4500-ba4b-a1ba5916bbea@61e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231005T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:c94181e8-39b5-40f0-8a71-5cb401668c95@c941.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231018T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:b4d07962-2425-40f9-8dca-2485f15941e0@b4d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231011T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:3279f216-82b5-42af-89e3-765633f1df3f@3279.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231026T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:f9ebb667-f9f7-436c-aa59-2c9bb6815f72@f9eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231031T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:26cc318b-c3c4-469e-9c4f-9b55e43bad0e@26cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20240117T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:7016e498-69bf-4355-9bed-4774c18d8419@7016.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231030T093000Z
-SUMMARY:BASI DI DATI
-UID:5cf4bf71-78e6-4c3f-aa2f-5f3ea99543a5@5cf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240102T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20240101T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:15b218c9-98c9-42cf-9a24-4f053dd335d3@15b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231120T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:ad61ee1c-8bf1-4f35-8b1e-729546b17f4a@ad61.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231219T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:cec3ef53-ea33-4eaa-8c71-54cd3e6f9cf3@cec3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231122T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:9b35c032-1a61-4a70-aa89-2421d676ac70@9b35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231115T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:46b296fc-3c1b-44c4-a039-d2db7415cea8@46b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231128T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:1f971c05-8ed1-4584-8dcd-24f51414847a@1f97.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231019T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:901eb7d2-d0da-4008-9f8a-06a944fb5528@901e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231027T083000Z
-SUMMARY:BASI DI DATI
-UID:b9bb5759-1ef5-48f2-b3a4-c913e0a1f1ef@b9bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231023T083000Z
-SUMMARY:BASI DI DATI
-UID:118f3ea2-f4cd-40b9-832e-3287130bee13@118f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231010T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:0d8f522a-5e32-44f4-a46a-fbf35c2d5293@0d8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231102T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:387e0ac6-287d-4686-b4f5-88ecafdfd286@387e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231201T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:d9a020d2-8e1e-47f0-9ebd-cc5ffc29a768@d9a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231218T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:b23d60d8-c9e5-4835-abc3-c26ee9cd3d4a@b23d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231226T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:2e69366b-fa21-46b5-b78f-a9f4d2fd3188@2e69.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20240109T113000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:C8 [Rizzi]
 DTSTART:20240109T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:5dcd2fcd-0810-4fca-bd58-9a4a151f31f0@5dcd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231024T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:9f600374-6059-4556-84f9-ca941e3eadd5@9f60.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231215T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:7c6f0b50-846a-4bd2-885c-bbd1c0f90698@7c6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231107T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:5fffa55a-0767-4d8e-9b24-721e029cd8a3@5fff.org
+SUMMARY:PROJECT MANAGEMENT
+UID:f6291e20-4912-4746-bdf9-f0c0b93b6f55@f629.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231006T103000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B030 [Rizzi]
 DTSTART:20231006T083000Z
 SUMMARY:BASI DI DATI
-UID:6af8fb8c-8dc2-408c-b2c7-0f4349b9d679@6af8.org
+UID:188358c6-8c9e-49d4-b2ed-093b8bbeb8de@1883.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231124T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231124T093000Z
-SUMMARY:BASI DI DATI
-UID:69ee4c33-fbab-4659-8d0e-c1805b790f95@69ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20240117T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:0e93c954-9eb3-4bf9-a6a2-3cc5f1975e4a@0e93.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231214T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:95f58b71-3b1b-4efd-8bf4-3624e94484a6@95f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240119T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20240119T093000Z
-SUMMARY:BASI DI DATI
-UID:5d4987f2-ac96-4557-86ed-48f31a6b219d@5d49.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231127T093000Z
-SUMMARY:BASI DI DATI
-UID:2ed4539d-caea-479f-86ae-73890eea6dc2@2ed4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T163000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231023T153000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B016 [Rizzi]
-DTSTART:20231127T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:996f4ad2-2294-40dd-80b7-418453ac9fe3@996f.org
+DTSTART:20231023T133000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:47f144b5-3578-4ae4-97fe-bb6a366166bf@47f1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231207T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231207T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:2bcd7057-a908-4320-9f4d-a3f95c48fb5f@2bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T153000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231012T133000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:6ccb76e6-4e03-422f-8ee6-c6371e3d3dc9@6ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231121T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:8ab4600c-cbb0-438f-99a2-a1fed3910b9d@8ab4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231031T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:1083b05a-ce87-436c-8129-4996a55852a2@1083.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T143000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231006T133000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B030 [Rizzi]
-DTSTART:20231127T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:a568fa4d-6499-4df9-ae79-3c052177dc43@a568.org
+DTSTART:20231006T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:adf36470-234d-4379-9d21-aa40f486cff8@adf3.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231017T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231017T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:85627cae-1338-4fbc-a9d0-2fbcf1b437b5@8562.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231002T083000Z
+DTEND:20231013T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231013T083000Z
 SUMMARY:BASI DI DATI
-UID:9b3f45f1-93a6-43f5-b710-14ad802c5c4f@9b3f.org
+UID:a21f5cc2-c7cd-4296-b9df-31d771cb0008@a21f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231222T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231222T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:53937d04-ffa9-498f-b82c-d1c76b4b4961@5393.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231004T083000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:2f272933-30f5-446d-a62e-e3d826af4252@2f27.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231221T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:d62914e3-f412-49ec-9c07-179887bfb630@d629.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20240110T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:ead9b1fc-6ec3-4da8-b7e9-dbc3f7d8b4ed@ead9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231020T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:ef3bbe7a-2d26-4bb0-a707-5e247d85f54d@ef3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231229T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231228T230000Z
+DTEND:20240106T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20240105T230000Z
 SUMMARY:HOLIDAY: lessons not scheduled
-UID:d58c2486-efb6-47b0-8539-2465b94f9f92@d58c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231031T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:4d0f4beb-60c4-4181-88b6-77ef98bad3c5@4d0f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231109T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:b8029784-4c3c-4c29-b6cb-5580350e4eac@b802.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231212T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:344a6f44-1732-4bf1-84f5-0db568035436@344a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231219T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:888b1fb3-20df-4244-9eb2-17c683574e74@888b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231106T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:6dd3b880-bd91-4a58-9720-b26e35cd7d7e@6dd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231117T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:d644a0ec-a7cf-459e-9413-8178169f8dbf@d644.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231108T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:2f4bdefc-b8fc-41f2-8e0d-c5fe18850392@2f4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231025T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:bf01280c-6224-4b0c-a418-dea93410d573@bf01.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231123T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:50ce0129-2cf7-4340-840b-3910923fd4a3@50ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240118T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20240118T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:58912881-accd-4b66-adb3-00bedda1a5c3@5891.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231220T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:0b8702eb-4b63-44d4-991a-9c19f4828a76@0b87.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231114T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:f917e62f-3d0a-4bb0-b069-db6d5b2472c1@f917.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231106T093000Z
-SUMMARY:BASI DI DATI
-UID:ec7fc25c-1950-4a4a-b7b0-2f7011e3a06f@ec7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231222T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:77e6f7bf-2184-446e-b638-4287fadce8da@77e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231222T093000Z
-SUMMARY:BASI DI DATI
-UID:6a691498-86a6-4a0d-bd17-eb3421f28ed8@6a69.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231012T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:f3fcab39-571a-4486-99b7-c4195c16419e@f3fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231130T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:ec20188a-515a-4011-acb6-1b5a03199d75@ec20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20240110T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:b5a947c9-e5c2-4d60-8104-893c420a8fbd@b5a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T123000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231011T103000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:dafe55a9-22b6-44bc-ab51-83355328bbf9@dafe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231128T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:de996981-9a8f-40d6-abdd-90fe93da4740@de99.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231206T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:6e74e5e3-b1b3-403d-b8ab-e8d9f9435591@6e74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231225T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231224T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:5edec68c-8a06-4d30-85e5-fba3923603fd@5ede.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:5fb74326-065b-4e9d-81e2-d1fd8c724dd8@5fb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:baf259c7-2936-49a7-af9e-5cae82aeb352@baf2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T153000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231002T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:b60dd670-a0e0-4b23-9a48-59e11458b3ad@b60d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231012T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:52dadd7f-e190-4d91-9694-62eb5d67559e@52da.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231103T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:acddd5ae-894a-4414-b007-b47665aa15ff@acdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231016T083000Z
-SUMMARY:BASI DI DATI
-UID:d90cd83b-0f4a-4bf0-84ec-a921985e21b4@d90c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231106T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:1b16626f-17fb-4442-9792-27fe8752c4d1@1b16.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231124T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:51c6886e-bc9c-4c4d-a8ae-e61e638c4ebb@51c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231020T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:fa71033b-a264-4960-8227-27591eec13a3@fa71.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B016 [Rizzi]
-DTSTART:20231204T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:4eedfc38-1d3f-4d16-beb8-657ac9a83b31@4eed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231010T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:59b1360b-5e20-482b-9a0e-10a32b93109b@59b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231017T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:15d70eeb-dccd-40b0-9898-f6b178fceebc@15d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240104T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20240103T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:8ac855ba-136a-4f4e-a1d5-b113bc3a199f@8ac8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231110T093000Z
-SUMMARY:BASI DI DATI
-UID:1cab7579-03a5-4af8-9887-40aa4c9f632a@1cab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231122T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:63756f06-add3-485e-b2a2-8da1eeed990d@6375.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231003T113000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:748b9901-a1ca-4613-b146-c08f7ade2885@748b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231108T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:3fc711d3-3440-46e9-866f-9e3d5717d241@3fc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240119T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20240119T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:f71a37e2-de5b-45df-b80c-7812daab8ad5@f71a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20240111T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:f744a08b-62b9-48d7-9d2c-85ca6d6ac0c1@f744.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231103T093000Z
-SUMMARY:BASI DI DATI
-UID:d7907fa3-505e-4f93-a2c5-526f653346b5@d790.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231003T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:01b799f6-4a22-461f-b77d-7876c0b6c900@01b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240103T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20240102T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:36f56690-7ffc-449c-bd39-97d0a414853e@36f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231027T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:0974334a-c5a8-427d-ae0d-2f58c052f582@0974.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231024T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:6d35b94a-c917-491a-9d65-dec3f4856cd6@6d35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231011T083000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:d3a6d21f-167a-4214-b06f-9fc321dc11dd@d3a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240105T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20240104T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:1fa12601-0dba-4628-8f59-5b207c7f35a6@1fa1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231128T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:97c67f5f-e7fc-462e-b3da-f0380b9b0453@97c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231206T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:9c6e2165-26fe-4295-8ec1-e87908f6badb@9c6e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231018T083000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:b648dfcb-b8b1-4b68-924c-be9ebfd8a130@b648.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231213T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:0dc3082b-72e4-414b-81cb-cb773451d4ad@0dc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231201T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:88af6830-1492-43d0-8018-b530a1963aa3@88af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231220T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:9576f2c3-ed18-48da-b1f4-acca3c89e7a4@9576.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231201T093000Z
-SUMMARY:BASI DI DATI
-UID:c1a7990e-9815-47e8-992e-b255425e33ad@c1a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231113T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:db380482-6b1d-4f96-a3d2-b06ef122259a@db38.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231205T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:a8cb1af1-b956-4328-8d4d-9fb23260c528@a8cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231213T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:d19c4eb6-d04e-484d-b9d4-cabf5bb5a9e6@d19c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231120T093000Z
-SUMMARY:BASI DI DATI
-UID:0771a812-4417-4d9e-af78-cfb29cfde96a@0771.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231009T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:1485d41b-6c6b-4cd3-a3f2-25d1ec4008ff@1485.org
+UID:7c596202-cdab-46d8-af3d-74feb10cc790@7c59.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231211T143000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B030 [Rizzi]
 DTSTART:20231211T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:f09bd43c-96b5-43d4-87fd-0c8e0a616b17@f09b.org
+SUMMARY:RICERCA OPERATIVA
+UID:a16e0a91-4bfc-4d86-b42e-89051fe9eea3@a16e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231114T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20231114T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:0a21e589-e820-4c82-a676-08958761a9c4@0a21.org
+DTEND:20240115T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20240115T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:6fe5b6da-ec49-4927-859b-db43ad1194ad@6fe5.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231018T123000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231018T103000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:85be402a-5083-4f2a-bb35-156e6892b09e@85be.org
+DTEND:20231002T153000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231002T133000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:beabc75d-49c2-4948-881a-a89e4c237794@beab.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231211T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231211T093000Z
-SUMMARY:BASI DI DATI
-UID:54241149-02a1-42c2-99a7-e61ae8acd440@5424.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231102T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:7d0f180d-e4c9-4469-b9f6-9edd4bc64aec@7d0f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T093000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231108T093000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:C13 [Rizzi]
-DTSTART:20231115T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:1b14fc1a-e103-41b5-a97d-2893a118ee56@1b14.org
+DTSTART:20231108T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:7f82c9ab-aa9b-4d78-b847-ce29529824f0@7f82.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231103T093000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231012T133000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B020 [Rizzi]
-DTSTART:20231103T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:cbf26b6e-c84a-4980-9507-9615030b995f@cbf2.org
+DTSTART:20231012T113000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:93133b77-b05e-480a-84ce-602214301006@9313.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231129T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231129T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:75ccbf6a-6325-4b28-bff5-eeb0fb61e2df@75cc.org
+DTEND:20231127T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231127T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:c903604a-199f-49c4-a3f1-b538d7a6d315@c903.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231110T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231110T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:89586eea-66b4-4e7e-b5b6-e03c53433b54@8958.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20240111T143000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:72eb78ce-32a8-48c4-ad8b-0d36a630501a@72eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C13 [Rizzi]
-DTSTART:20231004T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:166368c9-fac3-4a60-9127-ea109add4302@1663.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231221T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:d0566bcb-c24d-47fd-9ebe-e40775f64ffb@d056.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240109T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B021 [Rizzi]
-DTSTART:20240109T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:b05fd9e9-f5a9-408d-9e69-022975fdad4d@b05f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231129T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:2b4b9e60-2b14-412e-8742-9a3ccd8c52e0@2b4b.org
+DTEND:20231120T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231120T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:bf588068-0828-4190-b07a-c8eec734012e@bf58.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20240116T143000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:A037 [Rizzi]
 DTSTART:20240116T123000Z
 SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:226f19f5-96a2-4a68-ac52-8916716b0e45@226f.org
+UID:9525665f-5de1-45ed-8497-49e18ecf2dc7@9525.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231005T153000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231005T133000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:3b46938d-e94e-41cb-b6aa-91a7ea8a89a2@3b46.org
+DTEND:20231003T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231003T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:19dcb868-1145-4768-83de-4715e597fc0b@19dc.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231221T163000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231221T143000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:a6c88b39-f23a-48ce-af16-b8949bc697bf@a6c8.org
+DTEND:20231011T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231011T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:bfd18a1f-cb2b-43e9-8fbc-ac9ad32ec8b2@bfd1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231214T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231214T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:3795ffae-5d48-4833-aada-591f8e1217fe@3795.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231215T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:96b89dfb-3995-429b-8016-87d941793b5d@96b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T153000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20231026T133000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:85f374d0-4fec-4b6a-8fd1-9a00f1f3e270@85f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231207T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:231017b0-4efd-4063-b1da-d2325300c9ce@2310.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231003T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:862213b2-be2a-4a02-8d38-0032a2fd0770@8622.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B031 [Rizzi]
-DTSTART:20240110T093000Z
-SUMMARY:MECCATRONICA E ROBOTICA
-UID:e971ff93-e01f-450e-968b-db5357197615@e971.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T103000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231020T083000Z
+DTEND:20231002T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231002T083000Z
 SUMMARY:BASI DI DATI
-UID:9f56d89a-8807-4a3d-aac2-afd9fac6e22a@9f56.org
+UID:a2bd496b-1391-4d59-9fbf-81821bcd7558@a2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231116T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:226ebe41-ed3f-4190-8e5c-6f63757d2d6a@226e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231120T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:7e43c506-4cae-4df2-859c-a76d47006d0e@7e43.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T123000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231004T103000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:de3ed568-1cdf-4843-9fb0-13207b78ea2d@de3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231206T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:bcbbd583-7c75-43d7-87b0-82e0fc21e898@bcbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231031T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:35337f4a-bb56-470c-aac0-f077038e675a@3533.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231023T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:ef17d350-0cce-4b98-a976-04992439d3cb@ef17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231010T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:ba5b4d56-988d-45df-bcf5-118fb270f9e8@ba5b.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231121T143000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:A037 [Rizzi]
 DTSTART:20231121T123000Z
 SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:849db7fa-757b-42d1-92fd-d8d14d0f8042@849d.org
+UID:11f421c1-6402-47d7-a467-9964687f57b5@11f4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231006T083000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231006T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:30083379-8e3f-49c2-a330-4ed5150bd788@3008.org
+DTEND:20231025T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231025T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:498c5b9c-6d13-4a03-8b80-1caa1332122d@498c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231109T163000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231129T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231129T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:073c1b84-cce5-4788-86f3-5a4b67508897@073c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T153000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B031 [Rizzi]
-DTSTART:20231109T143000Z
+DTSTART:20231019T133000Z
 SUMMARY:MECCATRONICA E ROBOTICA
-UID:c382af32-7d8c-40d0-8924-9b24b9d2b1a0@c382.org
+UID:45ba0f8e-7573-4278-9344-5e203d617b83@45ba.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231228T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231227T230000Z
+DTEND:20231215T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231215T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:800fc188-c007-4ebc-bf71-f694f1b8ac72@800f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T153000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231005T133000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:53d250e7-e94c-4f98-9999-0188a910d31c@53d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231207T230000Z
 SUMMARY:HOLIDAY: lessons not scheduled
-UID:e0c13a10-01d1-498b-8911-ca8eb47f2c4e@e0c1.org
+UID:2e73dfc0-cdd1-4757-a546-3b9730863cbd@2e73.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231026T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:C10 [Rizzi]
-DTSTART:20231026T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:35886b88-9438-4787-a176-1c764504419b@3588.org
+DTEND:20240118T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20240118T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:4a0fa331-5ffb-4c52-8a62-415e21ffbaea@4a0f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231123T163000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20240108T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20240108T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:b9e0480a-eb38-44cb-9a52-682627212b0e@b9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T103000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B031 [Rizzi]
-DTSTART:20231123T143000Z
+DTSTART:20231004T083000Z
 SUMMARY:MECCATRONICA E ROBOTICA
-UID:2f8961c4-7595-4ddb-bd0c-d2b6dfaf03ed@2f89.org
+UID:c4bb5fe9-e54f-4c70-bbac-31b12fe17de7@c4bb.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20240119T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20240119T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:fb3db115-ec29-44fe-9b5c-a2a18308f5b1@fb3d.org
+DTEND:20231102T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231102T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:bb60bcf6-7b0a-446b-8b59-f84e129e5445@bb60.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231013T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231013T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:8b5d3422-503e-4aa5-b377-bba4db2bd33e@8b5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T143000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:A037 [Rizzi]
-DTSTART:20231205T123000Z
-SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
-UID:187fd00e-6cda-4ec1-afa9-fd884835a683@187f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T093000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B020 [Rizzi]
-DTSTART:20231117T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:cf36afb8-aab4-49b6-af39-81e571ff7436@cf36.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T103000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231102T103000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:C10 [Rizzi]
-DTSTART:20231109T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:f399c781-90dd-460d-9804-67328b1b208c@f399.org
+DTSTART:20231102T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:d75eba95-04cb-4f67-b03c-8f124a6a7ae8@d75e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231027T133000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20231027T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> RICERCA OPERATIVA
-UID:1e91c336-71ba-4a1e-8c67-49dff486fa1e@1e91.org
+DTEND:20231012T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231012T073000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:9d420e35-50f1-401a-a822-a32df2a825b8@9d42.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231108T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:9c882025-d6c7-43af-91cb-ace667f6cb2c@9c88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231114T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:361ea209-ed0c-4675-b0a7-2c73d61573ad@361e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231219T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:a63d4298-206d-4017-a259-99092a40c50c@a63d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231123T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:5f3519d8-c7e9-4ffe-8dde-50ca7bb2f94c@5f35.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240109T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20240109T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:eba22e2d-6dde-47a0-9786-99976854439b@eba2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231130T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:c376bbc8-ae22-46bf-8189-3222b14e180e@c376.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20240111T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:0fb817bf-4411-48e3-8be6-1e7ed77ffe90@0fb8.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231009T153000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B016 [Rizzi]
 DTSTART:20231009T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:eb6c6379-806e-4814-afff-14a8fe5a4c66@eb6c.org
+SUMMARY:GREEN MACHINE DESIGN
+UID:14f10352-b8bc-437f-8541-0f96a3a1230a@14f1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20240112T113000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:B030 [Rizzi]
-DTSTART:20240112T093000Z
+DTEND:20231122T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231122T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:7513440f-6204-4e3e-bc62-f153deabbb58@7513.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231102T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:df5fa3f9-9081-49b8-80e8-2d2e1873d97b@df5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231023T083000Z
 SUMMARY:BASI DI DATI
-UID:a4e82670-1441-4c89-88a4-b46b579cf14c@a4e8.org
+UID:6d59bf8c-2328-4fd3-8398-70d1ee60bee0@6d59.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231116T163000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231011T103000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B031 [Rizzi]
-DTSTART:20231116T143000Z
+DTSTART:20231011T083000Z
 SUMMARY:MECCATRONICA E ROBOTICA
-UID:810e8cde-2282-42ba-87a6-bbdf57e6b895@810e.org
+UID:061ccad5-6271-4360-a215-34ef865d30a2@061c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231010T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:f6f7f62f-b98a-4298-8c3b-c5ca4f0ee7e6@f6f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240116T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20240116T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:6a3246c7-2d48-433b-95da-5e6bc9ebfe37@6a32.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240103T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20240102T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:9b7163aa-78ce-4210-a6e5-f446eb6ad8df@9b71.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231003T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:27c21aa7-c4d7-4a7c-bf58-154ac8c09f57@27c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231213T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:57f8b83d-d8ef-4238-94ec-2fe10fcc9638@57f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231129T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:2b9d6af4-9cee-4409-9540-669809854b1d@2b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231106T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:f201107f-1061-4478-b461-58ba6aba8c88@f201.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231212T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:5eeb3e9a-deb6-43c5-85cb-037713dccea0@5eeb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20240117T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:020fb56e-1710-4ec1-b59e-9f589d159a84@020f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:3d1c5f27-d5ed-4d28-8397-0df7aa359893@3d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231025T083000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:d95a48b3-cd8a-48e6-b2f0-3ab39783f25a@d95a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231222T093000Z
+SUMMARY:BASI DI DATI
+UID:6a8682f2-1c1b-4c17-9056-60613e772a92@6a86.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231107T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:331f4bc5-3c7c-4fbd-8335-51f7f6bc4512@331f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231103T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:2dcff3f2-3a28-4786-8962-7f9452684de8@2dcf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231024T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:e49645dc-e436-4911-8c36-7a88bac7b418@e496.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20240110T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:8d88e8ec-7846-4ee3-ab5c-1b93e588b7fd@8d88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T123000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231018T103000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:1a514c5b-5887-4f8d-8fbc-e000a62dfc29@1a51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231020T083000Z
+SUMMARY:BASI DI DATI
+UID:491c1237-c678-4bbc-ad90-4f3dac39ab42@491c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231002T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:4c31c54f-20c5-4898-92db-a1cf51e07bde@4c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231115T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:33d2ba92-dddf-4fbf-9be9-ac27c558d76c@33d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231214T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:834e4b86-bb28-4587-a033-a2e888adee03@834e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231128T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:53ce464b-e311-47be-90c0-b7fc4ac4f9d2@53ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240101T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231231T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:966abd7c-30b6-4325-85ac-c60360475955@966a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240105T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20240104T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:beefaf67-46f3-4f60-b5ea-cbae6c24b191@beef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231225T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:171e67af-57c0-4303-aff2-4112f6f6a990@171e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231017T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:516eb763-6424-4bbb-89a5-ce6e599bb949@516e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231222T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:7e674b9b-c72d-448f-8027-dda92163a9d4@7e67.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231218T093000Z
+SUMMARY:BASI DI DATI
+UID:107680c0-83c7-47b6-bd24-aba48a6f72c2@1076.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231114T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:d837bd9d-f1f9-4172-8adb-e7857b7e088c@d837.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231003T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:5c9546b1-02ff-4147-b3a7-125696346e58@5c95.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231211T093000Z
+SUMMARY:BASI DI DATI
+UID:ea1ca830-2f41-4650-aa66-84e00d39a27c@ea1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240119T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20240119T093000Z
+SUMMARY:BASI DI DATI
+UID:ec810e67-0149-4f99-9567-279310964fe0@ec81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20240117T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:9afa4ae3-afc0-4250-b7d6-c42d2c2a976b@9afa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231225T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231224T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:4e151e7c-5d63-47ac-ae97-ea76f01b6744@4e15.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231226T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:74d0f8bf-9e6f-4879-948b-da70e56311fc@74d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231026T073000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:8621ed9e-fd08-4467-8b4d-9ad9ea6b25c7@8621.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20240111T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:e898bf51-859f-4c7b-8fde-71e33a7d5562@e898.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231222T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:96a6627a-10fe-403a-bf6f-9e6ff2114ef2@96a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240119T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20240119T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:e269fde1-d987-4f75-8ece-246e9dbe2e95@e269.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240108T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20240108T093000Z
+SUMMARY:BASI DI DATI
+UID:faac975b-5ea0-493f-8aae-90b8fda411ec@faac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231219T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:fa61e9fd-a389-4639-b359-42bb65c89096@fa61.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231130T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:b9dadd02-aeac-4549-8fb9-47900e6aaab4@b9da.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231212T113000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:C8 [Rizzi]
 DTSTART:20231212T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> PROJECT MANAGEMENT
-UID:05fa2b8b-f824-434e-ba51-02d0f071a7a3@05fa.org
+SUMMARY:PROJECT MANAGEMENT
+UID:db81d648-b125-40dc-9843-86d9b1d587da@db81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231030T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:a588f876-7bcb-4f2a-a608-167718d9928b@a588.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231218T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:299c83e2-81e9-49be-b48b-8aca6969c37b@299c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231024T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:a559ee62-5dd8-438e-9293-ee256f84dbe9@a559.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231220T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:86b29670-eb61-4820-bbc7-78aba2bd75ba@86b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231130T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:f48e52ce-d6ea-42d0-871c-41fa4ab76b46@f48e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231212T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:8e652aa2-9de8-4d49-a363-177a44186eec@8e65.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231229T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231228T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:41e762e3-a7b3-426f-aa8c-573e38c95fd4@41e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231115T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:1ff400ea-3df7-4fdb-8329-349b37229fd6@1ff4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231204T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:752c6110-22be-4b68-9417-95caad9462a0@752c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231106T093000Z
+SUMMARY:BASI DI DATI
+UID:85e62a33-7b3d-402d-8e44-3876f0ebbf24@85e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231205T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:33768296-797a-4eda-a280-5e2ba2521672@3376.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231019T073000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:e46b6e3c-d57c-4783-bbbd-bbdb303cf4cd@e46b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231205T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:cd146e18-0b1f-45c2-95d7-ed403c7701f4@cd14.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231109T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:cb803743-48cc-4d0c-a7e9-fbcbf6f780ca@cb80.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20240110T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:b442f46b-e4ec-4013-aff4-ce18ad400978@b442.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231020T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:2f680442-4028-4393-8f97-a6a2ea5d4402@2f68.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231009T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:eaa37d16-81d0-4ffa-8a92-1518cbb2ad89@eaa3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231206T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:c412f62c-0c28-41cb-8f78-8ba321fdb637@c412.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231120T093000Z
+SUMMARY:BASI DI DATI
+UID:5fb822b9-c359-4e7a-a0d9-c0497d530b5e@5fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231108T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:22a237e8-b773-4146-bbe7-b9183da5966e@22a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231220T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:87fcdbd5-b651-461e-884c-1b829cd27ec9@87fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231207T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:e46fc03c-0d88-468a-a38b-7cf5a3d0b3e3@e46f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231004T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:f531ce50-5b74-4427-b42d-7b3db9d080fa@f531.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231018T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:5c6aed75-97ba-4090-9c45-b3aeacdbe074@5c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231115T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:bc4a5c37-b95e-4b76-8e79-98b914b1fa08@bc4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231019T113000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:27ae9329-a166-4911-885e-1174596566b0@27ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231129T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:b34cbab4-4948-4484-a6f8-e36e9909c5d6@b34c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231221T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:235280c5-72b4-4327-8034-eaf4590fa1f8@2352.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231128T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:4912cc6b-fd8c-4377-92f8-bf44aea7f8e4@4912.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231127T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:67483ac6-7cbe-4091-9d01-379fa402110c@6748.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231215T093000Z
+SUMMARY:BASI DI DATI
+UID:59aecf7d-f69d-47dc-b569-65834bfb1b3c@59ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231124T093000Z
+SUMMARY:BASI DI DATI
+UID:978eed84-ee47-484a-a53f-cab8d0b8fed2@978e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231227T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:c2c14865-9bb7-4729-b995-95296c5e21bb@c2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240104T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20240103T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:2b7cd01a-0b1f-45c9-967f-1d74757de543@2b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231213T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:b688268c-7bfd-4b55-95ec-cb97bec96d20@b688.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231201T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:08a540aa-3103-43a7-9e7f-623e3a58e7f3@08a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240119T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20240119T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:dcf898b6-25e6-4ed3-a48b-b94a9478c74c@dcf8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240112T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20240112T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:ffcd3659-eddd-4da5-8ae9-7d0b3e8fde8f@ffcd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20240111T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:80c9eadd-37e4-4d67-a7b7-ccfb2d3de401@80c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231027T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:7fab5b36-053a-4a15-bb45-0a0aec224e9a@7fab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231018T083000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:69e4ac62-3a29-404c-99a3-1384d41f487b@69e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231107T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:df8fb6b1-a75a-4968-b5c8-1162fa35f4b0@df8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231127T093000Z
+SUMMARY:BASI DI DATI
+UID:b13f505b-9c3d-4b2b-960c-dd255b7ca1ee@b13f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231211T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:e9269058-0ed3-4880-8814-695b5dfbf9ac@e926.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231106T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:28746ddd-b9a3-416d-8b91-0c2393340a8b@2874.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231110T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:1df61842-ded8-4b91-91bb-7384764f8eba@1df6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231109T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:b28030ed-38ad-4664-9851-85fd369cf459@b280.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231110T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:80d1846e-ab00-4b73-8c91-1b664090222b@80d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240112T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20240112T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:8ebae750-95ae-4dd1-9d34-58a225de1b9a@8eba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231205T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:b022536c-ad44-4490-9c22-f9dd8a27b484@b022.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231218T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:e2436862-2fb0-4a53-9afe-466a3e3aef30@e243.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231201T093000Z
+SUMMARY:BASI DI DATI
+UID:faf8ea5b-598e-45ab-b458-d11c2ef86fec@faf8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231027T083000Z
+SUMMARY:BASI DI DATI
+UID:434f85ed-ac07-4777-bb35-ee32fb19c46a@434f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231009T083000Z
+SUMMARY:BASI DI DATI
+UID:0c92fb03-d0fd-4ee9-8410-4e07d080d496@0c92.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231110T093000Z
+SUMMARY:BASI DI DATI
+UID:fb5b516a-ff58-4421-a7b9-c5782305b3d2@fb5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231109T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:59c3d428-4b6f-4ab3-9332-2fc94d3921ba@59c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231027T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:cb8833a3-ada5-48ac-9034-cfc992686dd4@cb88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231026T113000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:f926d111-f63e-4e9d-846f-a1555a9896b0@f926.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231124T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:fbdeefe5-72ad-458f-a1b3-08cf4842a646@fbde.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240109T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20240109T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:2e53cef8-6d94-4ff1-b2e4-7cdcb1a786a5@2e53.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20240110T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:003c7295-b1d2-41da-89e6-81571e905f48@003c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T153000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231026T133000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:85b8c307-3632-420a-8e0d-33b22ca47811@85b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231005T113000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:4dbe90a3-eacd-4a76-b58e-fa052375ec11@4dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240116T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20240116T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:86a45907-4b65-46bd-8e7f-36d3b844761c@86a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231031T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:acb6e81d-b31c-453b-bf3f-be215b152a01@acb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240115T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20240115T093000Z
+SUMMARY:BASI DI DATI
+UID:40e0e76a-5101-46b2-8894-d3f39289b286@40e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240108T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20240108T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:ebee31e5-de4b-4638-9f5a-91e1f7411117@ebee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T123000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231025T103000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:bb43038e-d8d6-4a07-a876-e9f2617efdac@bb43.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231016T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:f36aab0f-d8ad-4738-bdd9-1d08f87d555d@f36a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231016T083000Z
+SUMMARY:BASI DI DATI
+UID:3f6e9ac2-7cdb-4ee0-9dba-ca4800875286@3f6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231006T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:cd95af12-7d28-4636-847e-4ef2de8a20bc@cd95.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231215T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:1f42bb6b-cb9c-4863-b807-8497593dedeb@1f42.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231214T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:ea2d5713-57e8-418c-b903-69963f46dd04@ea2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20240117T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:1c9b4cee-9b7c-42dd-882a-18c53b72e5d8@1c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231013T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:8aa6f524-1250-44d3-baf0-36b885f8efdc@8aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231122T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:dc364bbe-74bc-4bbb-a06c-1e07cdfb2218@dc36.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231030T163000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:B016 [Rizzi]
 DTSTART:20231030T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GREEN MACHINE DESIGN
-UID:6edb4199-c745-4961-8a34-1ba09c0202a2@6edb.org
+SUMMARY:GREEN MACHINE DESIGN
+UID:d5373c95-89cd-42e2-af2e-bde6368a6656@d537.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240112T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20240112T093000Z
+SUMMARY:BASI DI DATI
+UID:4a25eba2-42ab-4094-95e8-08b030492931@4a25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231207T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:9d4cf573-5363-4a99-bab4-634f73678ed1@9d4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231221T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:761f18be-9d1d-44c1-9fb9-646ea0d969d4@761f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T153000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231012T133000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:2724e4c9-3d27-450a-af0c-d0739e86736b@2724.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231005T073000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:e6e2fbfd-3cb0-4066-8e3d-427db3e34270@e6e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231020T113000Z
+SUMMARY:RICERCA OPERATIVA
+UID:3cde6042-7fbf-4ba8-9317-618c190dabdb@3cde.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231017T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:92694663-3cae-4d78-a1cb-a81ddb5ad76d@9269.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240102T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20240101T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:1a35fa26-41c1-4af7-b7e6-41905afe5586@1a35.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231113T093000Z
+SUMMARY:BASI DI DATI
+UID:526f557d-b499-414d-9a7a-c118fba730ed@526f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231117T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:4f5770fa-07df-492a-9c3c-86926e3d6b61@4f57.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231219T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:fa33d097-900d-402b-92eb-9135d139b227@fa33.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231124T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:211f4fc1-f9eb-4c55-9c15-3e27c8039dcb@211f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231116T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:99de3bc0-a05a-4d54-a937-a66a14b425ed@99de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231123T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:29257215-4215-4fa4-8608-4054e20ae0aa@2925.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231121T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:c352855c-139d-4c4e-992c-c5ef296be376@c352.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231013T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:299173af-ca44-4f1a-bd5b-328b2043cb62@2991.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240115T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20240115T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:e8cd953b-8f25-4065-9074-fe208c7e4f72@e8cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240118T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20240118T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:067f077c-d0c1-45b4-86c3-4b001d0ce511@067f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231201T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:ec7d9ad2-972a-4ae6-9a61-c92a6089d919@ec7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231107T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:cee9b012-a35f-48b5-9086-35f36d800c50@cee9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231116T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:fe4e9349-1c76-471d-8a37-0a88087344c2@fe4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231206T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:4c087f76-295a-48fb-899f-2d0df5f88461@4c08.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231117T093000Z
+SUMMARY:BASI DI DATI
+UID:e462c18f-7175-4a65-972e-00766468bb49@e462.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231128T093000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:f148e4f0-3c8f-4c54-b4e3-10bfd8ac2bcb@f148.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C13 [Rizzi]
+DTSTART:20231213T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:7c5eb675-57e8-499a-9a3d-942cfa00597c@7c5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231024T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:09479039-73af-4012-acee-6e222292dded@0947.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240118T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20240118T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:0d95b281-456c-4083-8c52-c8d4b92480e2@0d95.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231117T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:3da04b51-4637-4cc8-aa20-2abb901ddc7b@3da0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231103T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:a1292846-fd85-44e6-b206-fceda726b9ae@a129.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T153000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231016T133000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:6b84bd51-6138-4f46-a259-3b807d329334@6b84.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231122T093000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:67d5ce62-18f3-4775-8224-9c5267f9a8ca@67d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231103T093000Z
+SUMMARY:BASI DI DATI
+UID:600cced6-e9ff-43fd-ae26-dedf0e609043@600c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B016 [Rizzi]
+DTSTART:20231113T143000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:f0778cec-dea3-4ed4-94c1-fca955d37304@f077.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C10 [Rizzi]
+DTSTART:20231221T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:bec1d482-1da4-43e8-99f2-d51fe168aeb8@bec1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T123000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231011T103000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:753e3c22-3043-4b6c-83a9-c87bc88467c3@753e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T133000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231220T113000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:e995e1c4-f11d-4ea9-ab89-5a6171074c80@e995.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231121T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:b6a776c5-9070-4ce8-a6cb-8474e966fa21@b6a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231204T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:7dcc06a8-fd62-401b-bc60-181eec96e09d@7dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T163000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B031 [Rizzi]
+DTSTART:20231207T143000Z
+SUMMARY:MECCATRONICA E ROBOTICA
+UID:56b4f089-cf60-4a71-b73e-a730e786d01f@56b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A037 [Rizzi]
+DTSTART:20231031T123000Z
+SUMMARY:DATA ANALYTICS AND MACHINE LEARNING
+UID:725616e4-495f-4a30-9168-39dac9126940@7256.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T083000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231010T063000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:b2ff1174-3b56-4f42-b237-67a086dcb30c@b2ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231204T093000Z
+SUMMARY:BASI DI DATI
+UID:b2d7cdb0-e621-45d2-952d-637e4c55541b@b2d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T113000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231030T093000Z
+SUMMARY:BASI DI DATI
+UID:a07e4abb-0266-40f3-8963-9b4882c27171@a07e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T103000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231017T083000Z
+SUMMARY:PROJECT MANAGEMENT
+UID:1fe5d832-8478-4faf-b40f-7a202615989d@1fe5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231123T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:256dd278-a113-461d-9891-c6ba3cc52a99@256d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B020 [Rizzi]
+DTSTART:20231214T123000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:79686f76-d1dc-4c35-9d6b-297783408dcc@7968.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T143000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B030 [Rizzi]
+DTSTART:20231113T123000Z
+SUMMARY:RICERCA OPERATIVA
+UID:33086d58-344f-4a87-b97c-892f107f1358@3308.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T093000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:B021 [Rizzi]
+DTSTART:20231114T073000Z
+SUMMARY:GREEN MACHINE DESIGN
+UID:4009bffa-bca9-4b42-8dca-a357e94fae1c@4009.org
 END:VEVENT
 END:VCALENDAR

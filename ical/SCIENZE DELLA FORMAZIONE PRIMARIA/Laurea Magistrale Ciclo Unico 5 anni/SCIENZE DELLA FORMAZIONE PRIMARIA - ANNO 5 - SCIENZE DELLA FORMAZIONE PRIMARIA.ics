@@ -2,1025 +2,1025 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231128T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231128T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:a43bc06d-23e3-4566-9beb-f031e5889bff@a43b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T170000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231130T150000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231212T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:5c1e72ab-88cd-467e-ae75-a483720bb32e@5c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231117T080000Z
-SUMMARY:Tirocinio 4
-UID:25919619-cd10-48e1-93b1-ceff07e144e9@2591.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231121T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:cda4345f-abc3-402f-bb3c-d1135a63c19f@cda4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231011T120000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:48c58d7b-8e07-4812-a5e1-d00273fa9845@48c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231127T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:c1af7c81-8a5b-4462-85e7-6cf5b7422a32@c1af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231113T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:e0481737-e5e2-40ae-8aad-99002d2372c2@e048.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231102T120000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:1f0c21e5-4dd4-407c-8ea1-458da6c21b47@1f0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231005T110000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:7c32b85a-1d4e-4032-95e0-419df7757895@7c32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231207T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:e3aecd6d-0840-4308-bc85-8d7b7db9b62b@e3ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231116T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:88e98ea5-6bb5-41a9-8f5f-2cb9bb3d2b19@88e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231005T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:af4f976e-cb27-4115-bdf3-fd6e12fc83c3@af4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231212T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:38c6cccd-efef-46a3-bec5-a15053139360@38c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231012T110000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:0bc54d22-695c-42c6-9e61-a190024783b7@0bc5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231204T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:8ba1788b-f8c9-4598-85ea-396dba36824d@8ba1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231115T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:c6645e00-8c44-494b-8192-08e5bd0e4670@c664.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231106T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:47da4656-622b-40b5-808a-b1d88952dfd9@47da.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230928T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:18dec879-9a14-4386-907d-04e3adc7d6b3@18de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231129T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:dd3b4ef0-1df7-44d5-862e-ea43ec4b6924@dd3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231006T070000Z
-SUMMARY:Tirocinio 4
-UID:0267849e-8866-4725-a44f-4cfb7b06d302@0267.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231025T120000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:a9f9886f-a390-4d3d-a786-5512eb600ff0@a9f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231214T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:7a85de81-c924-45e4-9f7a-5a7fcd9043fe@7a85.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231009T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:b5a147c7-3bb6-47d5-8122-629ae9fac081@b5a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231031T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:5193239b-54e7-478f-b1e7-7fb77ec418c1@5193.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231110T080000Z
-SUMMARY:Tirocinio 4
-UID:f413fc35-9131-4230-8146-1654732a1020@f413.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231002T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:0508d8ef-a4b9-4ae1-b726-6a2e2197739e@0508.org
+DTSTART:20231130T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:06188028-b6d7-4d17-9f34-fd5d8ad4f0da@0618.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231130T150000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
 DTSTART:20231130T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:043f2762-83ae-42c1-b683-a431a5e60f3a@043f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230918T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:196e8fe3-dcd3-46c8-99c4-6b3fad802788@196e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231109T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:92685104-9346-4f66-8a3b-145cc7fd8089@9268.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231128T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:8e834b27-4442-49b2-a446-d55fa2fe502e@8e83.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20230927T070000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:e951ee1d-77bc-4bdf-ae65-6d04aa6d3db8@e951.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231012T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:0c7ea2ee-53f5-4fd3-80a9-c38467ba7509@0c7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231123T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:417dddff-67a9-4b25-83ce-bf8bc99621bb@417d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231211T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:b1fc7f4d-1f76-46d8-b078-f7e32b3eda27@b1fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231205T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:3ceae87c-5825-4550-857e-c82990c0daea@3cea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231123T120000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:cf705a52-b6b8-482b-9a0e-fab4de0f8df9@cf70.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231025T070000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:70af8f6e-0f2f-44fe-be8e-b95d5c411547@70af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231120T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:e35c9595-4d62-4187-ac4e-9377796b759c@e35c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231109T120000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:f6566eb0-e362-4df2-853b-144fd6d2985b@f656.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230925T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:9196e5b0-05c0-44d8-bc01-24041c6f85f9@9196.org
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:1a22966f-f308-46d7-b055-a648f0832876@1a22.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230918T160000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
 DTSTART:20230918T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:318aa879-5799-4975-b40c-0636ba90a4e6@318a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230928T110000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:d0b7044b-0408-4e22-a9b6-2fc7f79a54c6@d0b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231107T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:bca65eb4-34ff-406a-98df-4a7389ba53dd@bca6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230921T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:81127ee3-ee11-4d7b-8cea-f0ac04d7f2f4@8112.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231116T120000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:63d13826-0f0f-42cd-b428-812204cb8dc0@63d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230925T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:b00816cd-4d37-4b4b-bdd9-a42185a55648@b008.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231207T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:fc0ed97b-053d-46cd-9f21-6d3bb221750c@fc0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231026T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:0803e942-c233-488f-a2d9-aa3f62db0cd5@0803.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231016T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:45b3f8cc-bdb4-4ef3-b47c-bff389f5a4c1@45b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231005T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:36c2cf26-436b-4f21-940b-1f5e063bd759@36c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231211T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:6e756e5c-758b-4923-99a7-4755e04cc256@6e75.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231010T120000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:2fb7c473-5c2c-40f1-bf5a-3f94e9dc0ab4@2fb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231122T080000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:5ac6b4af-e607-4f76-9f84-2ec42d499709@5ac6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230921T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:50d247bc-d9c1-4064-9db7-1e014b534651@50d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231107T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:be0ba8eb-3d2e-492a-a1be-afed41b8a990@be0b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231102T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:56880226-d754-476d-9ffa-c57bd843bae3@5688.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231109T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:db58474f-7cfe-49f6-962b-f6b66a51fe51@db58.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231201T080000Z
-SUMMARY:Tirocinio 4
-UID:0d50f090-9420-4cd2-aacf-c36f65790029@0d50.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231026T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:2f7f9e40-5359-4398-9dc4-108b9d6b10cb@2f7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231010T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:1d284074-94f8-404e-b50f-1b8d71a13b59@1d28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231116T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:1da31991-2f5e-402f-9619-e06f4276c22a@1da3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231215T080000Z
-SUMMARY:Tirocinio 4
-UID:c02d242e-90fd-4065-91c8-3e8df5efdb56@c02d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231205T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:b7772929-aeb7-47c3-895b-d220ba25fd4b@b777.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231207T120000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:4a30287f-21d0-4a09-a5f3-6f68a1b88679@4a30.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231130T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:58352d68-1eab-438d-944a-e67d7efe4e09@5835.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231205T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:678f3f17-f8da-4069-80e4-a936f58148a5@678f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231004T070000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:78c2dae6-c5b4-4206-a1f0-effcff218b3c@78c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231113T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:840b430b-b95c-4d4e-a99e-6bc9462d3884@840b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231213T080000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:c07c2271-8ef3-4be6-9420-ad96a4c3866a@c07c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231212T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:e4c18c24-6756-4988-8f86-343759a03e97@e4c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231214T120000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:11b1cdbe-84eb-4739-aeea-20f2cba265ae@11b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231019T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:8fdef17a-6556-4e77-9267-97fd7014b8b1@8fde.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231030T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:054f0cdc-7e19-48c8-a9aa-5a8ab60fa853@054f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231019T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:a92fba3e-39cf-4e18-bf4d-c1d353409d4d@a92f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231030T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:65ccbc61-6c92-4a1d-865f-303c91413728@65cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231017T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:49909f8b-fde0-4500-b727-9a18206c7047@4990.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231011T070000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:77461754-1345-4688-a476-02988ef15506@7746.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:09cad263-bc02-4aa0-802f-bef249f93e48@09ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231108T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:f75cc7fb-f809-4cee-bfcc-855a408a9b8e@f75c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231108T080000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:7f492673-521b-4588-8704-1e8674eda00e@7f49.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231115T080000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:1749b780-3e1e-4656-8b98-8eb0e08f03ba@1749.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230928T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:e0e4604d-a6a5-4cc8-9198-66d9b842f878@e0e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231103T080000Z
-SUMMARY:Tirocinio 4
-UID:761c1b95-89b5-4b7c-b186-c1621e2ae309@761c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231122T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:f7761396-e64c-4070-bcde-3946aa8c04b9@f776.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231017T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:2580270b-5f1f-405a-a9ba-e2e706012a4f@2580.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231107T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:a96a9569-b2bf-40e1-bde6-e9a6820c2f38@a96a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231027T070000Z
-SUMMARY:Tirocinio 4
-UID:bf0e9541-38da-4059-914a-1f753e2f7f7a@bf0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231123T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
-UID:337b8356-4454-48c2-a626-aa2361233400@337b.org
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:5e20607a-233b-4098-a1e6-b74313d7b7de@5e20.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231129T110000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 1\, Aula 2 [via Margreth]
 DTSTART:20231129T080000Z
 SUMMARY:LINGUISTICA ITALIANA
-UID:3cc71bd8-c757-46f2-9fde-d2089a78927a@3cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T120000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231124T080000Z
-SUMMARY:Tirocinio 4
-UID:1044a048-d61d-47c9-8943-6f5301f926d2@1044.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231024T120000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:9e39ee18-74e1-4657-8d7b-bf73cf906dc2@9e39.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231204T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:d4ba73e0-a13c-451b-8ced-f3f1e47c7e80@d4ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231009T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:c723ae97-f80a-43c5-ad65-29f0bb3e1615@c723.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231214T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:f8db773d-85c8-4395-934b-9535ce50a214@f8db.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231031T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:578a54b8-5747-48dc-92bd-e8ba0a65ddbc@578a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231020T070000Z
-SUMMARY:Tirocinio 4
-UID:694f8bba-a800-45d6-af91-b32b370413f3@694f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231012T110000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:478c1846-74d7-4a66-b279-79ce9ba8c445@478c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231023T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:de0ab4bf-0423-43f2-a0bb-6d33f49a43e8@de0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231120T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:cd5b0fbe-f040-4574-95c0-2b9867efb3b8@cd5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231128T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:bbc893c9-708a-4648-ab53-f7c677f20865@bbc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231023T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:3fcaae41-d562-4aef-847a-359a8692ccb8@3fca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231206T080000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:15f392e8-4b20-4b7b-a092-b26cea765d96@15f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T100000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2 [via Margreth]
-DTSTART:20231018T070000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:473f3f93-2c6b-42f0-bf67-e7f58a0a52b5@473f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231114T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:ed478083-0505-46ea-a2c5-f8e4c596662f@ed47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231010T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:335f65ef-4a37-47df-b986-e8cafee40716@335f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231114T150000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:3945e0c8-6df6-445f-b23c-bd95a20a1b76@3945.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20231013T070000Z
-SUMMARY:Tirocinio 4
-UID:f4f63e34-5844-4bbf-a60e-ae8b82912521@f4f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231114T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:951e20ba-66be-49bc-88de-dc806856235d@951e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231024T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:f8acd63f-3f6b-4977-8e16-4a1cf71c0eb9@f8ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231031T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:4130620f-82e9-4801-b1db-f59cfde97d65@4130.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11<br/>via Margreth
-DTSTART:20231121T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
-UID:58aa6f01-8e93-4f28-9f0a-7b70a7ac99d8@58aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231002T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 2)
-UID:344216f5-2136-419d-a229-93d9feb65de4@3442.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T170000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231121T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:cc21f756-4d54-4ce4-966e-66722535ef8c@cc21.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231019T110000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:24015f3e-afee-48ed-9928-e7245210e65c@2401.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231026T110000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:9c2d8675-dbf1-4505-9b6b-2e820984dfdc@9c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231206T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:547f0a95-fb58-4aa8-86c6-c1904496ee95@547f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T150000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231130T120000Z
-SUMMARY:LINGUISTICA ITALIANA
-UID:5a235559-18c1-4850-9f79-21e384341c0d@5a23.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T110000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
-DTSTART:20230922T070000Z
-SUMMARY:Tirocinio 4
-UID:3d4ac425-d3c5-4d8e-9c0c-cc706ba2b796@3d4a.org
+UID:a9943781-3e61-4151-a883-634fa03f43ff@a994.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231017T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231017T120000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:26ade028-a22a-4fc3-b1d3-1cc91316f2a0@26ad.org
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231017T140000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:cf01ef4c-0498-4e9e-b8e3-0c15f2937ceb@cf01.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230929T002801Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:496fab81-16c4-4403-bea3-2448d6b03f5c@496f.org
+DTEND:20231207T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231207T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:869c8a8d-6d31-4eed-b9ac-444a2d967bbb@869c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231127T150000Z
-LAST-MODIFIED:20230929T002801Z
+DTEND:20231212T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231212T130000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:f1b31299-f8f3-42ed-9244-a29ef9732cb2@f1b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T150000Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231127T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:74933a32-fd48-4d5e-926e-b3e793b2e094@7493.org
+DTSTART:20231116T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:6f5b12c7-c9dc-4310-8723-3888129e663e@6f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230928T110000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:d68e1683-5f22-4711-a3fc-79db1194fcaa@d68e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231214T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:744a4027-b04f-41af-9dbe-3b85a85c3572@744a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231013T070000Z
+SUMMARY:Tirocinio 4
+UID:33a7d24a-7748-48cd-9f88-69166535143f@33a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231016T140000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:dd78ff39-ddbb-4517-bd55-8bf736e2a7ac@dd78.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231102T150000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
 DTSTART:20231102T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
-UID:223475bd-614b-46bf-8694-6384c4008f60@2234.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T160000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231213T130000Z
-SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:76448a1e-f64c-4a15-950d-ffa8f121bfb4@7644.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20230921T110000Z
 SUMMARY:LINGUISTICA ITALIANA
-UID:2ef24aa6-d877-4f7f-bd32-6757e1136b1f@2ef2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T140000Z
-LAST-MODIFIED:20230929T002801Z
-LOCATION:Aula 11\, Aula 12 [via Margreth]
-DTSTART:20231016T120000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:711264b1-4704-4967-883b-3aa6fe79b2ad@7112.org
+UID:6a6355f2-1fd9-4358-b366-644d21ba70ea@6a63.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231018T150000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
 DTSTART:20231018T120000Z
 SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
-UID:383baaab-af20-4e15-bf07-f378c56e508a@383b.org
+UID:95ea7a9b-1cf3-4b94-94f9-9a1af93e8dbe@95ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231026T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:2d9dfdd7-e658-4b9d-a54b-cfd0cbef1d5c@2d9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231017T120000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:ee1662b6-c135-4c0f-9e40-206294cb012c@ee16.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231108T080000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:3c007a32-1502-44d3-a221-02a55dd177ca@3c00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231127T150000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:5298317a-5c6d-40e9-812d-4171832fd6d5@5298.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230925T140000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:8bd5d890-f564-408b-9260-5151550d626d@8bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231016T120000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:73eeb4d5-1347-489e-a22b-096b8353de9e@73ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231011T120000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:54d1d81b-01e4-47cf-a1a5-01a740737661@54d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231115T080000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:87e1eedd-805c-487a-a193-51496345552e@87e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:1106d5ac-2ce7-4463-88a2-28cc41d78a77@1106.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231124T080000Z
+SUMMARY:Tirocinio 4
+UID:be60ead6-f4e7-4da1-872e-8045d6ac7bb3@be60.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231122T080000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:0f233606-97ed-4f7c-a50e-6802a8b41192@0f23.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20230922T070000Z
+SUMMARY:Tirocinio 4
+UID:bd3c647b-6749-4565-be09-4c6ccc0e2a87@bd3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231024T120000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:869db157-d1a7-4071-9a7c-24e532f247da@869d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230921T110000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:1877de8a-9863-4778-a7f4-53c80b9391da@1877.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231109T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:0487446b-1abe-4a1f-ae07-d349b28cb5e9@0487.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231009T120000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:16d45bb8-aa49-41a2-8669-503635574bc9@16d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231102T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:344a0eb4-ad3f-4a01-a18f-ce4bcd227163@344a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231019T110000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:e11d50f2-b630-4c62-bbb7-77405f76b3ab@e11d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230928T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:7d4b41d3-2e34-4b26-be39-66a98000192c@7d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231130T120000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:3b869fed-6447-4978-938a-2520477ae0b0@3b86.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231106T150000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:039f8692-7b3b-43e7-82ba-9ed0583a7ea2@039f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231115T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:638d9aff-3c65-4ced-9fdd-1cf67b7d7bb8@638d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231019T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:a86298f1-aed2-481a-9017-fc111f1b7f52@a862.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231116T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:5f46334d-9616-4281-aaf3-937177c28460@5f46.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231109T120000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:687f8e6e-8a30-423b-a49b-06f4a1e3f958@687f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231031T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:786a91a4-5f61-49b9-a152-4261cc0afb8e@786a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231026T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:644ad653-854e-49b7-b84e-d018cead832f@644a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231024T160000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11<br/>via Margreth
 DTSTART:20231024T140000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
-UID:1783b4e2-74db-4f18-9231-679e75422c54@1783.org
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:c56c1790-898b-4a5e-ad16-2dbbbe4882e4@c56c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230925T120000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:06e3f22d-f51a-4a88-b881-3e40f47133dc@06e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231204T130000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:a93bbc88-3cd9-4640-936f-e94cb1b0d785@a93b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231030T150000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:2de9fb57-1747-4b8e-8018-3cb339146dda@2de9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231102T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:ac0e7ba8-e650-48d7-8575-ba3565f9f527@ac0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231212T150000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:85f5b9c8-0bec-4724-a7da-5a37edd75274@85f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231128T150000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:3b2faf4a-36f4-45d2-8a4f-4542a1bee151@3b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231215T080000Z
+SUMMARY:Tirocinio 4
+UID:9c1cbc0d-0e98-4780-8fe2-20bd7cc05bd2@9c1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231207T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:0fab7ef9-8d72-4705-942d-506b6984b847@0fab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231116T120000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:a093adab-868b-4759-9cdd-fabca710f4fa@a093.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231114T150000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:ca48fa23-c0a2-4290-b7a7-7c0997d7c248@ca48.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231211T150000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:7234e631-5046-406f-acc4-35022c4d4c27@7234.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231206T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:58750fb5-ff82-4f95-bcd0-0464245eb976@5875.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231106T150000Z
-LAST-MODIFIED:20230929T002801Z
+LAST-MODIFIED:20230929T102436Z
 LOCATION:Aula 11\, Aula 12 [via Margreth]
 DTSTART:20231106T130000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> LABORATORIO INGLESE V (GRUPPO 1)
-UID:f2ea2520-91f4-470b-8419-418206684120@f2ea.org
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:5f4d6d9f-8538-4887-9a0c-bd7da25feb6a@5f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231031T130000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:e3051cff-d735-4fb1-9b9b-595000951e36@e305.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231018T070000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:57cf91ad-e05e-4fe2-a612-7575122b9cbd@57cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231107T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:fd03f87d-e01f-4469-b254-1456a030251a@fd03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231110T080000Z
+SUMMARY:Tirocinio 4
+UID:0517a6bc-c583-4583-ba54-57fa94f5b693@0517.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230929T102436Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:292057b6-65fd-47b4-bd06-9aaa3c7550c7@2920.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231005T110000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:63adb257-bd59-4836-98c8-fa54388fa5b2@63ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231005T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:38895a92-960b-4224-a1ab-71ecf66c4983@3889.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231010T140000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:0914dbe2-ff81-49b7-a5a7-04222c8cb8b6@0914.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231002T140000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:bdf79145-51c5-46f8-8e07-a7beba7c42ed@bdf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231025T120000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:127b7749-777e-4b43-ab6b-5f6456269237@127b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231204T150000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:061583d2-94c6-4832-9293-994f180edd46@0615.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231103T080000Z
+SUMMARY:Tirocinio 4
+UID:be13639d-1c38-4bec-8cf5-e23c720c1aaa@be13.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231017T120000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:3e971ee7-c431-4af3-8c8e-a33ae8d28e7b@3e97.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231121T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:1bd099d0-6de8-4b55-ba9d-7b6f0384c585@1bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231025T070000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:82355014-ec4e-48e2-9367-3a1c2b99d0c0@8235.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231205T130000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:4abde35c-2384-42ee-a0ee-fbae916487c6@4abd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231107T150000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:3910362f-00d7-47f0-a5f7-652f04680d84@3910.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231012T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:21642646-dbc9-4c94-9ad8-a86ddf69ecc3@2164.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231121T130000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:3272fef4-5c7d-4cf5-b9e2-c4b5d5a90ff0@3272.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231010T120000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:c184a3c3-8578-4751-aeff-3284dfc6f075@c184.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231201T080000Z
+SUMMARY:Tirocinio 4
+UID:058f1cbf-06d6-46b6-9f77-f8df1d611a6f@058f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231211T130000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:fbaf18d9-f69a-4b14-b2b0-94542f85ac37@fbaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231205T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:b668651f-bc5a-4077-8fb8-a6f81c67d4e2@b668.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231206T080000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:7be68f9d-633b-4f03-808f-a0707169cfbf@7be6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231128T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:9eb3aad6-7df6-43d6-865b-bc39330a74b0@9eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231213T080000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:c288526d-9134-44be-b076-db40c1bc4a34@c288.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231031T150000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:d637ff52-ecf1-4888-9ea5-f643bafcbae4@d637.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T120000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231117T080000Z
+SUMMARY:Tirocinio 4
+UID:28144b5d-0db1-4572-8248-9926d6b560ec@2814.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231120T150000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:43bcd46d-a0a5-4232-96de-d1c955b7b2ca@43bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231207T120000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:b32d847c-1e87-4d7b-8c95-84b15103e418@b32d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230921T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:a655d615-37f4-4ff4-a381-be4a9aad83c8@a655.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231107T130000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:16768859-ead3-49a4-927a-042f37aea0e8@1676.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230921T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:b2a2e21a-c118-4525-a9a0-8d7f0efc2fc7@b2a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231011T070000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:9e2efdbe-6fc0-482c-863a-0234b6213d8f@9e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231026T110000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:8c1ef920-bbe4-41b2-b979-5ee6cee180ab@8c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231109T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:f64a0da5-f384-423a-9c55-e2ed9b7db197@f64a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231108T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:f6d08f62-014c-439d-8969-fd468aa1eb9c@f6d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231019T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:fc71d62b-5177-4b9a-99fa-eda78422f3b7@fc71.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231205T150000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:6e66dbaf-6215-4293-8bb9-2856d29d07d9@6e66.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231128T130000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:5db38991-e031-4a06-a457-6f356822bfdc@5db3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230918T120000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:1a371cab-cfd5-402d-9d98-d12f389b33ae@1a37.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231023T140000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:ee43996c-433b-4ca6-9f10-723c4beb6304@ee43.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231010T120000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:67439a3f-0e97-4098-a2e4-24118bc7f713@6743.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231122T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:caa39d34-4eb7-411d-829e-f1bc99230dfd@caa3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231005T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:25b9bebb-cdd5-4540-88a1-4129e20333d2@25b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231009T140000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:8099ab6a-b308-4839-89a2-a79605471c6f@8099.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231212T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:26472c6b-ce5c-43d9-92ed-8249d1318fff@2647.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231012T110000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:2af5a6bb-e029-4e0d-9358-feb19b73139a@2af5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231114T130000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 1)
+UID:d7f33775-f242-4f19-8ffa-ed8c7dd3a88a@d7f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20230928T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:7a2482cd-ddce-4ebb-84b3-3f74c0c690c8@7a24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231214T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:582775fc-665f-4640-9e32-d4ce38680fde@5827.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231213T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:e2eed19b-0eaf-4b03-8822-825a6f9f4fe6@e2ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231127T130000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:13132603-7b94-464d-ba29-ddaea87cea3c@1313.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231123T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:87a2b492-fec4-47f8-8f08-ca3d32a441af@87a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231020T070000Z
+SUMMARY:Tirocinio 4
+UID:f65b7964-18b2-4230-82e5-9bca99272f51@f65b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231113T150000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 2)
+UID:5dd42ae1-96e3-4ea8-8b71-6fbc1e6485ba@5dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231123T120000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:b06a76a8-3386-46e2-ac8c-0ca0140f6b65@b06a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231214T120000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:6054393a-c581-47a5-8db1-91e9da920ebd@6054.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231030T130000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:bbd48868-2383-4c4b-a6ec-975a9d72d635@bbd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231002T120000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:aba2e16c-6606-4854-8e75-210023b68136@aba2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231120T130000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:006e76f5-f356-43cb-adc7-e3acc3dc8ae9@006e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231012T110000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 1)
+UID:b094898e-145f-459b-8016-82e2bc0a9aa5@b094.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20230927T070000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:e635d8cc-466f-4810-b562-a8c159f82949@e635.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231123T120000Z
+SUMMARY:LABORATORIO DI LINGUISTICA ITALIANA (GRUPPO 2)
+UID:6938dfc1-9ace-43e0-bcbb-3cfda7671aed@6938.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T100000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2 [via Margreth]
+DTSTART:20231004T070000Z
+SUMMARY:LINGUISTICA ITALIANA
+UID:a6638a66-d5ed-4c4d-a485-6fe1220fc2a8@a663.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11<br/>via Margreth
+DTSTART:20231121T150000Z
+SUMMARY:LABORATORIO DI STATISTICA PER LE PROFESSIONI EDUCATIVE (GRUPPO 2)
+UID:59cb25cf-cd3d-442d-bdec-8398da7db1aa@59cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231024T120000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:fe83f220-1695-4beb-8c00-403909ef3149@fe83.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T140000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231023T120000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:0c120fdf-4242-462f-8fe5-fd250bd5ba3f@0c12.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231113T130000Z
+SUMMARY:LABORATORIO INGLESE V (GRUPPO 1)
+UID:39e40277-d2c9-4497-b881-a4478e7397de@39e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231027T070000Z
+SUMMARY:Tirocinio 4
+UID:01b5db2d-c0cd-464c-a2c2-fb2050b56b15@01b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T170000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231114T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:6a393438-d3be-40ee-ae4e-21e1a3bc4e96@6a39.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T160000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 11\, Aula 12 [via Margreth]
+DTSTART:20231129T130000Z
+SUMMARY:STATISTICA PER LE PROFESSIONI EDUCATIVE
+UID:844edd27-ae2e-409a-8296-c47f01631831@844e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T110000Z
+LAST-MODIFIED:20230929T102436Z
+LOCATION:Aula 1\, Aula 2\, Aula 7\, Aula 3\, Aula 5 [via Margreth]
+DTSTART:20231006T070000Z
+SUMMARY:Tirocinio 4
+UID:db4ecdc4-663e-415c-9b81-d136dbaa91fd@db4e.org
 END:VEVENT
 END:VCALENDAR
