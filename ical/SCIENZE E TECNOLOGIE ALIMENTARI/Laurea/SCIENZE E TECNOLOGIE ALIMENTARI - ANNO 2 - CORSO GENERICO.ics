@@ -2,1190 +2,1190 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231221T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231221T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:6bc2bdb4-43ed-41ad-8c6a-62b385d7d29f@6bc2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231009T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:721873ec-7b17-49e1-ba6a-f8cc85010518@7218.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231013T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:3dcf7863-3420-4de2-8fc7-cf1e945c74a7@3dcf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231206T083000Z
-SUMMARY:FISICA TECNICA
-UID:499ebd23-9b74-46f1-83f0-127cd605a58a@499e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231219T133000Z
-SUMMARY:FISICA TECNICA
-UID:701019c0-681c-4749-82b3-e9a14ec1d4c3@7010.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231221T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:27a5e314-7db0-4a47-80b8-a3af891ae34d@27a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231114T133000Z
-SUMMARY:FISICA TECNICA
-UID:3aea267e-57b0-407c-9848-ce445a52f400@3aea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231107T133000Z
-SUMMARY:FISICA TECNICA
-UID:15fbb7ec-6c83-481d-b740-59d3fa24ffd4@15fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231211T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:a7d34bce-e4d8-4737-9892-ce4d52b72e9c@a7d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231107T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:f8c575ef-f597-419f-b23b-44ae6ca30b0c@f8c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20240110T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:67fedd81-44fb-4a46-bc07-b1e3c2eb31cd@67fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240109T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20240109T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:0205504c-2537-474b-bb0e-03f138a51888@0205.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231030T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:10e43ae5-d1e1-4144-8b53-852d6a8754c7@10e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231003T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:025fd679-03cd-4dd6-a44b-183e8e862314@025f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231121T133000Z
-SUMMARY:FISICA TECNICA
-UID:dcc3c621-07e8-4355-a664-65a6a03c0850@dcc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20240117T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:3bbd0309-a8a4-455d-a6f9-80bc56ac69b8@3bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231127T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:f7fa58cf-975d-4311-b8b1-1e0332c59f2d@f7fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231009T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:b4c7cefc-f658-4f59-b7fe-e52645060218@b4c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240105T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240104T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:a803efa1-89bd-4989-b962-e849266fe549@a803.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231115T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:cd19230c-38c0-41ff-8c71-f7549676cb2d@cd19.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231026T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:2020a8db-9f43-463e-ba5a-e39ffbca76d4@2020.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231011T073000Z
-SUMMARY:FISICA TECNICA
-UID:365598f3-4ccb-40f7-b991-6c05ac35445e@3655.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231122T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:7dc7b230-f54f-4dea-8298-3259d39430ee@7dc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231018T073000Z
-SUMMARY:FISICA TECNICA
-UID:6a5a1939-ccd2-4dba-a637-727b3084ee47@6a5a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231114T143000Z
-SUMMARY:SEMINARIO INFORMATIVO: MOBILITA' ERASMUS
-UID:4db8ca80-50fa-44f5-971e-c125a01ea1be@4db8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240104T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240103T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:3c7e3fa3-06b3-4976-8337-726d8de1795f@3c7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231108T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:95f204d4-e67e-41d9-938e-f799163090e8@95f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231130T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:fa030860-ad10-466f-a7a4-3c90a4b0f2ed@fa03.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231207T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:88464370-57af-4a58-94bc-264e337f2333@8846.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231017T123000Z
-SUMMARY:FISICA TECNICA
-UID:16b1f86f-bff4-4afb-ad46-1882a42ce6c6@16b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231214T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:ae44b319-37c2-476a-8385-ba1915f7ef1b@ae44.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231213T083000Z
-SUMMARY:FISICA TECNICA
-UID:9866cd45-0797-40db-bd80-51a1414bf60a@9866.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231114T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:e9f5ce4d-0f6b-4e7a-acb3-112659544324@e9f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20240110T083000Z
-SUMMARY:FISICA TECNICA
-UID:046ceed0-802f-4823-8e76-54e79164a624@046c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231204T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:e0fac4a7-0346-4fa7-aa17-6f9fdc008020@e0fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231102T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:e2760a2c-c4e1-4104-8e7e-0cbeb7d8261b@e276.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231010T123000Z
-SUMMARY:FISICA TECNICA
-UID:c6930da2-b0a7-4b6e-87cd-eedd7b836a6f@c693.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231121T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:ef3972a4-0fa2-412c-808c-d23c265319f3@ef39.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231030T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:21b7ebdc-8122-474a-939a-ebdc3803bb4e@21b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240116T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20240116T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:f2f0e5b0-062b-49e5-bcff-fef7fc99dda5@f2f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231108T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:b23b0706-b1c1-42d7-b89e-6114c67daa97@b23b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231204T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:ea8792b4-be0e-4b23-ab0e-71307ef2023f@ea87.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240118T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20240118T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:71e89252-b618-49ac-8f8b-464deca9f6b5@71e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231220T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:796cfa2c-64f9-4417-914c-c63da0c3b5a6@796c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231220T083000Z
-SUMMARY:FISICA TECNICA
-UID:008c98bb-b4de-4594-8661-ded5022400f4@008c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231005T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:85bf6064-19d6-48fb-959d-403aae408bca@85bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231018T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:99b9e70e-8ea2-4f92-a4e7-b34e0087ce39@99b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231226T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:4075aca9-14d7-4293-9ed8-b1fbb98f1d38@4075.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231106T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:b53f8c38-cbd6-4b35-a932-d5811ef2ba61@b53f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231122T083000Z
-SUMMARY:FISICA TECNICA
-UID:b2784383-41d6-4ab0-b850-bd11fbd099d1@b278.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231211T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:8c9042fe-10dd-4644-b4ba-8a2bc5768da2@8c90.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231123T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:eb135af8-6259-4a2b-a7b2-40fa04668f17@eb13.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231004T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:b72ec353-abbe-4a0a-a72b-208d465b4b7b@b72e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231121T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:f06d4e48-6a33-45c8-a8b7-33ee88f6e7ca@f06d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231024T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:4332eb14-ef72-4198-a3b0-14ce791f78a1@4332.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231207T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:f085d623-5ba8-4eae-9d16-dc140588910c@f085.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240115T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20240115T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:89b91e17-baf3-45d3-8616-dadedff8062c@89b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231128T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:e6452d9d-d7aa-469b-875c-536449764051@e645.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231220T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:fc501026-82dd-4243-a63a-e668a0c14e52@fc50.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231106T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:8fa27be2-1445-4369-8c6a-b281c97aa9a5@8fa2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240116T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20240116T133000Z
-SUMMARY:FISICA TECNICA
-UID:690889e7-9f4c-47f7-b27d-fcb5cadb8269@6908.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231227T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:fa500c41-9d4f-4230-82e5-741770610f1d@fa50.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231213T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:eb7a29ac-e31c-4f41-851e-3dad3d4b973e@eb7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231024T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:a2085352-b71e-4381-8a3b-75e645e0f50c@a208.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231016T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:95bc84a5-24b1-4af3-8d07-baffb1707f1f@95bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240101T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231231T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:6b4bac92-7307-4530-a9eb-6a66cf62ba5f@6b4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231024T123000Z
-SUMMARY:FISICA TECNICA
-UID:f22f6859-ca4f-4e4a-b4d6-6696a39a5c48@f22f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231219T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:73cce03a-d55d-4933-bde4-8e499864f987@73cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240108T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20240108T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:63d55a50-341c-47af-99c4-be167b34df73@63d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231205T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:082fb0d9-74e4-4309-b7d4-ac4a877df60b@082f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240103T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240102T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:9b4b0f6f-e344-4c68-9a31-7f9dafaf9546@9b4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240115T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20240115T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:f30f9b44-5804-4b15-b8df-2bb5933c8bdf@f30f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231003T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:35dfb358-771b-4006-9855-88da50d12da1@35df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231025T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:98009592-5dfb-4764-898f-5342d67de805@9800.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231128T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:554bfb55-e866-4b86-a93c-b21e9bf67f90@554b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:1045b665-4a29-4e17-8a14-778204fa82e3@1045.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231120T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:1edd7c6f-f3bf-4bb7-a988-d88ed5762397@1edd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231011T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:c4df5e7a-620c-4f7d-bacd-7546c5798ab2@c4df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231218T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:4f63cde6-b4c7-4de4-b415-4deeb7d3ae2d@4f63.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231018T093000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:be88354e-979e-4e42-84ae-1cf7ae07b3ed@be88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240108T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20240108T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:f948c92c-26ca-4ed1-8e89-6d8d650fc403@f948.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231218T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:b36e7374-166c-41a7-b80a-8d8c34692c51@b36e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231128T133000Z
-SUMMARY:FISICA TECNICA
-UID:d7cd6fe9-bf77-49ac-89c1-d223ca2cd4b0@d7cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231108T083000Z
-SUMMARY:FISICA TECNICA
-UID:80ef4f6e-0c4e-4b62-8840-ff21b1386828@80ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231017T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:b4d81f91-340b-4f9f-a6ec-28ede70c021b@b4d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240116T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20240116T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:ea2afc57-5b75-44a0-8e6e-87f13b3c7060@ea2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231212T133000Z
-SUMMARY:FISICA TECNICA
-UID:fee76446-402f-4eb4-99d2-86bea8514f5e@fee7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231122T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:660e0d31-3a69-4261-9a2b-cb0ba511100a@660e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231016T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:db46b7b1-37d3-422a-b2a6-1e8807420eb1@db46.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231130T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:7bfba753-31f3-489a-be0f-2ac5f739668c@7bfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231031T133000Z
-SUMMARY:FISICA TECNICA
-UID:5d6cc643-ebd5-43e1-aef3-77bb307c8304@5d6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240118T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20240118T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:8496f4b6-ec9e-4b21-8bf5-12129f877e1e@8496.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231031T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:a12f7142-b9c0-44ac-84e8-78e6e392306d@a12f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231120T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:4ee2577d-c05b-406e-990c-286ad7be1068@4ee2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231003T123000Z
-SUMMARY:FISICA TECNICA
-UID:352c5dc0-f960-4987-97bd-bc5ef7e98a68@352c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231011T093000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:f665a50a-b0e8-4564-a79d-191ec3524ecf@f665.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240102T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240101T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:ed1e7438-babc-4806-b995-175b5a0090b8@ed1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20240111T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:e8913621-ac49-4900-868e-6ce1b5a97488@e891.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231129T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:c7e0994d-29b0-480f-b50c-29b50333da72@c7e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231002T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:54204969-f1ee-48ba-87f2-4ebf347e2c8b@5420.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231115T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:e009dc7c-6180-490d-99cf-9d98053b9e1e@e009.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231225T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231224T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:d38d0340-12e5-4f9b-aee9-97169da8d132@d38d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231212T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:df76a67d-c08a-4288-8215-e283b9e2aa59@df76.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231123T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:9a2efe7b-ebd4-4378-88dc-53910559fa58@9a2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231213T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:5d7050d4-4968-4211-bf02-357df76034eb@5d70.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231012T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:f8e4a822-e8bf-4e5e-8e5a-e09748d4a659@f8e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20240117T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:ea4879ad-73dd-46a7-8d19-96cfb56870b7@ea48.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231025T073000Z
-SUMMARY:FISICA TECNICA
-UID:4889bb86-2922-4bf0-9159-9727ce7700d6@4889.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240109T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20240109T133000Z
-SUMMARY:FISICA TECNICA
-UID:67b5acee-c89b-4b9e-9b43-cb8226b675fa@67b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231113T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:05124111-882c-4253-af88-aa51ace510c8@0512.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20240111T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:0b180061-4663-4c68-bbf0-9ec287dee437@0b18.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231116T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:43edd543-a0f6-4dd4-bf13-882d825ce81b@43ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240106T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240105T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:2284668d-5e07-4639-96d1-bcfb88ffea8d@2284.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231115T083000Z
-SUMMARY:FISICA TECNICA
-UID:0199fdcd-5d60-4c4f-8f64-6f443568b1ca@0199.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231030T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:b6700794-68ff-46ba-b047-8bf082367d2c@b670.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231206T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:bfa71314-6bab-4fc7-9de8-b6ddcad36a7d@bfa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20240117T083000Z
-SUMMARY:FISICA TECNICA
-UID:a9e78cea-f077-4ce1-b709-17939c193c4e@a9e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231109T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:942dba9b-85bf-45b7-b58f-e347b29a5e9b@942d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T173000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Lab. Chimica DI4A [via Cotonificio]
-DTSTART:20231102T143000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
-UID:53c103b2-0130-4df7-a140-86b7957dd044@53c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240109T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20240109T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:972aae26-d194-4c74-98b9-c196e256297f@972a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C6 [Rizzi]
-DTSTART:20231206T133000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:344095fa-64b7-4413-ac16-0651c26e023c@3440.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231129T083000Z
-SUMMARY:FISICA TECNICA
-UID:adc45a16-0786-42f3-9b77-076d489c6854@adc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231107T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:2290d370-4883-44c5-ba55-59ee1f960178@2290.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231002T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:8bf83f08-1f94-4b8f-a3c4-7b64929c7ee4@8bf8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231010T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:7625d0f1-dbe9-421e-9aff-569eb4ea8298@7625.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231129T103000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:7ed5be8c-45e6-45bd-b98b-f6561a2c5d5d@7ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231205T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:54349bd2-00ee-4cbd-bf56-bbed7dba885e@5434.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231004T093000Z
-SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:16658973-6a7f-42a2-ab75-144ea7799647@1665.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231120T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:3e564f46-37e9-488c-b16c-63613d4cba7b@3e56.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231017T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:696c2ba3-2271-45a3-b694-3273c9b68010@696c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231204T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:3fc41aad-365c-4f56-b6df-dbe17d5189e8@3fc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:1af30d01-5282-4c56-a5b3-645fb31cd031@1af3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231229T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231228T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:0973fd2a-9ffa-467d-8890-7deb6735f264@0973.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231219T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:a8b4242c-8398-4408-93cc-f98d05fc4544@a8b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231212T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:c5069ebd-d76f-498a-a86f-dea16f0cdd80@c506.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T123000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231127T103000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:0b3713d8-23ad-46df-b241-7121c4e50cb2@0b37.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231214T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:ac06652b-ae98-41f6-999d-241bfc9f9c76@ac06.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231027T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:a43fc35c-8f88-493a-8029-ffe04a4c9faa@a43f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231114T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:d0bd4692-e833-4261-8680-9e59f9ace53c@d0bd.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231113T163000Z
-LAST-MODIFIED:20230928T002742Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:C5 [Rizzi]
 DTSTART:20231113T133000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:761ecda9-9e7c-4140-abb5-c68ba391ccec@761e.org
+UID:b12d6eda-e3d7-427f-8e9b-38db4d9ade92@b12d.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231023T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C5 [Rizzi]
-DTSTART:20231023T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:17bcf5dc-53b2-4e3a-a68d-28f5f46f33b1@17bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231109T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:afec8e84-c2cb-499e-bec7-f37ccecd32f4@afec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
-DTSTART:20231116T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
-UID:0e3bac61-e193-4615-91e6-d93fc4df02be@0e3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
-DTSTART:20231010T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
-UID:63095ac7-412e-46d3-a7ff-7696d952a554@6309.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T113000Z
-LAST-MODIFIED:20230928T002742Z
+DTEND:20231108T123000Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231025T093000Z
+DTSTART:20231108T103000Z
 SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:29283f62-dc77-45b4-8ee0-48defb557c0e@2928.org
+UID:121bfe8a-983e-4b9b-a897-466ca0f4c2af@121b.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231205T153000Z
-LAST-MODIFIED:20230928T002742Z
+DTEND:20231123T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231123T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:24cbdafc-5764-4893-beb2-5dc3c0215849@24cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T143000Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
-DTSTART:20231205T133000Z
+DTSTART:20231010T123000Z
 SUMMARY:FISICA TECNICA
-UID:f618fd87-8d7f-4a5f-a41e-e14b2c0692c3@f618.org
+UID:a4e11911-bed7-48d5-af8e-aad640f3e4a9@a4e1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231226T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231225T230000Z
+DTEND:20231018T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231018T093000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:dde4426f-c6c0-462c-9240-817532d47750@dde4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231206T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:5ac348f1-11c3-4c65-9264-1d39e6ad6f39@5ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231221T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:d3be9f89-e051-45ee-9f19-7f82ebcdbcac@d3be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231122T103000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:292ffdcf-65ee-480d-a3c7-15f4b0795d20@292f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231016T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:3771f397-b64d-4cc0-8f7a-40c997a41083@3771.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231128T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:a985c6d8-528c-4cdf-ade0-32b3bc098961@a985.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20240110T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:18e1b5ad-7f68-4eeb-a9e5-cfbff28b4957@18e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231207T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:6cbce105-0156-40d1-9adb-a837ba62b8a0@6cbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240103T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240102T230000Z
 SUMMARY:HOLIDAY: lessons not scheduled
-UID:dd8d98d0-0c45-4e8f-9c81-e25962209685@dd8d.org
+UID:a12a6645-1129-494d-8725-7f2c8f1bf98a@a12a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240104T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240103T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:d4c2e263-3ffd-42da-924f-84c16b89ff9f@d4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231018T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:16e01d5e-90f7-434d-8248-5c00225a021f@16e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231012T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:8a0e9925-454a-4d12-83cd-4a2bb185738f@8a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231017T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:bdc03039-76b7-4e07-a38b-42c609953785@bdc0.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231031T103000Z
-LAST-MODIFIED:20230928T002742Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
 DTSTART:20231031T083000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
-UID:9d35a2c9-bc26-450b-9cf2-786ead35441e@9d35.org
+UID:22853ec4-eb73-4e35-8a75-951b8a722f97@2285.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231004T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
-DTSTART:20231004T073000Z
+DTEND:20231114T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231114T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:5a205e7b-54be-4bac-ab89-31ff1f6841d9@5a20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231010T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:4079bcd3-843f-458b-b8bc-02e48d62a935@4079.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231212T133000Z
 SUMMARY:FISICA TECNICA
-UID:ce320d7a-9052-4461-b92a-384b7313e881@ce32.org
+UID:93870382-ea0f-46e6-a2d9-7c68b0d0b70a@9387.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231212T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:d50bf462-6014-4db9-864a-e0a5b0a7dd49@d50b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231214T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:c3decd87-fb2e-42ff-bc69-e22882c3445a@c3de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231204T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:394c55a4-4078-41b8-b048-9d2049129092@394c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240116T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20240116T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:23331f57-2721-4750-9961-31b9c60bf9aa@2333.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231229T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231228T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:120627f8-00a1-4dba-9a97-33c94c682223@1206.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231005T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:f4d10513-01c3-4ae4-b1eb-f8bb08784ac9@f4d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231205T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:a1382a2c-daf5-4425-982d-fc449b7a6ba8@a138.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240115T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20240115T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:6d25fd8d-6845-4bbd-b112-00e4cf037458@6d25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:28e59ec0-18ca-4408-b458-149a31d6c1e0@28e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231213T083000Z
+SUMMARY:FISICA TECNICA
+UID:d173c94d-2a87-4007-b24b-245e273e2241@d173.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231121T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:16305e23-445a-4ca1-8f6e-577ad91c1400@1630.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231204T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:3b760ad7-2480-488d-b728-0969cdda2c56@3b76.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231030T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:06c6d3d7-c9bf-4ea6-b7e7-7646eda65bf3@06c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20240110T083000Z
+SUMMARY:FISICA TECNICA
+UID:1350e898-6d45-4888-ace8-1439def3bc6f@1350.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240108T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20240108T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:620d675a-ed07-47ae-90e0-8b7070e7e06a@620d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20240110T123000Z
-LAST-MODIFIED:20230928T002742Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
 DTSTART:20240110T103000Z
 SUMMARY:LEGISLAZIONE ALIMENTARE
-UID:2fa8ef8f-3775-4553-9e97-50e019510ce5@2fa8.org
+UID:b24fef92-5cf9-412e-8ec7-3186f1f202d8@b24f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231226T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:1d19e032-b8de-414b-8506-9bf727131982@1d19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20240111T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:7ddb875e-6512-4614-97aa-435943f89203@7ddb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240108T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20240108T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:6d2d8c66-7d40-4e7e-8807-151492842569@6d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231207T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:9f4637d8-4c28-4d9d-aa13-7f5fa851a3b8@9f46.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20240117T103000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:58f5f6d5-54c1-4101-8362-66dbd0fb343b@58f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231025T093000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:b903d6f8-e17b-4eef-b130-97dea36d52a5@b903.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231115T083000Z
+SUMMARY:FISICA TECNICA
+UID:78190de7-30c8-49d7-b60a-0f86fd98dc42@7819.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231219T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:7b210a0f-7d81-4cbd-965a-ab9954408a61@7b21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231225T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231224T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:7914f8a6-f374-48f5-ac11-78b888f7f921@7914.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231220T103000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:62c5fef0-d6e0-4839-b946-4996c1c7256b@62c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231031T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:ffb379b4-f7c3-4421-8a7c-5bea669cc539@ffb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240105T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240104T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:b824d1f0-8778-47f7-a4fb-d0940ae8a6c2@b824.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231120T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:08908a2a-0e81-4ee8-b614-d9a1b3613566@0890.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240109T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20240109T133000Z
+SUMMARY:FISICA TECNICA
+UID:15e5562f-8b96-4cb8-a0cd-004ec1108b62@15e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231004T093000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:58cc3309-2e17-4312-8d5e-77755cf3a00f@58cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231109T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:853a47eb-1b21-45a5-91fa-ca585cd81c0d@853a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20240111T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:07edb59b-3b1b-4b12-b891-1e752a599647@07ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231129T083000Z
+SUMMARY:FISICA TECNICA
+UID:457c188d-68ee-4498-83b6-033d6aeacd82@457c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231205T133000Z
+SUMMARY:FISICA TECNICA
+UID:ccd56d61-919c-484a-8bad-9d544c2cd822@ccd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231116T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:6c61ba2e-d8d1-4a92-8ac1-c2c1396c3f74@6c61.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231108T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:8bdbf71d-3a69-4522-8630-a09de5afd587@8bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231213T103000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:7aa9fd94-a29d-4a98-bf76-84989cc54b46@7aa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231213T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:ebacf523-2eda-4cff-b4aa-5ad0751bf04a@ebac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231218T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:f9021b2b-f284-42bb-95f3-ededbaf2faf3@f902.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231107T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:2d00e820-92dd-42c3-9182-f466c4ad9c5e@2d00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240118T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20240118T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:dd72272c-a1d2-40f4-afd4-3a12d2b6c1a9@dd72.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240102T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240101T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:7dabce15-43af-462d-9429-aa2868927b1d@7dab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231206T103000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:d2fc814a-af8a-45d9-a211-293de87674bc@d2fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231218T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:c4d99fc8-5560-4aeb-9832-1a82f96b8a85@c4d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231220T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:e5a42929-1a87-405f-808b-b283dd3782eb@e5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231004T073000Z
+SUMMARY:FISICA TECNICA
+UID:8dc1d1c0-67df-40f7-a7b1-c195bcf14dc3@8dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231025T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:1111a48c-9d5f-4f75-82bd-fbf7f10d379c@1111.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231107T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:8d03bbc5-4ebc-4275-bd9a-b0bfcf6788f3@8d03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231120T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:52c80a3d-a69e-4c33-9e30-89fdfac90e53@52c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231003T123000Z
+SUMMARY:FISICA TECNICA
+UID:6c4bdb67-4c54-4395-8290-76c0daf5da91@6c4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231030T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:e804e99f-0634-4df0-b58e-654898af31a5@e804.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231121T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:4e0f5379-a957-489a-bb03-0e77c67bff31@4e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231025T073000Z
+SUMMARY:FISICA TECNICA
+UID:8e2090dc-6f24-49d8-bfa1-e9edff563afa@8e20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231009T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:e8008bf2-734b-4db3-af55-966abadca0b8@e800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231109T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:611ff88a-2101-4812-98c5-134dbe253756@611f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231107T133000Z
+SUMMARY:FISICA TECNICA
+UID:d2d7fab8-c43f-48de-bd31-5adf346bcd1d@d2d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231102T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:1b39f751-4ed3-4c83-8f4b-d3f169c5feb4@1b39.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231206T083000Z
+SUMMARY:FISICA TECNICA
+UID:8ee86642-08df-452e-bfb5-2198e21f9b4c@8ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231024T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:c971a552-eedf-498f-9446-1f1a086f4710@c971.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231013T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:2ff3cd25-b5e7-4f50-9d25-7e626aa9ee3a@2ff3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231011T073000Z
+SUMMARY:FISICA TECNICA
+UID:564becaf-4bab-4b05-ac7e-72c04def924d@564b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231011T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:9c8a11f2-3404-46a1-b253-79a572d50307@9c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231221T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:3ad7b4ec-c659-4a74-870c-34dc5141b2f6@3ad7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231116T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:825360e4-e5a3-41c2-85bf-444d467ee296@8253.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231114T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:0873650a-5b71-42ef-aaf3-b692f4433930@0873.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231123T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:03d53ab6-df57-4bd5-93c9-d8949c8c1049@03d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231122T083000Z
+SUMMARY:FISICA TECNICA
+UID:3502e1d2-e06e-4626-aa76-83b8963742c7@3502.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231227T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:a9e11555-0e1a-4ad1-8060-c8a3983d3fa8@a9e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231002T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:975dbf4c-042e-44a7-bd69-44e824acecbd@975d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240115T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20240115T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:b7fd9b50-839c-49c9-a666-0d90c70a4348@b7fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231128T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:e15cd220-a5e7-4ac9-b4dd-6dce179bb8fe@e15c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231120T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:8d3f5fa0-87be-4ef9-beff-04909e5e7bd4@8d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231129T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:913c012c-9c90-4338-ba05-6a6ac5de75ee@913c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231106T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:65688805-239a-4fe5-8ebc-26f62fac9618@6568.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231102T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:d2efdcaf-5c30-42b7-b868-c43e42349c10@d2ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231023T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:b86938e4-5f29-4462-bc2a-077bd85ae1f0@b869.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231024T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:95438827-e560-48d9-9e47-df652a03e2c7@9543.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231225T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:cd7450ff-ca94-4c74-9b39-3edcc2c4c58c@cd74.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231115T103000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:8037c2cf-cbe1-4e95-9749-2cb151fa6f29@8037.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231026T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:def80613-226c-4c49-a804-e972d5ab1f63@def8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231030T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:b386a557-507c-4715-9674-8f606f5988ec@b386.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231002T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:3d7b2ea2-3a73-4423-8252-9bfe0803134f@3d7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231130T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:94092e87-1e20-45c8-b7c3-12cfeef50661@9409.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231010T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:9bd21132-6c49-4b14-a869-5bbad835453b@9bd2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240106T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240105T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:af5fc065-637e-4daa-a8ae-cfa0e96118a7@af5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231108T083000Z
+SUMMARY:FISICA TECNICA
+UID:f21d6a61-faf5-424a-bc46-89308ad308c0@f21d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta1 [Rizzi - Aule Feruglio]
+DTSTART:20231130T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:06101076-0c7b-42b8-a403-9967bbc2046f@0610.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231016T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:3ee2416f-9aff-4583-a76b-9e48ed24dd92@3ee2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240101T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231231T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:b97af190-97e8-4067-a359-6690dde220f2@b97a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231205T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:ab47099c-b18a-40c8-bab5-916bfcee3b57@ab47.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231211T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:b64164f6-d770-422d-bb99-04c4a446aca2@b641.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231128T133000Z
+SUMMARY:FISICA TECNICA
+UID:62e0dbfe-1a4b-431d-93b7-537410a6815b@62e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231211T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:6ac99153-e2bd-421e-9df7-256aeecbd771@6ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20231214T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:169f19bc-71d1-4e69-b97c-c252e1ce1426@169f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231127T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:4364f03e-d4de-486a-a746-61d1650df5cf@4364.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:c687b063-2457-4e11-b8bf-9ef290ff9a9a@c687.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240116T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20240116T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:de7040be-3cbd-486a-a90e-ed681f205f12@de70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231003T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:cc29a847-470f-4e53-90ca-64e0eb45212a@cc29.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231003T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:dcc3b5be-4b87-4f10-9917-d847962f25ac@dcc3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231027T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:e2860068-df2a-4bea-8d53-75ce7e759338@e286.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240109T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20240109T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:630b522a-6787-439b-8042-e72bc6a5cda5@630b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240109T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20240109T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:606b40e6-fa3f-4543-afcc-64c452612231@606b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231219T133000Z
+SUMMARY:FISICA TECNICA
+UID:e1723ac9-094a-4bc5-b324-84a8dd424242@e172.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231122T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:489477ae-7ab4-4bd9-92bc-00ceb780644d@4894.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231004T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:cb8d9ddd-6f2e-423d-a3fc-576024844c95@cb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20240117T083000Z
+SUMMARY:FISICA TECNICA
+UID:82c3a50d-3ccd-4104-ac61-6667115f3ad6@82c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231219T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:3f71b921-6019-42e4-902d-80bc72a91605@3f71.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231009T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:db43f319-9b78-44db-921a-150641a5042a@db43.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20231115T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:d463fa63-725d-434b-9eec-d62eb5793fdb@d463.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231220T083000Z
+SUMMARY:FISICA TECNICA
+UID:6f10ea2c-1328-4b30-92c1-21a3afb7a363@6f10.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231127T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:c977533e-b172-423e-9ad2-36130621087b@c977.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231011T093000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:67a51e26-aa75-48e1-a648-aca08d9dabe6@67a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231018T073000Z
+SUMMARY:FISICA TECNICA
+UID:7dfdac2e-80ae-4278-afbe-437282ad16bc@7dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231113T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:8a0c4d34-5eac-4f83-b0f4-ec85c59e0fa2@8a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240118T173000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Lab. Chimica DI4A [via Cotonificio]
+DTSTART:20240118T143000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA - ESERCITAZIONI
+UID:989f57b1-4bf1-4bca-a4b5-a38631dd0a4f@989f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231017T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:59cb9589-68b1-4399-873a-4d0265b46c91@59cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C6 [Rizzi]
+DTSTART:20240117T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:cd5d11e0-3179-4317-b9b4-4e070c184871@cd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231114T143000Z
+SUMMARY:SEMINARIO INFORMATIVO: MOBILITA' ERASMUS
+UID:88009b24-6ac1-49e2-b299-7cfbc7c90e30@8800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231024T123000Z
+SUMMARY:FISICA TECNICA
+UID:69b114cd-fffc-430e-96fd-b54a414226d0@69b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231121T133000Z
+SUMMARY:FISICA TECNICA
+UID:ce6e9c9a-e8b1-47e6-ab05-9afa381f08db@ce6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231017T123000Z
+SUMMARY:FISICA TECNICA
+UID:689e050d-b382-4b4a-b8e1-9a9405cf0a06@689e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231114T133000Z
+SUMMARY:FISICA TECNICA
+UID:6ead6a9a-adfc-4641-8c16-b521b8a69d98@6ead.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta3 [Rizzi - Aule Feruglio]
+DTSTART:20231129T103000Z
+SUMMARY:LEGISLAZIONE ALIMENTARE
+UID:57ad7be8-34d6-4426-bec6-d2e309a77a4c@57ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231031T133000Z
+SUMMARY:FISICA TECNICA
+UID:9b70233b-ef43-4aca-9ed8-fe3635710c35@9b70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C5 [Rizzi]
+DTSTART:20231106T133000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ORGANICA
+UID:3d831b22-ea6f-4af4-846d-134d3abf74b1@3d83.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Gamma3 [Rizzi - Aule Feruglio]
+DTSTART:20231212T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA FISICA
+UID:37390a4c-98a3-46d8-9cd1-3a5be0d62c84@3739.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240116T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20240116T133000Z
+SUMMARY:FISICA TECNICA
+UID:d9725e37-7758-4c3c-9c07-ee1c2eb0219a@d972.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T123000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:Aula Delta2 [Rizzi - Aule Feruglio]
+DTSTART:20231204T103000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> CHIMICA ANALITICA CHIMICA ANALITICA
+UID:7f385a6a-29ad-4538-9cc8-d1cb41db8b48@7f38.org
 END:VEVENT
 END:VCALENDAR

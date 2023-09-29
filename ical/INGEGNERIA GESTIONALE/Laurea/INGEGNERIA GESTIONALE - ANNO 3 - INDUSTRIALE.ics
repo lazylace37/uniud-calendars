@@ -2,966 +2,966 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231228T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231227T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:b40dd6d8-72ee-4507-bd00-6883004eb71b@b40d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231114T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:6179d631-6221-4962-8ee2-e73c1915edf6@6179.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231129T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:14a7be25-918e-48a0-b18f-707cc3ff332e@14a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231011T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:239215eb-f7ef-4950-a0a0-e6c978021e95@2392.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231214T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:0d9d2b70-6f20-4662-9e92-4c2787c2219a@0d9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231025T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:c084c196-05f9-4a54-b245-8256885847ef@c084.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231130T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:5e4586ff-283f-4046-9cae-d21604135673@5e45.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231226T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231225T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:64a6fdd0-edb6-43b3-bdb6-6cdc47fe181a@64a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240116T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20240116T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:94a7e6c5-017c-4210-aee2-9bbdbb038766@94a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231116T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:7246d3ff-0e92-42c4-bd15-bd8218bc0291@7246.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231102T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:1f3783bc-64d9-461f-bb57-7b272a69f751@1f37.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231212T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:32d9eec2-d360-480f-828f-31177effe76b@32d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231003T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:7996c32d-5eda-473e-8a96-2f8388125a32@7996.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231026T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:ddadbf99-224b-4afa-9799-dd89a52db63d@ddad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231221T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:f70f0dce-25bd-42b4-8440-9c8ff2764c8f@f70f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231123T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:abc8c90d-c0bd-4b6b-9e25-a70facad5682@abc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20240117T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:ee7aeafc-d35a-4d3e-9362-123da0175eee@ee7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231114T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:92dcfce1-894d-4000-b7c0-ca0ca257049e@92dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231024T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:3788f76f-001f-4793-a740-bad1ba0033db@3788.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231213T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:41fe9100-f92f-49f3-ac6c-442b7b323fcb@41fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231128T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:705d0d1c-7962-472f-b988-9e9bd682669c@705d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20240110T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:478b2e42-0643-47d8-a861-1a3879158aa8@478b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240109T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20240109T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:330a48dc-286c-4f03-8188-dea5a7a24a8f@330a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240104T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240103T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:062c0aa5-f16d-4e43-b5be-c4904e463de5@062c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231220T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:9743cb5a-aabe-49f8-8a67-6b7b16f309e8@9743.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231212T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:9d7499eb-6d54-47c2-a345-7a5151e24ca1@9d74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231019T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:ad080995-98c7-4810-98fd-4150e664498e@ad08.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231225T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231224T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:39f82882-cb13-476a-985d-070296a0dc73@39f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231221T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:c8f7a0fb-57f0-4443-9cae-dd689d171b25@c8f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240118T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20240118T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:8babaf1d-8cd3-4b7e-a7b4-65e41663d209@8bab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231219T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:28671f7d-c890-4841-8119-faf6d697da9e@2867.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231128T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:16af9acf-7fb4-4d8d-800e-5ab8e64981dc@16af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231122T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:010f9168-b07b-4aa5-9a8f-0486e01650e5@010f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231122T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:bf8562ba-6f26-4ce4-8418-3408b74fa011@bf85.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231123T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:bc520175-1b77-4cda-823f-1104061880f6@bc52.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20240111T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:77dc145d-4097-4d63-adc8-e771404c15ff@77dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231226T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:651ae850-0765-4b22-9585-985f562458f6@651a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231025T113000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:7f88b1e7-9c52-4b2a-9b87-8d970896b2d2@7f88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231205T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:861e953b-95f6-4e22-8530-9984e99f202e@861e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20240111T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:82f6c8a3-9081-47ad-bfb7-66a185d1661c@82f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231115T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:d7e763fe-d4dd-4d05-8cb2-3f4e65347a7b@d7e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231004T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:7ee38421-e05e-4963-863e-d263bf6f7e20@7ee3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231018T113000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:4c910298-b51c-42f6-9714-5e88c098fd59@4c91.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231116T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:a68c0a8e-4b1c-403a-9452-0deccdd631ea@a68c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231012T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:661726c2-b5e8-47c2-b848-27e7ee4ea112@6617.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231213T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:db5af87e-c878-47e7-8f19-4d641e2e0b58@db5a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240105T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240104T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:ffa91adc-0a45-4b93-80f1-6f2b4cd3846e@ffa9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231220T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:b6aa82df-a44a-425f-a9f6-22dc08637013@b6aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231122T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:eb14875e-9fc2-441c-b9ca-263875b6bd73@eb14.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240109T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20240109T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:f9d02c64-675e-4513-8f6a-d5e5c74bfeaf@f9d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231221T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:a1c9e78c-8e8c-423e-8714-c16e8908917a@a1c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231116T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:7d5c4a2b-c806-4434-a4bc-ba5d1a427975@7d5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231121T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:77ce1ba5-66ff-4b6f-b351-4c241d9341a2@77ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231005T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:3e2917f7-10f5-4048-9a02-c3f2e3c75941@3e29.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231012T083000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:d32e6cd5-450b-438a-871e-ed5ecaa02ad3@d32e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231109T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:b7081795-28d6-4f3a-8c29-9ef0260fcd76@b708.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240102T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240101T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:341fc3b9-b250-4b4b-9d47-fc545c223f8b@341f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240116T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20240116T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:a0eaebb2-110c-4755-889d-d6cd223dc9a6@a0ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231123T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:01beac5d-0045-4949-9a55-ad14fd973bbd@01be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231011T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:a8cb8f70-3a0b-4c15-8032-1601f7957510@a8cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231109T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:09ebce47-367c-41c6-8c3a-043f7edd5e0a@09eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231004T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:f8f3c0f2-f05a-4ea6-b3de-774851de139e@f8f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231010T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:d41a9829-c220-4480-a4b7-e50b24b96416@d41a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:8d3fecc3-6b14-48e3-b02f-88ffe0ebd4c5@8d3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231017T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:2e129b62-2418-4759-b42d-fafbc4cb6a44@2e12.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231019T083000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:3a7f5392-5199-4913-9b7d-522f537e07fd@3a7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231108T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:98f2dbcd-3e22-482f-ad07-845a839ea237@98f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231115T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:59579642-1c3c-4771-9beb-22548e7c3d32@5957.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231214T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:fef4f54a-b188-47f6-8156-b289ec6276a3@fef4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20240110T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:9908051b-15db-4f97-908c-e746fe4d1063@9908.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231121T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:be74a84c-f3f9-4499-a1ac-a3d23c2f000b@be74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231012T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:851200fc-288a-41f1-bffc-d567fc9373e5@8512.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231129T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:857ed8f9-f107-40bd-9c58-ce7516e17ccb@857e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231010T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:2d8c5791-9be6-4488-a39d-6df089ec16f1@2d8c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20240117T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:6d935f69-d9dc-42cc-9c97-07982048ba24@6d93.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231024T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:7cc79ff2-5e81-4b9e-8590-1be4d5f61afc@7cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231011T113000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:93c65a2e-e019-4d47-a250-4f7ff472d988@93c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231102T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:f12e6f68-7a54-4ad4-97ce-14e2da5d2cf4@f12e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231018T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:0f7cf2d7-8521-4c6b-818c-d557d1ecaf18@0f7c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240103T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240102T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:675e7e91-ff49-4a63-b7fd-4ecea9dc6504@675e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231025T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:0b69df4e-70b4-43e2-a21c-3137423e79ca@0b69.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231129T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:6d9fe509-459f-4f73-b9bd-19554c5fc93f@6d9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231207T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:bcc9c9b4-dbe5-408d-84cb-9e27582b494b@bcc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231207T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:e8c92bcd-3482-4963-8daf-a86ce43db27d@e8c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231229T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231228T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:9f1ba16e-f5f4-4204-a40c-5a3af6fe9515@9f1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231018T083000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:36d99215-65f4-4ba9-8ec9-371b11161aeb@36d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231206T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:3e0d21c5-c11f-4411-9252-c0c7fced4a10@3e0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231115T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:65f5ab7e-7bea-4f55-a00f-03c32e3d1236@65f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231207T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:4133d890-860a-47fb-8d72-45ae06b7ac47@4133.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T103000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231026T083000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:abbaa79a-212f-41a2-aac2-a62a8d69ce61@abba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231220T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:ecfb9e92-ffb9-4b92-ab12-81097c70a480@ecfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231109T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:6f5fa7d5-fa17-4856-bf76-d37203745b43@6f5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231031T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:cf9cde4e-03c5-47c2-a94d-557b56349c6b@cf9c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231107T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:842ddfa0-d3a2-44d3-86fd-73a88b014bec@842d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240110T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20240110T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:ca5e8423-0ca9-42e6-8bc0-45b503c82c2b@ca5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231205T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:4d28d081-6166-4299-94d4-20bfad118e9e@4d28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:e4c92d91-7700-44c6-b39f-cf8ce4e8b253@e4c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231107T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:67edea6d-e880-4a99-881d-f7cffdce1bd3@67ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T153000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231004T113000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:077b79eb-0536-454a-803e-e04f770e3c7f@077b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231019T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:cb69a901-7a03-470c-8fe4-41a8457c8657@cb69.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240118T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20240118T093000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:cc5c1d0d-4f97-4ca6-8ac2-b6125d5d74ba@cc5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231031T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:2bc703d5-39b5-4cf4-82a9-e5812bce2d7f@2bc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240111T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20240111T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:f0ee8d69-0d98-4a3c-a112-e1aa00480fa2@f0ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231219T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:bbb0effa-d63d-4e5f-a24d-a42d1046a024@bbb0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T083000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231017T063000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:74b1652c-dfab-4be8-9674-3c1ccd561161@74b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T113000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231206T093000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:2bada4ac-120c-4b38-9509-a86a2f00f010@2bad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231108T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:bb5d9664-7ff4-4e45-b9f6-83d78dbb24fa@bb5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231005T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:af4dedc0-f7d4-42bb-a248-41478c52d78a@af4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240101T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20231231T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:6f6de002-3764-4f6f-ba72-f79e058a5a07@6f6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231130T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:10d2d881-4d19-40e5-82e9-0ffbf51f0788@10d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231026T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:3e465eb3-bcac-4314-b51d-a31c8d5b0619@3e46.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240106T225900Z
-LAST-MODIFIED:20230928T002742Z
-DTSTART:20240105T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:d6c95afa-f29e-47c6-b039-415280bdcac6@d6c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231130T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:48030663-9f78-43a6-bb5b-d399ac337771@4803.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C9 [Rizzi]
-DTSTART:20231214T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:deddb57a-9c1c-4f9c-a3c0-c557fa7105e5@dedd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T133000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C7 [Rizzi]
-DTSTART:20231003T113000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:1ccf4288-1d48-414f-910f-94d6925cbd7a@1ccf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T093000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:A034 [Rizzi]
-DTSTART:20231108T073000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:b126f4b9-d2fe-4fc9-97e0-b802bee03e09@b126.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T163000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231206T123000Z
-SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:777243b6-2525-4b47-85ff-1c76096ff176@7772.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T143000Z
-LAST-MODIFIED:20230928T002742Z
-LOCATION:C8 [Rizzi]
-DTSTART:20231102T123000Z
-SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
-UID:0c1407ad-f701-4da7-b70b-abad54951e7d@0c14.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231213T113000Z
-LAST-MODIFIED:20230928T002742Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:C7 [Rizzi]
 DTSTART:20231213T093000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:0610dfba-26df-4ee6-8cea-7e10c7b44c24@0610.org
+UID:fa94e02c-8991-4cce-9847-4b6bc637cad9@fa94.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231212T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:641b37f6-c828-4fa7-9046-efb07858d2e8@641b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231213T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:a7a34a4a-6863-4907-9499-8f962ad1aa5c@a7a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231214T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:c19d8d36-dd76-4b57-ae86-3aecfc8d706f@c19d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240116T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20240116T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:0d162738-6bf2-44db-b5ce-21ac3406716b@0d16.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231116T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:8151fa58-2aac-4d27-ae78-467181525960@8151.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231019T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:049b97dd-a6aa-4094-9790-18294085ab2d@049b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231123T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:600f7da4-74a6-4f2f-af85-271ab7b0cc7a@600f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231025T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:a13d707f-929d-4feb-8346-9272b83c5424@a13d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231109T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:a23ad145-1a29-4865-8fc2-51c9bfe229d4@a23a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231109T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:c934e701-289f-4641-a338-f5ce35ff70b3@c934.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231214T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:f0fe37d9-4c1d-429d-a3a4-a34dcad79ccd@f0fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240102T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240101T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:078c7b0d-5572-42b6-b512-cbbdcb2495c7@078c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231225T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231224T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:80895fb0-6ff9-4811-9b4c-094cec472253@8089.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240103T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240102T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:c1f984ac-8c56-41d0-b8f0-bd759828a371@c1f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231004T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:e2970f3e-0499-429a-a086-5ce48907dc06@e297.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231220T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:c0b02b6b-ce92-46b9-b8e7-d0c29286ca99@c0b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231122T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:243c71c4-fc3d-4683-8bc2-0f49f28a911d@243c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240118T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20240118T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:44af2c7f-d933-4f88-a0d3-5b3ae40b3ddb@44af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231206T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:c21c8df0-9755-4989-8762-2b8c2375c83c@c21c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231213T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:79c06de7-1ac8-4686-aaa8-f14d294669b6@79c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231004T113000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:2b58fc17-cddc-44b6-a8bd-0e996e9de098@2b58.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231025T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:3bae1d10-040f-409d-ac49-fff6f157f3e8@3bae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231018T113000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:8946194c-de13-4faa-9acb-1492a5b8398f@8946.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231026T083000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:efbc48b5-1f76-408c-afff-945a5799bae4@efbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231122T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:721245e5-6880-4835-bfd6-d3638d5b9d73@7212.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231017T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:36791d07-9dce-4ec0-902e-4fde005616b7@3679.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231024T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:6c87f628-aef4-4a29-ac82-6dca54e009f4@6c87.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231207T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:69e34206-9206-4f68-92b6-d0f3a27f7a23@69e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231026T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:86187e96-bef1-4ccf-9679-f0237c31f2d9@8618.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231229T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231228T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:e1f2d465-9e4b-4d58-b5d8-b83599209da5@e1f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20240111T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:739e87ef-d37e-4e60-ba2b-5d0e884c2d5d@739e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231220T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:7d461031-69e5-4be2-b047-2f316a4d00d8@7d46.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20240110T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:154c2e93-9e2b-44a7-86c4-57d3ef13bcd2@154c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231108T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:a160e683-db19-4cce-830f-a44527fb1cb5@a160.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231130T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:604224c7-8915-4b03-a19f-69f0767948f7@6042.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231115T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:4d59a80d-b803-4b5b-8e30-c768aefc75e6@4d59.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231114T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:75af29d4-3968-4379-a613-423306126d4e@75af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231107T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:a1edc9df-3ac8-4e37-bfd6-1db3f0a0a165@a1ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231207T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:9b9cc254-72d7-41b0-b1f2-c57ff3aa4ac4@9b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231221T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:f9791316-b48e-4a34-8c88-0f2b846b6fb1@f979.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231219T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:97ba9a38-c230-4ea7-8f48-78eca55f2223@97ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231025T113000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:48b96d47-b4a0-4161-aacc-c58877abed31@48b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231219T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:3ea2101a-c433-49a3-96b7-2e32c5733b6d@3ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231012T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:d23df589-35a8-4700-a2a4-87913fbda1ba@d23d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231226T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:fc080926-54b5-4191-afe7-185053732693@fc08.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20240118T093000Z
-LAST-MODIFIED:20230928T002742Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:C9 [Rizzi]
 DTSTART:20240118T073000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
-UID:6c304835-a6c5-419f-b1a0-f14181039113@6c30.org
+UID:c74faef6-61dc-4d61-beae-89d232dd2058@c74f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20240117T113000Z
-LAST-MODIFIED:20230928T002742Z
+DTEND:20240116T143000Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:C7 [Rizzi]
-DTSTART:20240117T093000Z
+DTSTART:20240116T123000Z
 SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
-UID:d9ccfea9-c88d-43a5-a4ea-2db7160db860@d9cc.org
+UID:94eb4734-6025-4cda-98ee-9fbabb053bf8@94eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231123T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:d5c570db-a3f9-4e3d-a3c0-5a10c2f6d76b@d5c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231130T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:68997008-3ea4-4487-b00a-22e41f540c44@6899.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231003T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:1b33198e-40b7-4f98-95e4-b7abdb9439db@1b33.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231018T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:b272e694-b431-433e-8693-21e5ba4f3c86@b272.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:499d37e1-e415-4868-861f-fa6a472546e5@499d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231116T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:edb7624e-f8c2-4231-8632-1a69415dee59@edb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231102T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:a5df4635-f1c2-4106-a293-faffe65cd56f@a5df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231129T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:d7d325c2-2d78-4d91-b0bc-51cd32d8198a@d7d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231031T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:1b8b673c-c42d-4dbb-aa29-3903ce72cbee@1b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231227T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:d940bad9-5e5a-4ce3-96cb-6b992234a830@d940.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231122T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:c34c8829-e9e8-4f4e-adf7-f236454e7200@c34c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20240110T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:697607c3-72c4-4a42-8f5d-0a82c93230d3@6976.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231012T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:3379adcf-ea2d-4c4d-90fa-2f61ca540994@3379.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231004T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:a8c8ca8b-1dfa-4f77-bdff-1621589f83a0@a8c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231220T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:caeaa670-036f-41af-88c9-a4b4a5fa3000@caea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231003T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:d0601f12-a1e0-426d-a2eb-6f94532eacc4@d060.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231107T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:b48611bf-84f2-4c29-af38-5929a3df00af@b486.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231018T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:26bb6321-6c6e-4d0e-b715-2fc6357ba4a3@26bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20231011T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:43e20783-54e0-42c8-91a5-aa177f8aebef@43e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240109T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20240109T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:932b15e7-13c3-4932-8228-ba9446137f5e@932b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231011T083000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:c3ed0e22-dcee-4fcc-8d74-9f194d427928@c3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240101T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231231T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:f4b6ecd3-2a3a-4dcf-a7e1-b747f22032db@f4b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231108T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:9835e1d3-68e8-4bb1-86b6-5073f7475f95@9835.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231129T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:4a0c0393-ea6a-42df-94f6-7f0e95c1be41@4a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231010T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:2fdeafdf-1244-4213-8879-118d97977828@2fde.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231212T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:f1ad170b-768a-42ca-81e7-6faa7ff66a89@f1ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231225T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:46908fe1-6ac2-480f-9189-476887cd559b@4690.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231128T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:05815b1b-598d-4541-b215-97df8b99b4bb@0581.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20240111T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:37aa885a-09f9-4d02-9bba-192684c5cba7@37aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20240117T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:1e51a40f-3157-4d6c-9118-c180b6ff610c@1e51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231214T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:70ce6081-8a85-4272-ac4c-e9d62e10983d@70ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231221T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:915e86ba-89bb-417d-90b5-fec36c9efb4e@915e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231205T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:7328e2bd-01d5-419b-af91-3f147b0f5f7d@7328.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240110T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20240110T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:9c0ca9b7-03c4-4dcb-9bfd-56a63f1f61e5@9c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T153000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231011T113000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:2c2414a6-c0e7-4f5a-a6bf-5a9fc126c198@2c24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231005T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:9516ca77-7655-4c1d-8df9-1a55158f9388@9516.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231109T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:2cab4e7f-91d8-454a-898f-b8b5127e57d7@2cab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231116T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:b11486c8-451f-4571-b517-959925e6d6c2@b114.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240105T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240104T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:e2ef41e2-e5ea-489c-a6d2-c8d9e83f29d4@e2ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231128T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:836108dc-b1c9-4a91-aa34-2d89209efce6@8361.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231221T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:be218191-021f-4040-b863-6aba00fa0382@be21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231005T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:a2c5a942-82d0-4df3-b989-d6f0cd555d94@a2c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T083000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231026T063000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:a0763202-439d-461d-ad81-8b1a6a19a8a0@a076.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240111T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20240111T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:ef4573c5-04a9-4cdf-8c6b-d04878fa1860@ef45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231019T083000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:2323bd95-25fe-456f-8f5e-410a89c0ef7c@2323.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231102T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:a6a5da8d-1818-4f83-9e12-e94797b52209@a6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231010T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:21f35ce1-65a5-409e-818b-fc29d61f5eb3@21f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:A034 [Rizzi]
+DTSTART:20240117T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:a76411bf-1246-443a-8e71-6efe56ac9e41@a764.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231031T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:b57e438e-10c4-4b97-85f0-87272c7f833b@b57e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240109T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20240109T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:4831e01e-356c-46bf-8cbc-6a4edc47e3cd@4831.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231108T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:9b859394-9f38-4255-8843-0281a6e9537f@9b85.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T103000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231012T083000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:5e008c41-7ee5-40c8-ab3f-33ed69c38c36@5e00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240118T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20240118T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:130a1372-215d-44c3-97a0-c18f16520402@130a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231206T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:18652738-86dd-4725-a2ee-d062ad54ce02@1865.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231121T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:c7949e3c-72a8-4890-b5bb-d93248df6465@c794.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231115T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:acd789a1-a912-4496-bf37-21ee01c795e6@acd7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231102T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:18cdf9a5-b1b3-4541-a862-947fcd585f42@18cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240106T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240105T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:a5961fab-76bc-4121-86e7-736cdad27883@a596.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231129T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:c59551f0-b03a-4e90-8d3b-c44528d40967@c595.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231024T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:afc0bce2-15e6-4ff7-a9bb-230201cf4afa@afc0.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231005T103000Z
-LAST-MODIFIED:20230928T002742Z
+LAST-MODIFIED:20230929T002801Z
 LOCATION:C9 [Rizzi]
 DTSTART:20231005T083000Z
 SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
-UID:9aac33d0-76c5-4301-84ad-a2be99fd54ae@9aac.org
+UID:575d9b17-73f6-41ae-8679-cba37a138ed7@575d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231206T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:073712ab-3fd8-4e98-bc4d-19ae268ce8a6@0737.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:e667e4c7-0a30-4e1c-a26a-654acaef1741@e667.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20240117T093000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:11035f7f-59c1-4b99-974e-3844c2076901@1103.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240104T225900Z
+LAST-MODIFIED:20230929T002801Z
+DTSTART:20240103T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:6f2a384d-a603-4428-bd1a-5f4c2b8e54bd@6f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231123T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:70bf50ea-4d16-4b04-9ff4-1edc07a72842@70bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T093000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231205T073000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DEGLI IMPIANTI INDUSTRIALI
+UID:25d7fcef-dbe9-46db-9c72-809656fff2a4@25d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231130T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:200c338d-52f5-462f-b57f-43c806669ed2@200c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231114T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:e9533fe1-88e0-466d-8769-cc838b123515@e953.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231019T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> TECNOLOGIA MECCANICA
+UID:fc2dc2b8-5d26-4b42-a406-02065de8a16e@fc2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T113000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C9 [Rizzi]
+DTSTART:20231207T093000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:f4088fb6-548f-4f51-b23e-a761f1071678@f408.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T133000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231017T113000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:acd3a695-0f64-4f3a-882e-8d97c7b755c9@acd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T163000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C8 [Rizzi]
+DTSTART:20231115T123000Z
+SUMMARY:ORGANIZZAZIONE DELLA PRODUZIONE E BUSINESS GAME
+UID:15558346-b799-4087-8d8b-3ee9b2e9c8ed@1555.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T143000Z
+LAST-MODIFIED:20230929T002801Z
+LOCATION:C7 [Rizzi]
+DTSTART:20231121T123000Z
+SUMMARY: <i class="fa fa-asterisk" aria-hidden="true" title="An asterisk near the course name may indicate that there is a note\, an attachment or a link. Click on the lesson to view its content."></i> GESTIONE DELLA QUALITA
+UID:45a2e063-6903-4f8c-802e-1c913d7d3d9d@45a2.org
 END:VEVENT
 END:VCALENDAR
