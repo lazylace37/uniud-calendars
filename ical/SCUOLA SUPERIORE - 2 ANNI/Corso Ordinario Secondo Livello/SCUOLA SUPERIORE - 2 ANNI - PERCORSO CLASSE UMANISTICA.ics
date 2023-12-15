@@ -2,546 +2,546 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20240307T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240307T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:fb17a567-7cdb-429a-b7eb-7363f0904da4@fb17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240403T173000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240403T153000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:d0102523-18c1-4f27-bf29-1835fa11106c@d010.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240508T173000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240508T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:0157a83e-64c4-4ecc-a0c2-24a78ee7cc95@0157.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T210000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231120T190000Z
-SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
-UID:6cc33813-4f07-4a81-944e-a16b07b758ee@6cc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T225900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20231031T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:c47829b3-e8ac-40a1-85f7-8b83c41383d4@c478.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T210000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231113T190000Z
-SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
-UID:50a7b635-6cd6-4b02-aabd-908b2e07577b@50a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231102T170000Z
-SUMMARY:Conferenza<br>disciplinare
-UID:ed2afdd1-7e5f-4177-9f2b-b6ec070c6209@ed2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240214T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240214T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:6d608243-82e9-4638-ab0f-f6653284d9df@6d60.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240227T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20240227T143000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:e0377a28-cbe5-4dd6-87e4-c2fb169ce2b5@e037.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T225900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20231207T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:bb8554b9-82df-428b-88d8-ae78c1137601@bb85.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231216T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T4 P. P. Pasolini\, Aula T3\, Aula T9 [Toppo Wassermann via Gemona]
-DTSTART:20231216T070000Z
-SUMMARY:Conferenza<br>disciplinare
-UID:63c070b6-ad38-4ae5-9917-11c2fd25cdb4@63c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231121T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:e409c93b-53f3-488e-99eb-57de40fa7e65@e409.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231215T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:968187b3-efa8-4a1f-a7d5-8a089693cb81@9681.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231114T170000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:a5d5ab84-1613-427d-999c-95f2f9f3729e@a5d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231213T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:4ab7821f-f876-4fca-9f1c-a0559896265b@4ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240401T215900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20240331T220000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:2c1f2486-5532-4d13-a525-fdf89ccd6fb3@2c1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240425T215900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20240424T220000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:533fbd28-1ca7-4e95-9197-4271887c7305@533f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240208T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240208T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:dbb3400f-7ee6-4400-845b-69e2f8cce219@dbb3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20231205T170000Z
-SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
-UID:6603536b-9bd7-46ae-9eb4-f13d82136d64@6603.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T5 [Toppo Wassermann via Gemona]
-DTSTART:20231128T170000Z
-SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
-UID:122ecbe3-1974-4777-b6ad-19b498259bff@122e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240320T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240320T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:481605cd-1808-4dc8-8a63-04fa652d256d@4816.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T210000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231127T190000Z
-SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
-UID:3be63905-4456-4f36-b42a-7b10120b024b@3be6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T3 [Toppo Wassermann via Gemona]
-DTSTART:20231206T170000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:50ed072c-9297-4692-b416-c6ce53a55a1d@50ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20231212T170000Z
-SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
-UID:73542d93-7fe4-4817-a58a-f8a57c96c815@7354.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T210000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231211T190000Z
-SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
-UID:1c5e28cf-ebdd-4d5c-90d8-a8e513204e40@1c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231115T170000Z
-SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
-UID:df3ea770-c722-4517-921d-9dde15cecaa4@df3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T210000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231204T190000Z
-SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
-UID:a105688a-5de0-4a8f-ad0b-2c5a57bc4e79@a105.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240227T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240227T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:9637fac0-03b6-49f5-8927-95ce0e4f11ec@9637.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T4 P. P. Pasolini [Toppo Wassermann via Gemona]
-DTSTART:20231123T170000Z
-SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
-UID:656d10cb-1390-47e7-80d5-c3f473e194f3@656d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240304T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20240304T143000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:24c93f11-d016-4fc3-9a8a-17fc90e227fe@24c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240327T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240327T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:f149eb51-28b8-4078-a68c-40a5cbd663af@f149.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T210000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231218T190000Z
-SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
-UID:b2b340c6-7ea5-453d-8d90-4c323d551c8b@b2b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240131T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240131T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:8349d591-f9b3-4197-8e5e-740ce0af0f1f@8349.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231214T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:78fd9a62-ccfd-4372-9e9c-9e41bc505720@78fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T170000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231114T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:7d2ab207-8d8c-47a3-9457-15349c1a2ab9@7d2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240130T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240130T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:1c2fa64d-4c6f-485c-908a-c1073d2288ce@1c2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Sala Consiglio [Toppo Wassermann via Gemona]
-DTSTART:20231129T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:1560c56a-15e2-450a-a6fc-9c1611cba83a@1560.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240206T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20240206T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:44576a69-910a-4e70-92d5-e3b14d44acdf@4457.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240101T225900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20231231T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:7475b478-2c28-44de-9a85-6fac8dc5208f@7475.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240106T225900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20240105T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:5dc951e0-8729-4345-9e5e-60ad7a4f7997@5dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231129T170000Z
-SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
-UID:1f1eb800-f3e3-4318-9cca-6c2a46cd544c@1f1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240213T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240213T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:7af5558b-f672-4161-b8b0-c5bd188bbc32@7af5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231226T225900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20231225T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:ce425335-7e88-44fd-a065-43ce395e0d0b@ce42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20231213T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:db7dfd1b-8dd3-4ee2-9d68-900ff288e59a@db7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240207T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20240207T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:5bc7af5a-b582-4a7b-9f11-ac98013e470a@5bc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T210000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231106T190000Z
-SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
-UID:fcf362ce-bb51-4cfa-bc3d-26c17831db37@fcf3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20231121T170000Z
-SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
-UID:9535377b-0a86-4095-88b8-0cd29ef70a0b@9535.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231025T180000Z
-LAST-MODIFIED:20231214T002947Z
+LAST-MODIFIED:20231215T003029Z
 LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
 DTSTART:20231025T160000Z
 SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
-UID:22bbe870-41a8-4c41-a905-829f9542d587@22bb.org
+UID:6733b80b-5d69-4f18-822a-beb1a9e7665d@6733.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231115T170000Z
+SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
+UID:f6a80b21-461d-4dfd-8cfd-c530e9f7b8ba@f6a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T210000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231113T190000Z
+SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
+UID:e38adcbc-d00f-409d-b98a-67b39706454c@e38a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231108T190000Z
-LAST-MODIFIED:20231214T002947Z
+LAST-MODIFIED:20231215T003029Z
 LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
 DTSTART:20231108T170000Z
 SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
-UID:0d6aed1d-7d38-4d2c-9c6c-a19d562906dd@0d6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240501T215900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20240430T220000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:671f3e0e-473c-46c3-9c96-cb50ecd9ad1e@671f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T4 P. P. Pasolini [Toppo Wassermann via Gemona]
-DTSTART:20231116T160000Z
-SUMMARY:Conferenza<br>disciplinare
-UID:ccdfe014-9028-4fdf-bdc9-c4709d676613@ccdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240117T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240117T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:e9d7f6a9-f2ec-4be1-a23d-18d4240f64ad@e9d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240125T183000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240125T163000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:aaa8ba43-fa56-4e44-8b0c-1d0a98e111ce@aaa8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231116T170000Z
-SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
-UID:bcb7c7d1-b546-46ac-85fc-a18011ff22ab@bcb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T160000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula 3 - Tomadini
-DTSTART:20231116T140000Z
-SUMMARY:Conferenza<br>disciplinare
-UID:84b0286b-db66-43e4-bf23-266986c3c4c3@84b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231206T170000Z
-SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
-UID:5a288f8b-6e64-441b-bddd-185af2e3e487@5a28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240205T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240205T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:4e7e3ea9-3933-432f-a1f9-3eac2d14da06@4e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240301T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240301T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:102af4c9-714a-49f7-b0d1-7f3f32b03f99@102a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240410T163000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240410T153000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:770e2302-0a2d-4541-b047-7d832d9d12b8@770e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240418T173000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240418T153000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:5154e071-f217-4759-a2b7-ff974af03ee6@5154.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240502T173000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240502T153000Z
-SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
-UID:3ccd91ec-f75d-4d76-98da-58463ba07c94@3ccd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20231122T170000Z
-SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
-UID:5d8f1fb8-fb36-409a-8d85-e1c16b39e090@5d8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231225T225900Z
-LAST-MODIFIED:20231214T002947Z
-DTSTART:20231224T230000Z
-SUMMARY:HOLIDAY: lessons not scheduled
-UID:784095c3-4016-4583-aa72-8be1516b87d1@7840.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240207T120000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20240207T090000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:97dd4ec3-2fcd-472e-b80d-c8bd28f0cabd@97dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T190000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231102T170000Z
-SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
-UID:cfea44fb-6b77-4bde-989a-961b0a862fb6@cfea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240124T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T7 [Toppo Wassermann via Gemona]
-DTSTART:20240124T160000Z
-SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:3e1290e6-a6fa-493a-8714-c093323f2a2d@3e12.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T180000Z
-LAST-MODIFIED:20231214T002947Z
-LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
-DTSTART:20231128T160000Z
-SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
-UID:9b0c223d-2b0b-47bd-a713-ed97b3be5baf@9b0c.org
+UID:2c62c6a3-7ba0-412c-945c-593df35cec14@2c62.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20240116T180000Z
-LAST-MODIFIED:20231214T002947Z
+LAST-MODIFIED:20231215T003029Z
 LOCATION:Aula T7 [Toppo Wassermann via Gemona]
 DTSTART:20240116T160000Z
 SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
-UID:706ccbfd-4da3-44ab-9427-bc2e9fba148e@706c.org
+UID:7ad9d280-6e80-44cd-8cd1-b91475e777ba@7ad9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231206T170000Z
+SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
+UID:84dab594-d65d-4b83-b825-7975341884d9@84da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20231205T170000Z
+SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
+UID:2d3cb112-59f6-4fa7-9b49-2b905922452d@2d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240227T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240227T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:be5aa213-06a4-46e1-89e7-16691207504d@be5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20231213T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:23a48208-7dd3-4396-aa05-73b56d5db5ae@23a4.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231130T190000Z
-LAST-MODIFIED:20231214T002947Z
+LAST-MODIFIED:20231215T003029Z
 LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
 DTSTART:20231130T170000Z
 SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
-UID:aaa835fc-4575-4324-97a9-0b6846a5275c@aaa8.org
+UID:6ead3207-cb4a-4e72-81fd-ffeb654578bd@6ead.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240327T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240327T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:e5b0d7cf-6490-471f-aaa8-75ccca080187@e5b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240214T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240214T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:d9b2d3ea-e9ac-4b01-9882-4f4a89674005@d9b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231215T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:4c3c72fa-f334-4505-8057-c9878388c547@4c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231225T225900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20231224T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:39df38eb-fc39-4a8e-9cdf-f2b27f04c689@39df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240205T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240205T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:cf848947-9c35-4556-b098-fbc39d06a018@cf84.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T4 P. P. Pasolini [Toppo Wassermann via Gemona]
+DTSTART:20231116T160000Z
+SUMMARY:Conferenza<br>disciplinare
+UID:229eeaa3-dd54-46d4-a0c7-0c20a1aa0761@229e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T210000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231120T190000Z
+SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
+UID:ea0bb51f-e3de-4d4a-b538-eeee921cccaf@ea0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240131T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240131T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:3e0d5eb4-c9fb-401b-b701-222c48679e45@3e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240502T173000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240502T153000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:b148644e-add6-4d28-9179-ceb63751076e@b148.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231116T170000Z
+SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
+UID:cec06da0-4469-4239-a15b-63e4e20d1f88@cec0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240425T215900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20240424T220000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:87ee0bbb-259e-4e90-801a-427ec1da084b@87ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240307T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240307T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:f67ccbf1-4612-4577-b385-b51c7ce6c7a7@f67c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231128T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:78253be3-a2da-4036-bfac-de7d7bddcaef@7825.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T210000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231204T190000Z
+SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
+UID:b6ec4e18-cc32-46a2-bcd5-d9ab0ba1ccc2@b6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T170000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231114T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:2a73db05-2e7d-43b5-81bf-5081e1f8eefe@2a73.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231129T170000Z
+SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
+UID:857c0106-482c-4859-83bc-b95aa8316d3d@857c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240401T215900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20240331T220000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:2af1b9cc-fcc4-45fe-af3e-9a3febd400cd@2af1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T4 P. P. Pasolini [Toppo Wassermann via Gemona]
+DTSTART:20231123T170000Z
+SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
+UID:31687316-3640-457d-99f9-a4e3e829eee2@3168.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T225900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20231207T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:8611ba51-ac34-428b-9c90-133791845562@8611.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231102T170000Z
+SUMMARY:Conferenza<br>disciplinare
+UID:b164f825-0c40-46a4-896f-9f0f9355761c@b164.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T225900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20231225T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:ebe767f8-bddb-4729-8b77-d7d23ddebedd@ebe7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231102T170000Z
+SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
+UID:9eb796de-4aa9-478f-ab5d-9df54bd8ffe8@9eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T160000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula 3 - Tomadini
+DTSTART:20231116T140000Z
+SUMMARY:Conferenza<br>disciplinare
+UID:b88b028a-e3c5-4f9a-8010-9b7865793fcb@b88b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240508T173000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240508T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:51b282f6-c557-4e1b-a701-2512c85a0ecd@51b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240101T225900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20231231T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:c3768b4e-b6e9-4cf7-8a1e-47c6293b8e9f@c376.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240410T163000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240410T153000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:c4af1894-5038-4193-8b88-74a1310e5164@c4af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Sala Consiglio [Toppo Wassermann via Gemona]
+DTSTART:20231129T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:705982a8-4796-4b78-aa97-1fcc2d456555@7059.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240213T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240213T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:719110f2-06c5-44b8-998d-58fb3b39ef8c@7191.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240106T225900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20240105T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:9033e53f-5ce4-48cd-b915-9898c26c04b8@9033.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T210000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231211T190000Z
+SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
+UID:fc9723ee-6c47-4121-8d2f-b5af64f856e8@fc97.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T210000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231106T190000Z
+SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
+UID:ecff293f-21e1-4a22-8d4d-ac89798765ca@ecff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240304T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20240304T143000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:4aa6b9ce-3fd5-4a55-aa2e-e515425fca00@4aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T225900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20231031T230000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:c92e09f1-008b-4434-9770-ef2e9a9cf90a@c92e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240227T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20240227T143000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:011723f5-f856-4a2a-a384-ad50beb50faa@0117.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T210000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231127T190000Z
+SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
+UID:ca767e65-b93f-4f2a-90c2-8304c31dfe03@ca76.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240418T173000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240418T153000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:353e46cf-e6fc-42ab-b52b-ebeeb154d22a@353e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231114T170000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:e9250209-ac7e-4e7e-98d4-30b43e03cd5b@e925.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240125T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240125T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:4aee2443-19e5-4672-8613-30ea1808de0e@4aee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240206T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20240206T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:2de4449a-fdfc-453a-906d-a223655ed491@2de4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T210000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231218T190000Z
+SUMMARY:Forma e significato: quello che le neuroscienze possono dirci su percezione\, informazione e conoscenza a.a.2023/24<br>disciplinare
+UID:2a374eef-5c84-4104-93cb-ce2b55b9574a@2a37.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240208T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240208T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:c73dc881-c271-40dc-8f2a-ee411781a6d5@c73d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240207T120000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20240207T090000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:7eb73955-8488-4c16-858e-4a39c07a722e@7eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240501T215900Z
+LAST-MODIFIED:20231215T003029Z
+DTSTART:20240430T220000Z
+SUMMARY:HOLIDAY: lessons not scheduled
+UID:a636477a-d793-47ba-a104-1fe73a9bc299@a636.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240301T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240301T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:3726da50-dff9-44ef-bb62-5131c1578cae@3726.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231121T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:c5779206-e2e2-4b1e-be93-2b50193d152a@c577.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T5 [Toppo Wassermann via Gemona]
+DTSTART:20231128T170000Z
+SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
+UID:5afdd8cb-9dad-47db-b938-8c7adb8ba21f@5afd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T3 [Toppo Wassermann via Gemona]
+DTSTART:20231206T170000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:0e3e805a-87bc-4d15-878c-94701ea2511d@0e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20231121T170000Z
+SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
+UID:2dd174b0-3920-4add-8a47-6be35b4bad72@2dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231214T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:3843252b-00c9-4785-a34b-f11d011fc350@3843.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20231213T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:ecca52fc-f11a-4a83-86b3-7f07957bd679@ecca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240207T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T6 L. Ferigutti [Toppo Wassermann via Gemona]
+DTSTART:20240207T160000Z
+SUMMARY:Lingue e linguaggi: le lingue romanze a.a. 2023/24<br>disciplinare
+UID:e3698072-223c-41ad-a347-58bf908de0a2@e369.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231216T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T4 P. P. Pasolini\, Aula T3\, Aula T9 [Toppo Wassermann via Gemona]
+DTSTART:20231216T070000Z
+SUMMARY:Conferenza<br>disciplinare
+UID:3ee360c9-01d6-4df5-9a53-3d06b97d0eee@3ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20231212T170000Z
+SUMMARY:Il cadavere carbonizzato:  dallo studio dei resti all'attività di ricerca in medicina legale a.a.2023/24<br>disciplinare
+UID:9cec6a1a-03ba-48d5-a529-7bd8e6f1fd0e@9cec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240403T173000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240403T153000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:2b1f20a4-a610-4ac2-8bc0-2e2b8a204416@2b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240130T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240130T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:2338551b-0cb5-47ad-abf8-363e72254db6@2338.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T190000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20231122T170000Z
+SUMMARY:Ordine e disordine internazionale a.a. 2023/24<br>disciplinare
+UID:6c780cdc-1641-4472-81f8-c9970a78018d@6c78.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240124T180000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240124T160000Z
+SUMMARY:(Dis)Ordini letterari: la psicologia nella letteratura tra Ottocento e Novecento a.a. 2023/24<br>disciplinare
+UID:b430937d-ffde-4108-ad0d-dbd820dd76bc@b430.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240320T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240320T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:52c3fba5-b41e-422e-8df1-3171bce0b7b9@52c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240117T183000Z
+LAST-MODIFIED:20231215T003029Z
+LOCATION:Aula T7 [Toppo Wassermann via Gemona]
+DTSTART:20240117T163000Z
+SUMMARY:Dell'uno e del molteplice. La filologia testuale tra entropia e ordine a.a. 2023/24<br>disciplinare
+UID:40491523-5482-42d4-8d82-a8b48d4948e0@4049.org
 END:VEVENT
 END:VCALENDAR
