@@ -624,10 +624,6 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - Curriculum Interculturale e interlinguistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29/Laurea%20Magistrale/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29%20-%20ANNO%201%20-%20Curriculum%20Interculturale%20e%20interlinguistico.ics)
   - [1 - Curriculum Storico Filologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29/Laurea%20Magistrale/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29%20-%20ANNO%201%20-%20Curriculum%20Storico%20Filologico.ics)
   
-  #### ANNO 2
-  - [2 - Curriculum Digitale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29/Laurea%20Magistrale/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29%20-%20ANNO%202%20-%20Curriculum%20Digitale.ics)
-  - [2 - Curriculum Storico Filologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29/Laurea%20Magistrale/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29%20-%20ANNO%202%20-%20Curriculum%20Storico%20Filologico.ics)
-  
 </details>
 <details>
   <summary>Interateneo in Studi storici. Dall'antico al contemporaneo</summary>
