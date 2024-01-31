@@ -1,6 +1,7 @@
-from datetime import datetime
 import json
+from datetime import datetime
 from typing import Dict, List, Tuple, TypedDict
+
 import requests
 
 from models import Closure, Lesson
@@ -49,7 +50,7 @@ def get_year_courses(year: int):
 
 
 def get_course_lessons(
-    courseId: int, year: int, courseYearCode: str
+    courseId: str, year: int, courseYearCode: str
 ) -> Tuple[List[Lesson], List[Closure]]:
     data = s.post(
         "https://planner.uniud.it/PortaleStudenti/grid_call.php",
@@ -65,8 +66,8 @@ def get_course_lessons(
         },
     ).json()
 
-    lessons = []
-    closures = []
+    lessons: List[Lesson] = []
+    closures: List[Closure] = []
     for cella in data["celle"]:
         tipo = cella["tipo"]
         if tipo == "Lezione":

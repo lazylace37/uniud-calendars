@@ -1,4 +1,5 @@
 import asyncio
+import concurrent.futures
 import json
 import urllib.parse
 from collections import defaultdict
@@ -15,14 +16,6 @@ def nesteddefaultdict():
     return defaultdict(nesteddefaultdict)
 
 
-def background(f):
-    def wrapped(*args, **kwargs):
-        return asyncio.get_event_loop().run_in_executor(None, f, *args, **kwargs)
-
-    return wrapped
-
-
-@background
 def get_course_timetables(course: Course, latest_year: int, now: datetime):
     course_dict: defaultdict = nesteddefaultdict()
     for anno in course["elenco_anni"]:
@@ -36,21 +29,24 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         c = Calendar()
         for lesson in lessons:
             e = Event(
-                name=lesson.nome_insegnamento,
+                summary=lesson.nome_insegnamento,
                 begin=lesson.start_date,
                 end=lesson.end_date,
                 last_modified=now,
                 location=lesson.room,
             )
-            c.events.add(e)
+            c.events.append(e)
         for closure in closures:
             e = Event(
-                name="HOLIDAY: lessons not scheduled",
+                summary="HOLIDAY: lessons not scheduled",
                 begin=closure.start_date,
                 end=closure.end_date,
                 last_modified=now,
             )
-            c.events.add(e)
+            c.events.append(e)
+
+        # Sort events
+        c.events = sorted(c.events)
 
         ical_file_name = (
             f'{course["label"]} - ANNO {anno["label"]}.ics'
@@ -63,11 +59,12 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         ical_file_path = Path(ical_file_path_name)
         ical_file_path.parent.mkdir(exist_ok=True, parents=True)
         with open(str(ical_file_path), "w") as my_file:
-            my_file.writelines(c.serialize_iter())
+            my_file.write(c.serialize())
         # endregion
 
         link = f"https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/{urllib.parse.quote(ical_file_path_name)}"
         course_dict[anno_di_insegnamento][anno["label"]] = link
+    print(f"Done {course['label']} - {course['tipo']}")
     return course["label"], course["tipo"], course_dict
 
 
@@ -85,12 +82,15 @@ def main():
 
     now = datetime.now()
     loop = asyncio.get_event_loop()
-    future = asyncio.gather(
-        *[
-            get_course_timetables(course, latest_year, now)
-            for course in lastest_year_courses
-        ]
-    )
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        future = asyncio.gather(
+            *[
+                loop.run_in_executor(
+                    executor, get_course_timetables, course, latest_year, now
+                )
+                for course in lastest_year_courses
+            ]
+        )
     results = loop.run_until_complete(future)
     print(f"Download courses timetables took {(datetime.now()-now).total_seconds()}s")
 
