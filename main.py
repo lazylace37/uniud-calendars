@@ -1,14 +1,14 @@
 import asyncio
+import json
+import urllib.parse
 from collections import defaultdict
 from datetime import datetime
-import json
 from pathlib import Path
-import time
-from uniud import Course, get_course_lessons, get_year_courses, get_years
+
 from ics import Calendar, Event
-import urllib.parse
 from jinja2 import Environment, FileSystemLoader
-import shutil
+
+from uniud import Course, get_course_lessons, get_year_courses, get_years
 
 
 def nesteddefaultdict():
