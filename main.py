@@ -30,6 +30,7 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         for lesson in lessons:
             e = Event(
                 summary=lesson.nome_insegnamento,
+                uid=f"{(int)(lesson.start_date.timestamp())}",
                 begin=lesson.start_date,
                 end=lesson.end_date,
                 last_modified=now,
@@ -39,6 +40,7 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         for closure in closures:
             e = Event(
                 summary="HOLIDAY: lessons not scheduled",
+                uid=f"{(int)(closure.start_date.timestamp())}",
                 begin=closure.start_date,
                 end=closure.end_date,
                 last_modified=now,
