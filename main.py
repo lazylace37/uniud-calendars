@@ -82,7 +82,7 @@ def main():
 
     now = datetime.now()
     loop = asyncio.get_event_loop()
-    with concurrent.futures.ThreadPoolExecutor() as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         future = asyncio.gather(
             *[
                 loop.run_in_executor(
