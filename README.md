@@ -53,6 +53,15 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>ARTIFICIAL INTELLIGENCE and CYBERSECURITY</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>BANCA E FINANZA</summary>
 
   ### Laurea Magistrale
@@ -98,6 +107,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>BIOTECNOLOGIE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/BIOTECNOLOGIE%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/BIOTECNOLOGIE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/BIOTECNOLOGIE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
   <summary>BIOTECNOLOGIE MOLECOLARI</summary>
 
   ### Laurea Magistrale
@@ -131,6 +155,22 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 2
   - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20ANNO%202%20-%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>COMUNICAZIONE MULTIMEDIALE E TECNOLOGIE DELL'INFORMAZIONE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%201%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS.ics)
+  - [1 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%201%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE.ics)
+  - [1 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%201%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN.ics)
+  
+  #### ANNO 2
+  - [2 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS.ics)
+  - [2 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE.ics)
+  - [2 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN.ics)
   
 </details>
 <details>
@@ -248,6 +288,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>EDUCAZIONE PROFESSIONALE (ABILITANTE ALLA PROFESSIONE SANITARIA DI EDUCATORE PROFESSIONALE)</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
   <summary>Filosofia e trasformazione digitale</summary>
 
   ### Laurea triennale (DM 270)
@@ -260,6 +315,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 3
   - [3 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Filosofia%20e%20trasformazione%20digitale/Laurea%20triennale%20%28DM%20270%29/Filosofia%20e%20trasformazione%20digitale%20-%20ANNO%203%20-%20Unico.ics)
+  
+</details>
+<details>
+  <summary>FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA)</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -311,6 +381,40 @@ Search for your course and copy the link of the desired calendar; for example:
   #### ANNO 2
   - [2 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
   - [2 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
+  
+</details>
+<details>
+  <summary>INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) UDINE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>INFORMATICA</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/INFORMATICA%20-%20ANNO%201%20-%20CORSO%20GENERICO.ics)
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%201%20-%20CORSO%20GENERICO.ics)
+  
+  #### ANNO 2
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%203%20-%20CORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -547,6 +651,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>INTERNET OF THINGS, BIG DATA, MACHINE LEARNING</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>Lettere (classe L-10)</summary>
 
   ### Laurea triennale (DM 270)
@@ -571,6 +690,61 @@ Search for your course and copy the link of the desired calendar; for example:
   - [3 - Curriculum: italianistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Curriculum%3A%20italianistico.ics)
   - [3 - Curriculum: letterature e civilta' del mondo antico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Curriculum%3A%20letterature%20e%20civilta%27%20del%20mondo%20antico.ics)
   - [3 - Curriculum: storico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Curriculum%3A%20storico.ics)
+  
+</details>
+<details>
+  <summary>MATEMATICA</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>MEDICINA E CHIRURGIA</summary>
+
+  ### Laurea Magistrale Ciclo Unico 6 anni
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 4
+  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%204%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 5
+  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%205%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 6
+  - [6 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%206%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O)</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -761,6 +935,24 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>SCIENZE E TECNOLOGIE MULTIMEDIALI</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%201%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE.ics)
+  - [1 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%201%20-%20MUSICA%20DIGITALE.ics)
+  
+  #### ANNO 2
+  - [2 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%202%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE.ics)
+  - [2 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%202%20-%20MUSICA%20DIGITALE.ics)
+  
+  #### ANNO 3
+  - [3 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%203%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE.ics)
+  - [3 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%203%20-%20MUSICA%20DIGITALE.ics)
+  
+</details>
+<details>
   <summary>SCIENZE E TECNOLOGIE SOSTENIBILI PER L'AMBIENTE</summary>
 
   ### Laurea Magistrale
@@ -772,6 +964,15 @@ Search for your course and copy the link of the desired calendar; for example:
   #### ANNO 2
   - [2 - RECUPERO AMBIENTALE E TUTELA DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%202%20-%20RECUPERO%20AMBIENTALE%20E%20TUTELA%20DELLA%20BIODIVERSITA%27.ics)
   - [2 - TECNOLOGIE SOSTENIBILI E AMBIENTI ANTROPIZZATI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%202%20-%20TECNOLOGIE%20SOSTENIBILI%20E%20AMBIENTI%20ANTROPIZZATI.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE INFERMIERISTICHE E OSTETRICHE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -832,6 +1033,24 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 3
   - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO)</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20LABORATORIO%20BIOMEDICO%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20LABORATORIO%20BIOMEDICO%29/Laurea/TECNICHE%20DI%20LABORATORIO%20BIOMEDICO%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20LABORATORIO%20BIOMEDICO%29%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA)</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29/Laurea/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
