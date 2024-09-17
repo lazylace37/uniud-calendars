@@ -19,6 +19,7 @@ def nesteddefaultdict():
 def get_course_timetables(course: Course, latest_year: int, now: datetime):
     course_dict: defaultdict = nesteddefaultdict()
     for anno in course["elenco_anni"]:
+        lessons_map = defaultdict(list)
         anno_di_insegnamento: str = str(anno["valore"].split("|")[1])
 
         lessons, closures = get_course_lessons(
@@ -36,6 +37,7 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
                 last_modified=now,
                 location=lesson.room,
             )
+            lessons_map[e.summary].append(e)
             c.events.append(e)
         for closure in closures:
             e = Event(
@@ -62,6 +64,18 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         ical_file_path.parent.mkdir(exist_ok=True, parents=True)
         with open(str(ical_file_path), "w") as my_file:
             my_file.write(c.serialize())
+        # endregion
+
+        # region Create and save .ical file for each lesson
+        for lesson_name, events in lessons_map.items():
+            c = Calendar()
+            c.events = events
+            ical_file_name = f"{lesson_name}.ics"
+            ical_file_path_name = f'ical/{course["label"]}/{course["tipo"]}/{anno["label"]}/{ical_file_name}'
+            ical_file_path = Path(ical_file_path_name)
+            ical_file_path.parent.mkdir(exist_ok=True, parents=True)
+            with open(str(ical_file_path), "w") as my_file:
+                my_file.write(c.serialize())
         # endregion
 
         link = f"https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/{urllib.parse.quote(ical_file_path_name)}"
