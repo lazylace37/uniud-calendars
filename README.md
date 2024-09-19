@@ -717,7 +717,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale Ciclo Unico 6 anni
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/1%20-%20PERCORSO%20COMUNE/PROPEDEUTICA%20BIOCHIMICA.ics)
   
   #### ANNO 2
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/2%20-%20PERCORSO%20COMUNE/ISTOLOGIA.ics)
@@ -864,7 +864,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [4 - SCIENZE DELLA FORMAZIONE PRIMARIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/4%20-%20SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Tirocinio%203.ics)
   
   #### ANNO 5
-  - [5 - PERCORSO PER L'INSEGNAMENTO IN LINGUA E CULTURA FRIULANA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20PER%20L%27INSEGNAMENTO%20IN%20LINGUA%20E%20CULTURA%20FRIULANA/Tirocinio%204.ics)
+  - [5 - PERCORSO PER L'INSEGNAMENTO IN LINGUA E CULTURA FRIULANA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20PER%20L%27INSEGNAMENTO%20IN%20LINGUA%20E%20CULTURA%20FRIULANA/LABORATORIO%20DI%20SCRITTURA%20E%20DI%20SVILUPPO%20DELLA%20LETTO-SCRITTURA%20IN%20AMBIENTI%20PLURILINGUI.ics)
   - [5 - PERCORSO PER LE SCUOLE CON LINGUA DI INSEGNAMENTO SLOVENA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20PER%20LE%20SCUOLE%20CON%20LINGUA%20DI%20INSEGNAMENTO%20SLOVENA/Tirocinio%204.ics)
   - [5 - SCIENZE DELLA FORMAZIONE PRIMARIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Tirocinio%204.ics)
   
