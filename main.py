@@ -35,7 +35,7 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
                 begin=lesson.start_date,
                 end=lesson.end_date,
                 last_modified=now,
-                location=lesson.room,
+                location=f"{lesson.docente} - {lesson.room}",
             )
             lessons_map[e.summary].append(e)
             c.events.append(e)
