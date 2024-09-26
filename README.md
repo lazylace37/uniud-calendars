@@ -989,7 +989,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/1%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE/SOCIOLOGIA%20DELLA%20COMUNICAZIONE.ics)
+  - [1 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/1%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE/WD%20STM%20_%20Riscoprire%20la%20nostra%20umanit%C3%A0%3A%20Per%20un%20uso%20sapiente%20delle%20intelligenze%20artificiali.ics)
   - [1 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/1%20-%20MUSICA%20DIGITALE/MUSICA%20NEGLI%20AUDIOVISIVI.ics)
   
   #### ANNO 2
