@@ -1108,7 +1108,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE/Laurea%20Magistrale/1%20-%20COMUNE/TRADUZIONE%20-%20LINGUA%20SLOVENA%20I%20LM.ics)
+  - [1 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE/Laurea%20Magistrale/1%20-%20COMUNE/TRADUZIONE-LINGUA%20POLACCA%20I%20LM.ics)
   
   #### ANNO 2
   - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE/Laurea%20Magistrale/2%20-%20COMUNE/TRADUZIONE-LINGUA%20TEDESCA%20II%20LM.ics)
