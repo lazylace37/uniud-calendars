@@ -299,7 +299,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/2%20-%20PERCORSO%20GENERICO/TIROCINIO%20II.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/3%20-%20PERCORSO%20GENERICO/TEORIE%20DELLA%20PERSONALITA%27.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/3%20-%20PERCORSO%20GENERICO/TIROCINIO%20III.ics)
   
 </details>
 <details>
@@ -381,6 +381,21 @@ Search for your course and copy the link of the desired calendar; for example:
   #### ANNO 2
   - [2 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials/GREEN%20MACHINE%20DESIGN.ics)
   - [2 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy/SUSTAINABLE%20ENERGY%20CONVERSION%20SYSTEMS.ics)
+  
+</details>
+<details>
+  <summary>INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) PORDENONE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/1%20-%20PERCORSO%20GENERICO/SICUREZZA%20NELL%27ASSISTENZA.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/2%20-%20PERCORSO%20GENERICO/SCIENZE%20DIETETICHE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/3%20-%20PERCORSO%20GENERICO/STATISTICA%20MEDICA.ics)
   
 </details>
 <details>
@@ -793,7 +808,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/3%20-%20PERCORSO%20GENERICO/SCIENZE%20ASSISTENZIALI%20OSTETRICO%20GINECOLOGICHE.ics)
   
 </details>
 <details>
