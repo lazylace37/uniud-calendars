@@ -353,7 +353,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/1%20-%20PERCORSO%20COMUNE/STORIA%20DEL%20DIRITTO%20ITALIANO%20I.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/2%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20LINGUA%202%20%28Nessun%20periodo%20assegnato%29.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/2%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20LINGUA%202.ics)
   
   #### ANNO 3
   - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/3%20-%20PERCORSO%20COMUNE/DIRITTO%20PUBBLICO%20COMPARATO.ics)
