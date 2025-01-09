@@ -293,10 +293,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/1%20-%20PERCORSO%20GENERICO/PSICOLOGIA%20GENERALE.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/1%20-%20PERCORSO%20GENERICO/PATOLOGIE%20DEMENTIGENE%20DELL%27ANZIANO.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/2%20-%20PERCORSO%20GENERICO/TIROCINIO%20II.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/2%20-%20PERCORSO%20GENERICO/FARMACOLOGIA%20SPECIALE%20E%20TOSSICOLOGIA.ics)
   
   #### ANNO 3
   - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/EDUCAZIONE%20PROFESSIONALE%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20EDUCATORE%20PROFESSIONALE%29/Laurea/3%20-%20PERCORSO%20GENERICO/TIROCINIO%20III.ics)
@@ -404,7 +404,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/1%20-%20PERCORSO%20GENERICO/SICUREZZA%20NELL%27ASSISTENZA.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/1%20-%20PERCORSO%20GENERICO/SEMEIOTICA.ics)
   
   #### ANNO 2
   - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/2%20-%20PERCORSO%20GENERICO/UROLOGIA.ics)
@@ -781,16 +781,16 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale Ciclo Unico 6 anni
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/1%20-%20PERCORSO%20COMUNE/PROPEDEUTICA%20BIOCHIMICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/1%20-%20PERCORSO%20COMUNE/STORIA%20DELLA%20MEDICINA.ics)
   
   #### ANNO 2
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/2%20-%20PERCORSO%20COMUNE/ISTOLOGIA.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/3%20-%20PERCORSO%20COMUNE/SEMEIOTICA%20MEDICA.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/3%20-%20PERCORSO%20COMUNE/TECNICHE%20RADIOLOGICHE.ics)
   
   #### ANNO 4
-  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/4%20-%20PERCORSO%20COMUNE/NEFROLOGIA.ics)
+  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/4%20-%20PERCORSO%20COMUNE/UROLOGIA.ics)
   
   #### ANNO 5
   - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/5%20-%20PERCORSO%20COMUNE/PATOLOGIA%20CLINICA.ics)
@@ -1114,7 +1114,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29/Laurea/2%20-%20PERCORSO%20GENERICO/SISTEMI%20ELETTRONICI%20E%20INFORMATICI%20IN%20AMBITO%20RADIOLOGICO%20II.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29/Laurea/2%20-%20PERCORSO%20GENERICO/RADIOFARMACI%20IN%20MEDICINA%20NUCLEARE.ics)
   
 </details>
 <details>
