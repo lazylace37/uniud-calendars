@@ -139,10 +139,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE/Laurea%20Magistrale/1%20-%20COMUNE/METODI%20EMPIRICI%20NELLE%20SCIENZE%20POLITICHE%20E%20SOCIALI.ics)
+  - [1 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE/Laurea%20Magistrale/1%20-%20COMUNE/POLITICAL%20IDENTITY%20AND%20EUROPEAN%20CITIZENSHIP.ics)
   
   #### ANNO 2
-  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE/Laurea%20Magistrale/2%20-%20COMUNE/HISTORY%20OF%20EUROPEAN%20IDEAS%20AND%20CULTURES.ics)
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE/Laurea%20Magistrale/2%20-%20COMUNE/LOGISTICS%2C%20TRANSPORT%20AND%20INTERNATIONAL%20TRADE%20LAW.ics)
   
 </details>
 <details>
@@ -194,12 +194,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/1%20-%20IMPRESE/SAFETY%20MANAGEMENT%20E%20RESILIENZA.ics)
-  - [1 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/1%20-%20PUBBLICHE%20AMMINISTRAZIONI/SAFETY%20MANAGEMENT%20E%20RESILIENZA.ics)
+  - [1 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/1%20-%20IMPRESE/IMPRESA%20GLOBALE%3A%20PROPRIETA%27%20INDUSTRIALE%20E%20CONTRATTI%20INTERNAZIONALI.ics)
+  - [1 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/1%20-%20PUBBLICHE%20AMMINISTRAZIONI/FORME%20DELL%27INNOVAZIONE%20POLITICA%20E%20ISTITUZIONALE.ics)
   
   #### ANNO 2
-  - [2 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/2%20-%20IMPRESE/KNOWLEDGE%20MANAGEMENT%20E%20CAPITALE%20INTELLETTUALE.ics)
-  - [2 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/2%20-%20PUBBLICHE%20AMMINISTRAZIONI/KNOWLEDGE%20MANAGEMENT%20E%20CAPITALE%20INTELLETTUALE.ics)
+  - [2 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/2%20-%20IMPRESE/MODI%20DI%20RISOLUZIONE%20STRAGIUDIZIALE%20DELLA%20LITE%20%28ADR%29.ics)
+  - [2 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI/Laurea%20Magistrale/2%20-%20PUBBLICHE%20AMMINISTRAZIONI/PROGRAMMAZIONE%20E%20CONTROLLO%20NELLE%20PP.AA..ics)
   
 </details>
 <details>
@@ -208,16 +208,16 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/1%20-%20IMPRESA/TEORIA%20DELLA%20GIUSTIZIA%20E%20DEI%20DIRITTI.ics)
-  - [1 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/1%20-%20ISTITUZIONI/TEORIA%20DELLA%20GIUSTIZIA%20E%20DEI%20DIRITTI.ics)
+  - [1 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/1%20-%20IMPRESA/ISTITUZIONI%20DI%20DIRITTO%20PRIVATO.ics)
+  - [1 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/1%20-%20ISTITUZIONI/ISTITUZIONI%20DI%20DIRITTO%20PRIVATO.ics)
   
   #### ANNO 2
-  - [2 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/2%20-%20IMPRESA/RAGIONERIA.ics)
-  - [2 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/2%20-%20ISTITUZIONI/DIRITTO%20DEI%20BENI%20CULTURALI.ics)
+  - [2 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/2%20-%20IMPRESA/LAVORO%20E%20COOPERAZIONE.ics)
+  - [2 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/2%20-%20ISTITUZIONI/DIRITTO%20DEI%20PAESI%20DELL%27%20EST%20EUROPEO.ics)
   
   #### ANNO 3
-  - [3 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/3%20-%20IMPRESA/DIRITTO%20DELLA%20NAVIGAZIONE.ics)
-  - [3 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/3%20-%20ISTITUZIONI/DIRITTO%20AMMINISTRATIVO.ics)
+  - [3 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/3%20-%20IMPRESA/TECNICA%20BANCARIA.ics)
+  - [3 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI/Laurea/3%20-%20ISTITUZIONI/LAVORO%20E%20COOPERAZIONE.ics)
   
 </details>
 <details>
@@ -226,14 +226,14 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/1%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE/STRATEGIA%20E%20BUSINESS%20MODEL.ics)
-  - [1 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/1%20-%20CONSULENZA%20AZIENDALE/MISURAZIONI%20QUANTITATIVE%20PER%20L%27IMPRESA.ics)
-  - [1 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/1%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE/LABORATORIO%20DI%20CAPITALE%20INTELLETTUALE%20NELLE%20AZIENDE%20PUBBLICHE%20E%20DEI%20SERVIZI%20PUBBLICI.ics)
+  - [1 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/1%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE/VALUTAZIONE%20DELLE%20AZIENDE%20E%20DEGLI%20ASSET.ics)
+  - [1 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/1%20-%20CONSULENZA%20AZIENDALE/VALUTAZIONE%20DELLE%20AZIENDE%20E%20DEGLI%20ASSET.ics)
+  - [1 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/1%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE/VALUTAZIONE%20DELLE%20AZIENDE%20E%20DEGLI%20ASSET.ics)
   
   #### ANNO 2
-  - [2 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE/LABORATORIO%20DI%20STRATEGIE%20E%20POLITICHE%20PER%20L%27AZIENDA.ics)
-  - [2 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20CONSULENZA%20AZIENDALE/FISCALITA%27%20DELL%27INNOVAZIONE.ics)
-  - [2 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE/MARKETING%20DEI%20SERVIZI%20PUBBLICI.ics)
+  - [2 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE/LABORATORIO%20DI%20CONTROLLO%20DELLA%20LIQUIDITA%27%2C%20DEI%20CREDITI%20E%20DELLE%20SCORTE.ics)
+  - [2 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20CONSULENZA%20AZIENDALE/PROGRAMMAZIONE%20E%20CONTROLLO%20DELLE%20AZIENDE%20PUBBLICHE%20E%20DEI%20SERVIZI%20PUBBLICI.ics)
+  - [2 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE/PROGRAMMAZIONE%20E%20CONTROLLO%20DELLE%20AZIENDE%20PUBBLICHE%20E%20DEI%20SERVIZI%20PUBBLICI.ics)
   
 </details>
 <details>
@@ -242,17 +242,17 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/1%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/STORIA%20ECONOMICA.ics)
-  - [1 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/1%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/STORIA%20ECONOMICA.ics)
+  - [1 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/1%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/STATISTICA%20%28Cognomi%20M-Z%29.ics)
+  - [1 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/1%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/STATISTICA%20%28Cognomi%20M-Z%29.ics)
   
   #### ANNO 2
-  - [2 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/2%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
-  - [2 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/2%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
+  - [2 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/2%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/MACROECONOMIA%20%28Cognomi%20M-Z%29.ics)
+  - [2 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/2%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/MACROECONOMIA%20%28Cognomi%20M-Z%29.ics)
   
   #### ANNO 3
-  - [3 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/ORGANIZZAZIONE%20AZIENDALE.ics)
-  - [3 - AMMINISTRAZIONE E GESTIONE DELLE AZIENDE SPORTIVE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20AMMINISTRAZIONE%20E%20GESTIONE%20DELLE%20AZIENDE%20SPORTIVE/ORGANIZZAZIONE%20AZIENDALE.ics)
-  - [3 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/ORGANIZZAZIONE%20AZIENDALE.ics)
+  - [3 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/PROGRAMMAZIONE%20E%20CONTROLLO.ics)
+  - [3 - AMMINISTRAZIONE E GESTIONE DELLE AZIENDE SPORTIVE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20AMMINISTRAZIONE%20E%20GESTIONE%20DELLE%20AZIENDE%20SPORTIVE/MARKETING%20DELLO%20SPORT.ics)
+  - [3 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/ORGANIZZAZIONE%20DELLE%20RISORSE%20UMANE.ics)
   
 </details>
 <details>
@@ -261,16 +261,16 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/1%20-%20SCIENZE%20ECONOMICHE/STORIA%20ECONOMICA.ics)
-  - [1 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/1%20-%20SVILUPPO%20SOSTENIBILE/STORIA%20ECONOMICA.ics)
+  - [1 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/1%20-%20SCIENZE%20ECONOMICHE/STATISTICA%20%28Cognomi%20M-Z%29.ics)
+  - [1 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/1%20-%20SVILUPPO%20SOSTENIBILE/STATISTICA%20%28Cognomi%20M-Z%29.ics)
   
   #### ANNO 2
-  - [2 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/2%20-%20SCIENZE%20ECONOMICHE/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
-  - [2 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/2%20-%20SVILUPPO%20SOSTENIBILE/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
+  - [2 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/2%20-%20SCIENZE%20ECONOMICHE/STRUMENTI%20STATISTICI%20PER%20L%27ANALISI%20ECONOMICA.ics)
+  - [2 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/2%20-%20SVILUPPO%20SOSTENIBILE/STRUMENTI%20STATISTICI%20PER%20L%27ANALISI%20ECONOMICA.ics)
   
   #### ANNO 3
-  - [3 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/3%20-%20SCIENZE%20ECONOMICHE/SOCIOLOGIA.ics)
-  - [3 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/3%20-%20SVILUPPO%20SOSTENIBILE/POLITICA%20ECONOMICA%20E%20MONETARIA.ics)
+  - [3 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/3%20-%20SCIENZE%20ECONOMICHE/TEORIA%20DEI%20GIOCHI%20E%20APPLICAZIONI.ics)
+  - [3 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/3%20-%20SVILUPPO%20SOSTENIBILE/INTERMEDIAZIONE%20FINANZIARIA%20SOSTENIBILE.ics)
   
 </details>
 <details>
@@ -279,12 +279,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/1%20-%20ECONOMICS/TIME%20SERIES%20ANALYSIS.ics)
-  - [1 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/1%20-%20SUSTAINABLE%20DEVELOPMENT/TIME%20SERIES%20ANALYSIS.ics)
+  - [1 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/1%20-%20ECONOMICS/FINANCIAL%20INTERMEDIARIES%20AND%20FINANCIAL%20MARKETS%20%28SECOND%20MODULE%29.ics)
+  - [1 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/1%20-%20SUSTAINABLE%20DEVELOPMENT/ENVIRONMENTAL%20AND%20RESOURCE%20ECONOMICS.ics)
   
   #### ANNO 2
-  - [2 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/2%20-%20ECONOMICS/POLITICAL%20ECONOMY.ics)
-  - [2 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/2%20-%20SUSTAINABLE%20DEVELOPMENT/POLITICAL%20ECONOMY.ics)
+  - [2 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/2%20-%20ECONOMICS/LABOUR%20MARKET%20LAW.ics)
+  - [2 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/2%20-%20SUSTAINABLE%20DEVELOPMENT/SUSTAINABLE%20DEVELOPMENT%20LAW.ics)
   
 </details>
 <details>
@@ -350,23 +350,23 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale Ciclo Unico 5 anni
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/1%20-%20PERCORSO%20COMUNE/STORIA%20DEL%20DIRITTO%20ITALIANO%20I.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/1%20-%20PERCORSO%20COMUNE/STORIA%20DEL%20DIRITTO%20ITALIANO%20II.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/2%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20LINGUA%202.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/2%20-%20PERCORSO%20COMUNE/DIRITTO%20PENALE%201.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/3%20-%20PERCORSO%20COMUNE/DIRITTO%20PUBBLICO%20COMPARATO.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/3%20-%20PERCORSO%20COMUNE/DIRITTO%20PROCESSUALE%20CIVILE%201.ics)
   
   #### ANNO 4
-  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/4%20-%20PERCORSO%20COMUNE/DIRITTO%20PROCESSUALE%20PENALE%201.ics)
+  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/4%20-%20PERCORSO%20COMUNE/TEORIA%20GENERALE%20E%20METODOLOGIA%20DELLA%20SCIENZA%20GIURIDICA.ics)
   
   #### ANNO 5
-  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20COMUNE/DIRITTO%20PROCESSUALE%20CIVILE%202.ics)
+  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20COMUNE/DIRITTO%20PROCESSUALE%20PENALE%202.ics)
   
   #### insegnamentiascelta
   - [CLINICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/CLINICHE/CLINICA%20SUI%20DIRITTI%20FONDAMENTALI%20NELLO%20SPAZIO%20PUBBLICO%20INTERNO%20ED%20EUROPEO.ics)
-  - [OPZIONALI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/OPZIONALI/STORIA%20DEL%20DIRITTO%20ROMANO.ics)
+  - [OPZIONALI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/OPZIONALI/RAGIONERIA%20PUBBLICA.ics)
   
 </details>
 <details>
@@ -642,10 +642,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/STRATEGY%20and%20BUSINESS%20MODELS.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/MANAGING%20TEAMS%20FOR%20INNOVATION.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/INTERNATIONAL%20SALES%20and%20LOGISTICS.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/MANAGEMENT%20FOR%20SUSTAINABLE%20BUSINESSES.ics)
   
 </details>
 <details>
