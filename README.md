@@ -151,10 +151,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/1%20-%20COMUNE/SOSTENIBILITA%27%20E%20COMUNICAZIONE%20STRATEGICA.ics)
+  - [1 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/1%20-%20COMUNE/SOCIOLOGIA%20DEI%20FENOMENI%20POLITICI.ics)
   
   #### ANNO 2
-  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/2%20-%20COMUNE/ORGANIZZAZIONE%20E%20DINAMICHE%20DEI%20MASS%20MEDIA.ics)
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/2%20-%20COMUNE/LABORATORIO%20DI%20PROGETTAZIONE%20DELLA%20COMUNICAZIONE%20INTEGRATA.ics)
   
 </details>
 <details>
@@ -179,13 +179,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/1%20-%20PERCORSO%20COMUNE/STORIA%20MODERNA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/1%20-%20PERCORSO%20COMUNE/STORIA%20D%27EUROPA%20DEL%20NOVECENTO.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/2%20-%20PERCORSO%20COMUNE/STORIA%20E%20TECNICA%20DELLA%20FOTOGRAFIA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/2%20-%20PERCORSO%20COMUNE/TEORIA%20E%20CRITICA%20DEI%20MEDIA%20E%20DEI%20NUOVI%20MEDIA.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/3%20-%20PERCORSO%20COMUNE/TEORIE%20E%20PRATICHE%20DEL%20VIDEOGAME.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/3%20-%20PERCORSO%20COMUNE/POSTPRODUZIONE%20E%20DISTRIBUZIONE%20AUDIOVISIVA%20E%20MULTIMEDIALE.ics)
   
 </details>
 <details>
@@ -793,7 +793,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/4%20-%20PERCORSO%20COMUNE/UROLOGIA.ics)
   
   #### ANNO 5
-  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/5%20-%20PERCORSO%20COMUNE/PATOLOGIA%20CLINICA.ics)
+  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/5%20-%20PERCORSO%20COMUNE/STATISTICA%20MEDICA.ics)
   
   #### ANNO 6
   - [6 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/6%20-%20PERCORSO%20COMUNE/PEDIATRIA.ics)
@@ -817,13 +817,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/1%20-%20CORSO%20COMUNE/PSICOLOGIA%20DELLE%20RELAZIONI.ics)
+  - [1 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/1%20-%20CORSO%20COMUNE/STORIA%20CONTEMPORANEA%20E%20D.%20COMUNICAZIONI%20DI%20MASSA.ics)
   
   #### ANNO 2
-  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/2%20-%20CORSO%20COMUNE/GEOMATICA%20E%20NUOVE%20TECNOLOGIE.ics)
+  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/2%20-%20CORSO%20COMUNE/LINGUA%20E%20COMUNICAZIONE%20TEDESCA.ics)
   
   #### ANNO 3
-  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/3%20-%20CORSO%20COMUNE/LABORATORIO%20DI%20TECNICHE%20DI%20ORGANIZZAZIONE.ics)
+  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/3%20-%20CORSO%20COMUNE/TEORIE%20E%20TECNICHE%20DI%20NEGOZIAZIONE.ics)
   
 </details>
 <details>
