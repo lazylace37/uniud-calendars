@@ -365,7 +365,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20COMUNE/DIRITTO%20PROCESSUALE%20PENALE%202.ics)
   
   #### insegnamentiascelta
-  - [CLINICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/CLINICHE/CLINICA%20SUI%20DIRITTI%20FONDAMENTALI%20NELLO%20SPAZIO%20PUBBLICO%20INTERNO%20ED%20EUROPEO.ics)
+  - [CLINICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/CLINICHE/CLINICA%20SULLA%20RELAZIONE%20DI%20CURA%20%28RAPPORTO%20MEDICO/PAZIENTE%29.ics)
   - [OPZIONALI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/OPZIONALI/RAGIONERIA%20PUBBLICA.ics)
   
 </details>
