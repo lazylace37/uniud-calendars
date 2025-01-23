@@ -1045,10 +1045,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/1%20-%20PERCORSO%20COMUNE/TEORIA%20TECNICA%20E%20DIDATTICA%20DI%20BASE%20DELLA%20PALLAVOLO.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/1%20-%20PERCORSO%20COMUNE/TEORIA%2C%20TECNICA%20E%20DIDATTICA%20DI%20BASE%20DELL%27ATLETICA%3A%20CORSA%2C%20SALTI%20E%20LANCI.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/2%20-%20PERCORSO%20COMUNE/TEORIA%2C%20TECNICA%20E%20DIDATTICA%20DI%20BASE%20DEL%20NUOTO.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/2%20-%20PERCORSO%20COMUNE/NOZIONI%20DI%20PSICOBIOLOGIA%20E%20PSICOLOGIA%20FISIOLOGICA%20APPLICATE%20ALLE%20SCIENZE%20MOTORIE.ics)
   
   #### ANNO 3
   - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/3%20-%20PERCORSO%20COMUNE/VALUTAZIONE%20FUNZIONALE.ics)
