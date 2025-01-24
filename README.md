@@ -784,7 +784,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/1%20-%20PERCORSO%20COMUNE/STORIA%20DELLA%20MEDICINA.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/2%20-%20PERCORSO%20COMUNE/ISTOLOGIA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/2%20-%20PERCORSO%20COMUNE/STATISTICA%20MEDICA.ics)
   
   #### ANNO 3
   - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/3%20-%20PERCORSO%20COMUNE/TECNICHE%20RADIOLOGICHE.ics)
@@ -1051,7 +1051,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/2%20-%20PERCORSO%20COMUNE/NOZIONI%20DI%20PSICOBIOLOGIA%20E%20PSICOLOGIA%20FISIOLOGICA%20APPLICATE%20ALLE%20SCIENZE%20MOTORIE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/3%20-%20PERCORSO%20COMUNE/VALUTAZIONE%20FUNZIONALE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE/Laurea/3%20-%20PERCORSO%20COMUNE/TEORIA%20E%20METODOLOGIA%20DI%20STUDIO%20DELLA%20POSTURA%20E%20DEL%20MOVIMENTO%20UMANO.ics)
   
 </details>
 <details>
