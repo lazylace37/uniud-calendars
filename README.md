@@ -58,7 +58,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/INFORMATION%20RETRIEVAL.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/RECOMMENDER%20SYSTEMS.ics)
   
 </details>
 <details>
@@ -163,14 +163,14 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/1%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS/STRUCTURE%20OF%20COMPLEX%20NETWORKS.ics)
+  - [1 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/1%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS/MACHINE%20VISION.ics)
   - [1 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/1%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE/LABORATORIO%20DI%20SOCIAL%20ROBOTICS.ics)
   - [1 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/1%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN/SOCIAL%20DIGITAL%20INNOVATION.ics)
   
   #### ANNO 2
   - [2 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/2%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS/VIRTUAL%20REALITY%20AND%20PERSUASIVE%20USER%20EXPERIENCE.ics)
-  - [2 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/2%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE/VIRTUAL%20REALITY%20AND%20PERSUASIVE%20USER%20EXPERIENCE.ics)
-  - [2 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/2%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN/CYBERSECURITY.ics)
+  - [2 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/2%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE/AUDITORY%20AND%20TACTILE%20INTERACTIONS.ics)
+  - [2 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/2%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN/MACHINE%20VISION.ics)
   
 </details>
 <details>
@@ -419,17 +419,17 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/1%20-%20CORSO%20GENERICO/WEB%20SEMANTICO.ics)
+  - [1 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/1%20-%20CORSO%20GENERICO/SISTEMI%20INFORMATIVI%20E%20DATA%20WAREHOUSE.ics)
   ### Laurea
   
   #### ANNO 1
-  - [1 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/1%20-%20CORSO%20GENERICO/PROGRAMMAZIONE%20E%20LABORATORIO.ics)
+  - [1 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/1%20-%20CORSO%20GENERICO/FISICA.ics)
   
   #### ANNO 2
-  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/2%20-%20CORSO%20GENERICO/SISTEMI%20OPERATIVI%20E%20LABORATORIO%20-%20Laboratorio.ics)
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/2%20-%20CORSO%20GENERICO/FONDAMENTI%20DELL%27INFORMATICA.ics)
   
   #### ANNO 3
-  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/3%20-%20CORSO%20GENERICO/RETI%20DI%20CALCOLATORI.ics)
+  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/3%20-%20CORSO%20GENERICO/LINGUAGGI%20DI%20PROGRAMMAZIONE.ics)
   
 </details>
 <details>
@@ -671,13 +671,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/1%20-%20PERCORSO%20COMUNE/TECNOLOGIE%20WEB%20E%20LABORATORIO.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/1%20-%20PERCORSO%20COMUNE/FONDAMENTI%20DI%20SCIENZA%20DEI%20DATI%20E%20LABORATORIO.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/2%20-%20PERCORSO%20COMUNE/STATISTICA%20E%20LABORATORIO%20-%20Laboratorio.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/2%20-%20PERCORSO%20COMUNE/TECNOLOGIE%20WEB%20PER%20IL%20CLOUD%20E%20LABORATORIO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/3%20-%20PERCORSO%20COMUNE/SOCIAL%20COMPUTING.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/3%20-%20PERCORSO%20COMUNE/INTERNET%20OF%20THINGS.ics)
   
 </details>
 <details>
@@ -742,17 +742,17 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/TOPOLOGIA%20ALGEBRICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/STRUTTURA%20DELLE%20RETI%20COMPLESSE.ics)
   ### Laurea
   
   #### ANNO 1
   - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/1%20-%20PERCORSO%20COMUNE/STRUMENTI%20INFORMATICI%20PER%20LA%20MATEMATICA.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/2%20-%20PERCORSO%20COMUNE/TEORIA%20DI%20GALOIS.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/2%20-%20PERCORSO%20COMUNE/FISICA%20GENERALE%20MODULO%20II%20-%20Esercitazioni.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/3%20-%20PERCORSO%20COMUNE/PROBABILITA%27%20I.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/3%20-%20PERCORSO%20COMUNE/COMPLEMENTI%20DI%20FISICA%20GENERALE%20-%20Esercitazioni.ics)
   
 </details>
 <details>
