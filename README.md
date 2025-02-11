@@ -28,8 +28,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/1%20-%20ALLEVAMENTO%20ANIMALE/BIOMETRIA%20E%20GESTIONE%20DATI%202.ics)
-  - [1 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/1%20-%20ASSISTENTE%20VETERINARIO/BIOMETRIA%20E%20GESTIONE%20DATI%202.ics)
+  - [1 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/1%20-%20ALLEVAMENTO%20ANIMALE/BIODIVERSITA%27%20ANIMALE%202.ics)
+  - [1 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/1%20-%20ASSISTENTE%20VETERINARIO/BIODIVERSITA%27%20ANIMALE%202.ics)
   
   #### ANNO 2
   - [2 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/2%20-%20ALLEVAMENTO%20ANIMALE/LABORATORIO%20DI%20ITTIOPATOLOGIA.ics)
@@ -112,13 +112,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/1%20-%20PERCORSO%20GENERICO/Welcome%20Day.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/1%20-%20PERCORSO%20GENERICO/INFORMATICA.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/2%20-%20PERCORSO%20GENERICO/Modulo%20II%20-CHIMICA%20FISICA%20BIOLOGICA.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/2%20-%20PERCORSO%20GENERICO/MOD.%20II%20-%20BIOLOGIA%20MOLECOLARE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/3%20-%20PERCORSO%20GENERICO/BASI%20DI%20DATI%20E%20SISTEMI%20OPERATIVI.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/3%20-%20PERCORSO%20GENERICO/MOD.%20I%20-%20FARMACOLOGIA%20E%20PRINCIPI%20DI%20PROGETTAZIONE%20DEI%20FARMACI.ics)
   
 </details>
 <details>
@@ -185,7 +185,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/2%20-%20PERCORSO%20COMUNE/TEORIA%20E%20CRITICA%20DEI%20MEDIA%20E%20DEI%20NUOVI%20MEDIA.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/3%20-%20PERCORSO%20COMUNE/POSTPRODUZIONE%20E%20DISTRIBUZIONE%20AUDIOVISIVA%20E%20MULTIMEDIALE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/3%20-%20PERCORSO%20COMUNE/STORIA%20DEL%20TEATRO%20E%20DELLO%20SPETTACOLO%20MODERNO%20E%20CONTEMPORANEO.ics)
   
 </details>
 <details>
