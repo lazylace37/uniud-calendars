@@ -115,7 +115,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/1%20-%20PERCORSO%20GENERICO/INFORMATICA.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/2%20-%20PERCORSO%20GENERICO/MOD.%20II%20-%20BIOLOGIA%20MOLECOLARE.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/2%20-%20PERCORSO%20GENERICO/STESURA%20DELLA%20TESI.ics)
   
   #### ANNO 3
   - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/3%20-%20PERCORSO%20GENERICO/MOD.%20I%20-%20FARMACOLOGIA%20E%20PRINCIPI%20DI%20PROGETTAZIONE%20DEI%20FARMACI.ics)
