@@ -752,7 +752,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/2%20-%20PERCORSO%20COMUNE/FISICA%20GENERALE%20MODULO%20II%20-%20Esercitazioni.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/3%20-%20PERCORSO%20COMUNE/COMPLEMENTI%20DI%20FISICA%20GENERALE%20-%20Esercitazioni.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/3%20-%20PERCORSO%20COMUNE/COMPLEMENTI%20DI%20FISICA%20GENERALE.ics)
   
 </details>
 <details>
@@ -805,7 +805,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/1%20-%20PERCORSO%20GENERICO/PSICOLOGIA%20GENERALE.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/1%20-%20PERCORSO%20GENERICO/STATISTICA%20MEDICA.ics)
   
   #### ANNO 3
   - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/OSTETRICIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20OSTETRICA/O%29/Laurea/3%20-%20PERCORSO%20GENERICO/ONCOLOGIA%20OSTETRICO-GINECOLOGICA.ics)
