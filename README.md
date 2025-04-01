@@ -1036,7 +1036,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/STATISTICA%20AVANZATA%20I.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/RISCHIO%20CLINICO%20E%20SISTEMI%20DI%20ACCREDITAMENTO.ics)
   
 </details>
 <details>
