@@ -47,6 +47,24 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>ARCHITETTURA - I anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA%20-%20I%20anno/Laurea%20Magistrale/ARCHITETTURA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>ARCHITETTURA - II anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA%20-%20II%20anno/Laurea%20Magistrale/ARCHITETTURA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
   <summary>BANCA E FINANZA</summary>
 
   ### Laurea Magistrale
@@ -73,6 +91,29 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 1
   - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea%20Magistrale/BANCA%20E%20FINANZA-PRIMO%20ANNO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>Beni culturali (classe L-1)</summary>
+
+  ### Laurea triennale (DM 270)
+  
+  #### ANNO 1
+  - [1 - Archeologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%201%20-%20Archeologico.ics)
+  - [1 - Archivistico-librario](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%201%20-%20Archivistico-librario.ics)
+  - [1 - Storico-artistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%201%20-%20Storico-artistico.ics)
+  - [1 - Studi italo-francesi - professioni della cultura e dei beni culturali](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%201%20-%20Studi%20italo-francesi%20-%20professioni%20della%20cultura%20e%20dei%20beni%20culturali.ics)
+  
+  #### ANNO 2
+  - [2 - Archeologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%202%20-%20Archeologico.ics)
+  - [2 - Archivistico-librario](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%202%20-%20Archivistico-librario.ics)
+  - [2 - Storico-artistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%202%20-%20Storico-artistico.ics)
+  
+  #### ANNO 3
+  - [3 - Archeologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%203%20-%20Archeologico.ics)
+  - [3 - Archivistico-librario](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%203%20-%20Archivistico-librario.ics)
+  - [3 - Storico-artistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%203%20-%20Storico-artistico.ics)
+  - [3 - Studi italo-francesi - Professioni della cultura e dei beni culturali](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Beni%20culturali%20%28classe%20L-1%29/Laurea%20triennale%20%28DM%20270%29/Beni%20culturali%20%28classe%20L-1%29%20-%20ANNO%203%20-%20Studi%20italo-francesi%20-%20Professioni%20della%20cultura%20e%20dei%20beni%20culturali.ics)
   
 </details>
 <details>
@@ -259,6 +300,33 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>Filosofia e trasformazione digitale</summary>
+
+  ### Laurea triennale (DM 270)
+  
+  #### ANNO 1
+  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Filosofia%20e%20trasformazione%20digitale/Laurea%20triennale%20%28DM%20270%29/Filosofia%20e%20trasformazione%20digitale%20-%20ANNO%201%20-%20Unico.ics)
+  
+  #### ANNO 2
+  - [2 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Filosofia%20e%20trasformazione%20digitale/Laurea%20triennale%20%28DM%20270%29/Filosofia%20e%20trasformazione%20digitale%20-%20ANNO%202%20-%20Unico.ics)
+  
+  #### ANNO 3
+  - [3 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Filosofia%20e%20trasformazione%20digitale/Laurea%20triennale%20%28DM%20270%29/Filosofia%20e%20trasformazione%20digitale%20-%20ANNO%203%20-%20Unico.ics)
+  
+</details>
+<details>
+  <summary>Gestione del turismo culturale e degli eventi (classe LM-49)</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29/Laurea%20Magistrale/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29%20-%20ANNO%201%20-%20Unico.ics)
+  
+  #### ANNO 2
+  - [2 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29/Laurea%20Magistrale/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29%20-%20ANNO%202%20-%20Unico.ics)
+  
+</details>
+<details>
   <summary>GIURISPRUDENZA - nuovo ordinamento</summary>
 
   ### Laurea Magistrale Ciclo Unico 5 anni
@@ -302,6 +370,298 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>INDUSTRIAL ENGINEERING FOR SUSTAINABLE MANUFACTURING - I anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
+  - [1 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
+  
+</details>
+<details>
+  <summary>INDUSTRIAL ENGINEERING FOR SUSTAINABLE MANUFACTURING - II anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
+  - [2 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA AMBIENTALE PER LA RESILIENZA TERRITORIALE- II anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Geoingegneria e resilienza territoriale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geoingegneria%20e%20resilienza%20territoriale.ics)
+  - [1 - CURRICULUM UNICO - percorso Resilienza idraulica e protezione ambientale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Resilienza%20idraulica%20e%20protezione%20ambientale.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA CIVILE - I anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia.ics)
+  - [1 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA CIVILE - II anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia.ics)
+  - [2 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA CIVILE E AMBIENTALE - II e III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20AMBIENTE%20E%20TERRITORIO.ics)
+  - [2 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CIVILE.ics)
+  
+  #### ANNO 3
+  - [3 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20AMBIENTE%20E%20TERRITORIO.ics)
+  - [3 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20CIVILE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA CIVILE E AMBIENTALE- I anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE-%20I%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA ELETTRONICA -  II e III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 3
+  - [3 - INFORMATICA E RETI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%203%20-%20INFORMATICA%20E%20RETI.ics)
+  - [3 - MECCATRONICA E ROBOTICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%203%20-%20MECCATRONICA%20E%20ROBOTICA.ics)
+  - [3 - SISTEMI ELETTRONICI E TECNOLOGIE DELL'INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%203%20-%20SISTEMI%20ELETTRONICI%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA ELETTRONICA - I anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti.ics)
+  - [1 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale.ics)
+  - [1 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica.ics)
+  - [1 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA ELETTRONICA - II anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti.ics)
+  - [2 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale.ics)
+  - [2 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica.ics)
+  - [2 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA GESTIONALE - I anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - INGEGNERIA GESTIONALE - percorso Advanced manufacturing](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Advanced%20manufacturing.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Digital business and analytics](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Digital%20business%20and%20analytics.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Environmental Sustainability](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Environmental%20Sustainability.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Industrial management](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Industrial%20management.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Information  and  communication technology](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Information%20%20and%20%20communication%20technology.ics)
+  - [1 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20MANAGEMENT%20ENGINEERING.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA GESTIONALE - II e III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20INDUSTRIALE.ics)
+  - [2 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20INFORMAZIONE.ics)
+  
+  #### ANNO 3
+  - [3 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20INDUSTRIALE.ics)
+  - [3 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20INFORMAZIONE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA GESTIONALE- II anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - INGEGNERIA GESTIONALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE-%20II%20anno%20-%20ANNO%202%20-%20INGEGNERIA%20GESTIONALE.ics)
+  - [2 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE-%20II%20anno%20-%20ANNO%202%20-%20MANAGEMENT%20ENGINEERING.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA INDUSTRIALE PER L'ENERGIA</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA INDUSTRIALE PER LA SOSTENIBILITA' AMBIENTALE - II e III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA INDUSTRIALE PER LA SOSTENIBILITA' AMBIENTALE- I anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE-%20I%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE-%20I%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA MECCANICA - I anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20I%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA MECCANICA - II anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica.ics)
+  - [2 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA MECCANICA - II e III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 3
+  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA MECCANICA- I anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica.ics)
+  - [1 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA PER L'AMBIENTE, IL TERRITORIO E LA PROTEZIONE CIVILE -II  anno</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Geotecnica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geotecnica.ics)
+  - [2 - CURRICULUM UNICO - percorso Idraulica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Idraulica.ics)
+  
+</details>
+<details>
+  <summary>Interateneo in Filosofia (classe LM-78)</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Filosofia%20%28classe%20LM-78%29/Laurea%20Magistrale/Interateneo%20in%20Filosofia%20%28classe%20LM-78%29%20-%20ANNO%201%20-%20Unico.ics)
+  
+  #### ANNO 2
+  - [2 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Filosofia%20%28classe%20LM-78%29/Laurea%20Magistrale/Interateneo%20in%20Filosofia%20%28classe%20LM-78%29%20-%20ANNO%202%20-%20Unico.ics)
+  
+</details>
+<details>
+  <summary>Interateneo in Italianistica (classe LM-14)</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Curriculum Editoria e Digital Humanities](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29/Laurea%20Magistrale/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29%20-%20ANNO%201%20-%20Curriculum%20Editoria%20e%20Digital%20Humanities.ics)
+  - [1 - Curriculum Interculturale e interlinguistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29/Laurea%20Magistrale/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29%20-%20ANNO%201%20-%20Curriculum%20Interculturale%20e%20interlinguistico.ics)
+  - [1 - Curriculum Letterario e Filologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29/Laurea%20Magistrale/Interateneo%20in%20Italianistica%20%28classe%20LM-14%29%20-%20ANNO%201%20-%20Curriculum%20Letterario%20e%20Filologico.ics)
+  
+</details>
+<details>
+  <summary>Interateneo in Studi storici. Dall'antico al contemporaneo</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Curriculum Metodologie di ricerca e divulgazione della storia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%201%20-%20Curriculum%20Metodologie%20di%20ricerca%20e%20divulgazione%20della%20storia.ics)
+  - [1 - Curriculum Storia globale ed europea](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%201%20-%20Curriculum%20Storia%20globale%20ed%20europea.ics)
+  
+  #### ANNO 2
+  - [2 - Curriculum Storia e insegnamento](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%202%20-%20Curriculum%20Storia%20e%20insegnamento.ics)
+  - [2 - Curriculum Storia e ricerca](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%202%20-%20Curriculum%20Storia%20e%20ricerca.ics)
+  
+</details>
+<details>
+  <summary>Interateneo interclasse in Archeologia e culture dell'antichita'</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Curriculum Archeologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27/Laurea%20Magistrale/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27%20-%20ANNO%201%20-%20Curriculum%20Archeologico.ics)
+  - [1 - Curriculum Storico e Filologico-Letterario](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27/Laurea%20Magistrale/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27%20-%20ANNO%201%20-%20Curriculum%20Storico%20e%20Filologico-Letterario.ics)
+  
+  #### ANNO 2
+  - [2 - Curriculum Archeologico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27/Laurea%20Magistrale/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27%20-%20ANNO%202%20-%20Curriculum%20Archeologico.ics)
+  - [2 - Curriculum Storico e Filologico-Letterario](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27/Laurea%20Magistrale/Interateneo%20interclasse%20in%20Archeologia%20e%20culture%20dell%27antichita%27%20-%20ANNO%202%20-%20Curriculum%20Storico%20e%20Filologico-Letterario.ics)
+  
+</details>
+<details>
   <summary>INTERNATIONAL MARKETING, MANAGEMENT AND ORGANIZATION</summary>
 
   ### Laurea Magistrale
@@ -317,6 +677,50 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 1
   - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION-PRIMO%20ANNO/Laurea%20Magistrale/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION-PRIMO%20ANNO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>Internazionale in Scienze del patrimonio audiovisivo e dell'educazione ai media</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Curriculum Cinema/Archivi Archives et cinema Doppio titolo con l'Universita' di Lilla (Francia)](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media/Laurea%20Magistrale/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media%20-%20ANNO%201%20-%20Curriculum%20Cinema/Archivi%20Archives%20et%20cinema%20Doppio%20titolo%20con%20l%27Universita%27%20di%20Lilla%20%28Francia%29.ics)
+  - [1 - Curriculum Digital Storytelling (percorso nazionale)](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media/Laurea%20Magistrale/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media%20-%20ANNO%201%20-%20Curriculum%20Digital%20Storytelling%20%28percorso%20nazionale%29.ics)
+  - [1 - Curriculum Educazione ai media (Percorso nazionale)](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media/Laurea%20Magistrale/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media%20-%20ANNO%201%20-%20Curriculum%20Educazione%20ai%20media%20%28Percorso%20nazionale%29.ics)
+  - [1 - Curriculum Patrimonio audiovisivo (percorso nazionale)](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media/Laurea%20Magistrale/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media%20-%20ANNO%201%20-%20Curriculum%20Patrimonio%20audiovisivo%20%28percorso%20nazionale%29.ics)
+  
+  #### ANNO 2
+  - [2 - Curriculum Digital Storytelling (percorso nazionale)](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media/Laurea%20Magistrale/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media%20-%20ANNO%202%20-%20Curriculum%20Digital%20Storytelling%20%28percorso%20nazionale%29.ics)
+  - [2 - Curriculum Educazione ai media (Percorso nazionale)](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media/Laurea%20Magistrale/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media%20-%20ANNO%202%20-%20Curriculum%20Educazione%20ai%20media%20%28Percorso%20nazionale%29.ics)
+  - [2 - Curriculum Patrimonio audiovisivo (percorso nazionale)](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media/Laurea%20Magistrale/Internazionale%20in%20Scienze%20del%20patrimonio%20audiovisivo%20e%20dell%27educazione%20ai%20media%20-%20ANNO%202%20-%20Curriculum%20Patrimonio%20audiovisivo%20%28percorso%20nazionale%29.ics)
+  
+</details>
+<details>
+  <summary>Lettere (classe L-10)</summary>
+
+  ### Laurea triennale (DM 270)
+  
+  #### ANNO 1
+  - [1 - Curriculum Cultura umanistica e divulgazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%201%20-%20Curriculum%20Cultura%20umanistica%20e%20divulgazione.ics)
+  - [1 - Curriculum Editoria](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%201%20-%20Curriculum%20Editoria.ics)
+  - [1 - Curriculum italianistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%201%20-%20Curriculum%20italianistico.ics)
+  - [1 - Curriculum Letterature e civilta' del mondo antico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%201%20-%20Curriculum%20Letterature%20e%20civilta%27%20del%20mondo%20antico.ics)
+  - [1 - Curriculum storico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%201%20-%20Curriculum%20storico.ics)
+  
+  #### ANNO 2
+  - [2 - Curriculum Cultura umanistica e divulgazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%202%20-%20Curriculum%20Cultura%20umanistica%20e%20divulgazione.ics)
+  - [2 - Curriculum Editoria](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%202%20-%20Curriculum%20Editoria.ics)
+  - [2 - Curriculum italianistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%202%20-%20Curriculum%20italianistico.ics)
+  - [2 - Curriculum Letterature e civiltà del mondo antico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%202%20-%20Curriculum%20Letterature%20e%20civilt%C3%A0%20del%20mondo%20antico.ics)
+  - [2 - Curriculum storico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%202%20-%20Curriculum%20storico.ics)
+  
+  #### ANNO 3
+  - [3 - Cultura umanistica e divulgazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Cultura%20umanistica%20e%20divulgazione.ics)
+  - [3 - Curriculum Editoria](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Curriculum%20Editoria.ics)
+  - [3 - Curriculum: italianistico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Curriculum%3A%20italianistico.ics)
+  - [3 - Curriculum: letterature e civilta' del mondo antico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Curriculum%3A%20letterature%20e%20civilta%27%20del%20mondo%20antico.ics)
+  - [3 - Curriculum: storico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Lettere%20%28classe%20L-10%29/Laurea%20triennale%20%28DM%20270%29/Lettere%20%28classe%20L-10%29%20-%20ANNO%203%20-%20Curriculum%3A%20storico.ics)
   
 </details>
 <details>
@@ -350,15 +754,15 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>SCIENZA ED ECONOMIA DEL CIBO - Primo anno</summary>
+  <summary>SCIENZA ED ECONOMIA DEL CIBO</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -380,6 +784,42 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 1
   - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE%20-%20Primo%20anno/Laurea/SCIENZE%20AGRARIE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE DELL'ARCHITETTURA - I anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE DELL'ARCHITETTURA - II e III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 3
+  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>Scienze e tecniche del turismo culturale (classe L-15)</summary>
+
+  ### Laurea triennale (DM 270)
+  
+  #### ANNO 1
+  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Scienze%20e%20tecniche%20del%20turismo%20culturale%20%28classe%20L-15%29/Laurea%20triennale%20%28DM%20270%29/Scienze%20e%20tecniche%20del%20turismo%20culturale%20%28classe%20L-15%29%20-%20ANNO%201%20-%20Unico.ics)
+  
+  #### ANNO 2
+  - [2 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Scienze%20e%20tecniche%20del%20turismo%20culturale%20%28classe%20L-15%29/Laurea%20triennale%20%28DM%20270%29/Scienze%20e%20tecniche%20del%20turismo%20culturale%20%28classe%20L-15%29%20-%20ANNO%202%20-%20Unico.ics)
+  
+  #### ANNO 3
+  - [3 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Scienze%20e%20tecniche%20del%20turismo%20culturale%20%28classe%20L-15%29/Laurea%20triennale%20%28DM%20270%29/Scienze%20e%20tecniche%20del%20turismo%20culturale%20%28classe%20L-15%29%20-%20ANNO%203%20-%20Unico.ics)
   
 </details>
 <details>
@@ -475,6 +915,33 @@ Search for your course and copy the link of the desired calendar; for example:
   #### ANNO 1
   - [1 - DIFESA E VALORIZZAZIONE DELL?AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno%20-%20ANNO%201%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%3FAMBIENTE%20MONTANO-FORESTALE.ics)
   - [1 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA?](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno%20-%20ANNO%201%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%3F.ics)
+  
+</details>
+<details>
+  <summary>Storia dell'arte (classe LM-89)</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Storia%20dell%27arte%20%28classe%20LM-89%29/Laurea%20Magistrale/Storia%20dell%27arte%20%28classe%20LM-89%29%20-%20ANNO%201%20-%20Unico.ics)
+  
+  #### ANNO 2
+  - [2 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Storia%20dell%27arte%20%28classe%20LM-89%29/Laurea%20Magistrale/Storia%20dell%27arte%20%28classe%20LM-89%29%20-%20ANNO%202%20-%20Unico.ics)
+  
+</details>
+<details>
+  <summary>TECNICHE DELL'EDILIZIA E DEL TERRITORIO</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
