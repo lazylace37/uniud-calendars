@@ -65,6 +65,18 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>ARTIFICIAL INTELLIGENCE and CYBERSECURITY</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>BANCA E FINANZA</summary>
 
   ### Laurea Magistrale
@@ -153,6 +165,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 2
   - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20vecchio%20ordinamento/Laurea%20Magistrale/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20vecchio%20ordinamento%20-%20ANNO%202%20-%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>COMUNICAZIONE MULTIMEDIALE E TECNOLOGIE DELL'INFORMAZIONE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%201%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS.ics)
+  - [1 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%201%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN.ics)
+  
+  #### ANNO 2
+  - [2 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS.ics)
+  - [2 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE.ics)
+  - [2 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN.ics)
   
 </details>
 <details>
@@ -387,6 +414,28 @@ Search for your course and copy the link of the desired calendar; for example:
   #### ANNO 2
   - [2 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
   - [2 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
+  
+</details>
+<details>
+  <summary>INFORMATICA</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%203%20-%20CORSO%20GENERICO.ics)
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/INFORMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/INFORMATICA%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -697,6 +746,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>INTERNET OF THINGS, BIG DATA, MACHINE LEARNING</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>Lettere (classe L-10)</summary>
 
   ### Laurea triennale (DM 270)
@@ -733,6 +797,28 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>MATEMATICA</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/MATEMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>SCIENZA E CULTURA DEL CIBO</summary>
 
   ### Laurea
@@ -754,15 +840,15 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>SCIENZA ED ECONOMIA DEL CIBO</summary>
+  <summary>SCIENZA ED ECONOMIA DEL CIBO - Primo anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -874,6 +960,20 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>SCIENZE E TECNOLOGIE MULTIMEDIALI</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%202%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE.ics)
+  - [2 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%202%20-%20MUSICA%20DIGITALE.ics)
+  
+  #### ANNO 3
+  - [3 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%203%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE.ics)
+  - [3 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%203%20-%20MUSICA%20DIGITALE.ics)
+  
+</details>
+<details>
   <summary>SCIENZE E TECNOLOGIE SOSTENIBILI PER L'AMBIENTE</summary>
 
   ### Laurea Magistrale
@@ -942,6 +1042,16 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 3
   - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>TECNOLOGIE DIGITALI E COMUNICAZIONE PER LE INDUSTRIE CREATIVE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - DIGITAL IMAGING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE%20-%20ANNO%201%20-%20DIGITAL%20IMAGING.ics)
+  - [1 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE%20-%20ANNO%201%20-%20MUSICA%20DIGITALE.ics)
   
 </details>
 <details>
