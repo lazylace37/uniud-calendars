@@ -82,14 +82,14 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea%20Magistrale/BANCA%20E%20FINANZA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/Appuntamenti%20del%20Marted%C3%AC%202%20anno%20LM.ics)
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/BANCA%20E%20FINANZA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/2%20-%20PERCORSO%20COMUNE/Eercitazioni.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/BANCA%20E%20FINANZA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/3%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20TRATTATIVE%20FINANZIARIE.ics)
   
 </details>
 <details>
@@ -98,11 +98,11 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea/BANCA%20E%20FINANZA-PRIMO%20ANNO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea/1%20-%20PERCORSO%20COMUNE/Esercitazioni%20di%20Matematica%20generale.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea%20Magistrale/BANCA%20E%20FINANZA-PRIMO%20ANNO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/DIRITTO%20DEI%20MERCATI%20FINANZIARI.ics)
   
 </details>
 <details>
@@ -891,6 +891,68 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 3
   - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE DELL'EDUCAZIONE</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - EDUCATORE DEI SERVIZI EDUCATIVI PER L'INFANZIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%20ANNO%202%20-%20EDUCATORE%20DEI%20SERVIZI%20EDUCATIVI%20PER%20L%27INFANZIA.ics)
+  - [2 - EDUCATORE PROFESSIONALE SOCIO-PEDAGOGICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%20ANNO%202%20-%20EDUCATORE%20PROFESSIONALE%20SOCIO-PEDAGOGICO.ics)
+  
+  #### ANNO 3
+  - [3 - EDUCATORE DEI SERVIZI EDUCATIVI PER L'INFANZIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%20ANNO%203%20-%20EDUCATORE%20DEI%20SERVIZI%20EDUCATIVI%20PER%20L%27INFANZIA.ics)
+  - [3 - EDUCATORE PROFESSIONALE SOCIO-PEDAGOGICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%20ANNO%203%20-%20EDUCATORE%20PROFESSIONALE%20SOCIO-PEDAGOGICO.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE DELL'EDUCAZIONE - 1</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - EDUCATORE DEI SERVIZI EDUCATIVI PER L'INFANZIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE%20-%201/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%201%20-%20ANNO%201%20-%20EDUCATORE%20DEI%20SERVIZI%20EDUCATIVI%20PER%20L%27INFANZIA.ics)
+  - [1 - EDUCATORE PROFESSIONALE SOCIO-PEDAGOGICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE%20-%201/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%201%20-%20ANNO%201%20-%20EDUCATORE%20PROFESSIONALE%20SOCIO-PEDAGOGICO.ics)
+  
+</details>
+<details>
+  <summary>Scienze della formazione primaria</summary>
+
+  ### Laurea vecchio ordinamento
+  
+  #### insegnamentiascelta
+  - [Indir. laboratori frequenza obbligatoria - scuola elementare o primaria](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Scienze%20della%20formazione%20primaria/Laurea%20vecchio%20ordinamento/Scienze%20della%20formazione%20primaria%20-%20Indir.%20laboratori%20frequenza%20obbligatoria%20-%20scuola%20elementare%20o%20primaria.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE DELLA FORMAZIONE PRIMARIA</summary>
+
+  ### Laurea Magistrale Ciclo Unico 5 anni
+  
+  #### ANNO 1
+  - [1 - PERCORSO PER L'INSEGNAMENTO IN LINGUA E CULTURA FRIULANA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%201%20-%20PERCORSO%20PER%20L%27INSEGNAMENTO%20IN%20LINGUA%20E%20CULTURA%20FRIULANA.ics)
+  - [1 - SCIENZE DELLA FORMAZIONE PRIMARIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%201%20-%20SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO PER L'INSEGNAMENTO IN LINGUA E CULTURA FRIULANA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%202%20-%20PERCORSO%20PER%20L%27INSEGNAMENTO%20IN%20LINGUA%20E%20CULTURA%20FRIULANA.ics)
+  - [2 - SCIENZE DELLA FORMAZIONE PRIMARIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%202%20-%20SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO PER L'INSEGNAMENTO IN LINGUA E CULTURA FRIULANA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%203%20-%20PERCORSO%20PER%20L%27INSEGNAMENTO%20IN%20LINGUA%20E%20CULTURA%20FRIULANA.ics)
+  - [3 - PERCORSO PER LE SCUOLE CON LINGUA DI INSEGNAMENTO SLOVENA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%203%20-%20PERCORSO%20PER%20LE%20SCUOLE%20CON%20LINGUA%20DI%20INSEGNAMENTO%20SLOVENA.ics)
+  - [3 - SCIENZE DELLA FORMAZIONE PRIMARIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%203%20-%20SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA.ics)
+  
+  #### ANNO 4
+  - [4 - PERCORSO PER L'INSEGNAMENTO IN LINGUA E CULTURA FRIULANA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%204%20-%20PERCORSO%20PER%20L%27INSEGNAMENTO%20IN%20LINGUA%20E%20CULTURA%20FRIULANA.ics)
+  - [4 - PERCORSO PER LE SCUOLE CON LINGUA DI INSEGNAMENTO SLOVENA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%204%20-%20PERCORSO%20PER%20LE%20SCUOLE%20CON%20LINGUA%20DI%20INSEGNAMENTO%20SLOVENA.ics)
+  - [4 - SCIENZE DELLA FORMAZIONE PRIMARIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%204%20-%20SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA.ics)
+  
+  #### ANNO 5
+  - [5 - PERCORSO PER L'INSEGNAMENTO IN LINGUA E CULTURA FRIULANA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%205%20-%20PERCORSO%20PER%20L%27INSEGNAMENTO%20IN%20LINGUA%20E%20CULTURA%20FRIULANA.ics)
+  - [5 - PERCORSO PER LE SCUOLE CON LINGUA DI INSEGNAMENTO SLOVENA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%205%20-%20PERCORSO%20PER%20LE%20SCUOLE%20CON%20LINGUA%20DI%20INSEGNAMENTO%20SLOVENA.ics)
+  - [5 - SCIENZE DELLA FORMAZIONE PRIMARIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA%20-%20ANNO%205%20-%20SCIENZE%20DELLA%20FORMAZIONE%20PRIMARIA.ics)
   
 </details>
 <details>
