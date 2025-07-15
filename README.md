@@ -788,6 +788,47 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>LINGUE E LETTERATURE EUROPEE ED EXTRAEUROPEE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - LETTERATURA E CULTURA AUSTRIACA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%20ANNO%202%20-%20LETTERATURA%20E%20CULTURA%20AUSTRIACA.ics)
+  - [2 - LINGUE  E LETTERATURE EUROPEE ED EXTRAEUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%20ANNO%202%20-%20LINGUE%20%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE.ics)
+  
+</details>
+<details>
+  <summary>LINGUE E LETTERATURE EUROPEE ED EXTRAEUROPEE - 1</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - LETTERATURA E CULTURA AUSTRIACA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201%20-%20ANNO%201%20-%20LETTERATURA%20E%20CULTURA%20AUSTRIACA.ics)
+  - [1 - LINGUE  E LETTERATURE EUROPEE ED EXTRAEUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201%20-%20ANNO%201%20-%20LINGUE%20%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE.ics)
+  
+</details>
+<details>
+  <summary>LINGUE E LETTERATURE STRANIERE</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20STRANIERE/Laurea/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20STRANIERE/Laurea/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>LINGUE E LETTERATURE STRANIERE - 1</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%201/Laurea/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>MANAGEMENT and BUSINESS ANALYTICS</summary>
 
   ### Laurea
@@ -819,6 +860,31 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>MEDIAZIONE CULTURALE</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - MEDIAZIONE CULTURALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE/Laurea/MEDIAZIONE%20CULTURALE%20-%20ANNO%202%20-%20MEDIAZIONE%20CULTURALE.ics)
+  - [2 - STUDI INTERCULTURALI ITALO-FRANCESI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE/Laurea/MEDIAZIONE%20CULTURALE%20-%20ANNO%202%20-%20STUDI%20INTERCULTURALI%20ITALO-FRANCESI.ics)
+  
+  #### ANNO 3
+  - [3 - LINGUE E CULTURE DELL'EUROPA CENTRALE E ORIENTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE/Laurea/MEDIAZIONE%20CULTURALE%20-%20ANNO%203%20-%20LINGUE%20E%20CULTURE%20DELL%27EUROPA%20CENTRALE%20E%20ORIENTALE.ics)
+  - [3 - MEDIAZIONE CULTURALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE/Laurea/MEDIAZIONE%20CULTURALE%20-%20ANNO%203%20-%20MEDIAZIONE%20CULTURALE.ics)
+  - [3 - STUDI INTERCULTURALI ITALO-FRANCESI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE/Laurea/MEDIAZIONE%20CULTURALE%20-%20ANNO%203%20-%20STUDI%20INTERCULTURALI%20ITALO-FRANCESI.ics)
+  
+</details>
+<details>
+  <summary>MEDIAZIONE CULTURALE - 1</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - MEDIAZIONE CULTURALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE%20-%201/Laurea/MEDIAZIONE%20CULTURALE%20-%201%20-%20ANNO%201%20-%20MEDIAZIONE%20CULTURALE.ics)
+  - [1 - STUDI INTERCULTURALI ITALO-FRANCESI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE%20-%201/Laurea/MEDIAZIONE%20CULTURALE%20-%201%20-%20ANNO%201%20-%20STUDI%20INTERCULTURALI%20ITALO-FRANCESI.ics)
+  
+</details>
+<details>
   <summary>SCIENZA E CULTURA DEL CIBO</summary>
 
   ### Laurea
@@ -840,15 +906,15 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>SCIENZA ED ECONOMIA DEL CIBO - Primo anno</summary>
+  <summary>SCIENZA ED ECONOMIA DEL CIBO</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1114,6 +1180,24 @@ Search for your course and copy the link of the desired calendar; for example:
   #### ANNO 1
   - [1 - DIGITAL IMAGING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE%20-%20ANNO%201%20-%20DIGITAL%20IMAGING.ics)
   - [1 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE%20-%20ANNO%201%20-%20MUSICA%20DIGITALE.ics)
+  
+</details>
+<details>
+  <summary>TRADUZIONE E MEDIAZIONE CULTURALE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE/Laurea%20Magistrale/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%20ANNO%202%20-%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>TRADUZIONE E MEDIAZIONE CULTURALE - 1</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%201/Laurea%20Magistrale/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
