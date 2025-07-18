@@ -342,18 +342,6 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>Gestione del turismo culturale e degli eventi (classe LM-49)</summary>
-
-  ### Laurea Magistrale
-  
-  #### ANNO 1
-  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29/Laurea%20Magistrale/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29%20-%20ANNO%201%20-%20Unico.ics)
-  
-  #### ANNO 2
-  - [2 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29/Laurea%20Magistrale/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29%20-%20ANNO%202%20-%20Unico.ics)
-  
-</details>
-<details>
   <summary>GIURISPRUDENZA - nuovo ordinamento</summary>
 
   ### Laurea Magistrale Ciclo Unico 5 anni
@@ -439,13 +427,13 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>INGEGNERIA AMBIENTALE PER LA RESILIENZA TERRITORIALE- II anno</summary>
+  <summary>INGEGNERIA AMBIENTALE PER LA RESILIENZA TERRITORIALE- I anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO - percorso Geoingegneria e resilienza territoriale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geoingegneria%20e%20resilienza%20territoriale.ics)
-  - [1 - CURRICULUM UNICO - percorso Resilienza idraulica e protezione ambientale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Resilienza%20idraulica%20e%20protezione%20ambientale.ics)
+  - [1 - CURRICULUM UNICO - percorso Geoingegneria e resilienza territoriale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geoingegneria%20e%20resilienza%20territoriale.ics)
+  - [1 - CURRICULUM UNICO - percorso Resilienza idraulica e protezione ambientale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Resilienza%20idraulica%20e%20protezione%20ambientale.ics)
   
 </details>
 <details>
@@ -650,13 +638,12 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>INGEGNERIA PER L'AMBIENTE, IL TERRITORIO E LA PROTEZIONE CIVILE -II  anno</summary>
+  <summary>INGEGNERIA PER L'AMBIENTE, IL TERRITORIO E LA PROTEZIONE CIVILE - II  anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO - percorso Geotecnica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geotecnica.ics)
-  - [2 - CURRICULUM UNICO - percorso Idraulica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Idraulica.ics)
+  - [2 - CURRICULUM UNICO - percorso Geotecnica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geotecnica.ics)
   
 </details>
 <details>
@@ -906,15 +893,15 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>SCIENZA ED ECONOMIA DEL CIBO</summary>
+  <summary>SCIENZA ED ECONOMIA DEL CIBO - Primo anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
