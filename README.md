@@ -168,6 +168,24 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>COMUNICAZIONE INTEGRATA PER LE IMPRESE E LE ORGANIZZAZIONI</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20ANNO%202%20-%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>COMUNICAZIONE INTEGRATA PER LE IMPRESE E LE ORGANIZZAZIONI - 1</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%201/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>COMUNICAZIONE MULTIMEDIALE E TECNOLOGIE DELL'INFORMAZIONE</summary>
 
   ### Laurea Magistrale
@@ -180,6 +198,27 @@ Search for your course and copy the link of the desired calendar; for example:
   - [2 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS.ics)
   - [2 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE.ics)
   - [2 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN.ics)
+  
+</details>
+<details>
+  <summary>DAMS - DISCIPLINE DELL'AUDIOVISIVO, DEI MEDIA E DELLO SPETTACOLO</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>DAMS - DISCIPLINE DELL'AUDIOVISIVO, DEI MEDIA E DELLO SPETTACOLO - 1</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%201/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -644,6 +683,7 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 2
   - [2 - CURRICULUM UNICO - percorso Geotecnica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geotecnica.ics)
+  - [2 - CURRICULUM UNICO - Percorso Idraulica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20Percorso%20Idraulica.ics)
   
 </details>
 <details>
@@ -872,6 +912,27 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>RELAZIONI PUBBLICHE</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%202%20-%20CORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%203%20-%20CORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>RELAZIONI PUBBLICHE - 1</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE%20-%201/Laurea/RELAZIONI%20PUBBLICHE%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>SCIENZA E CULTURA DEL CIBO</summary>
 
   ### Laurea
@@ -893,15 +954,15 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>SCIENZA ED ECONOMIA DEL CIBO - Primo anno</summary>
+  <summary>SCIENZA ED ECONOMIA DEL CIBO</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
