@@ -86,10 +86,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/2%20-%20PERCORSO%20COMUNE/Eercitazioni.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/2%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%202%20anno%20LT.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/3%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20TRATTATIVE%20FINANZIARIE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/3%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%203%20anno%20LT.ics)
   
 </details>
 <details>
@@ -98,11 +98,11 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea/1%20-%20PERCORSO%20COMUNE/Esercitazioni%20di%20Matematica%20generale.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea/1%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%201%20anno%20LT.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/DIRITTO%20DEI%20MERCATI%20FINANZIARI.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%201%20anno%20LM.ics)
   
 </details>
 <details>
@@ -954,15 +954,15 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>SCIENZA ED ECONOMIA DEL CIBO</summary>
+  <summary>SCIENZA ED ECONOMIA DEL CIBO - Primo anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
