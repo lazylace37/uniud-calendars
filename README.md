@@ -392,7 +392,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/2%20-%20PERCORSO%20COMUNE/DIRITTO%20PUBBLICO%20COMPARATO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/3%20-%20PERCORSO%20COMUNE/INFORMATICA%20GIURIDICA%20ED%20ETICA%20DELL%3FINTELLIGENZA%20ARTIFICIALE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/3%20-%20PERCORSO%20COMUNE/INFORMATICA%20GIURIDICA%20ED%20ETICA%20DELL%27INTELLIGENZA%20ARTIFICIALE.ics)
   
   #### ANNO 4
   - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/4%20-%20PERCORSO%20COMUNE/PRINCIPI%20CONTABILI%20E%20DI%20BILANCIO.ics)
