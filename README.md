@@ -129,6 +129,27 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>BIOTECNOLOGIE</summary>
+
+  ### Laurea
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/BIOTECNOLOGIE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/BIOTECNOLOGIE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>BIOTECNOLOGIE - Primo anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE%20-%20Primo%20anno/Laurea/BIOTECNOLOGIE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>BIOTECNOLOGIE MOLECOLARI</summary>
 
   ### Laurea Magistrale
