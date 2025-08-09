@@ -198,12 +198,12 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>COMUNICAZIONE INTEGRATA PER LE IMPRESE E LE ORGANIZZAZIONI - 1</summary>
+  <summary>COMUNICAZIONE INTEGRATA PER LE IMPRESE E LE ORGANIZZAZIONI - Primo anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%201/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -234,12 +234,12 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>DAMS - DISCIPLINE DELL'AUDIOVISIVO, DEI MEDIA E DELLO SPETTACOLO - 1</summary>
+  <summary>DAMS - DISCIPLINE DELL'AUDIOVISIVO, DEI MEDIA E DELLO SPETTACOLO - Primo anno</summary>
 
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%201/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20Primo%20anno/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -906,13 +906,13 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>LINGUE E LETTERATURE EUROPEE ED EXTRAEUROPEE - 1</summary>
+  <summary>LINGUE E LETTERATURE EUROPEE ED EXTRAEUROPEE - Primo anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - LETTERATURA E CULTURA AUSTRIACA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201%20-%20ANNO%201%20-%20LETTERATURA%20E%20CULTURA%20AUSTRIACA.ics)
-  - [1 - LINGUE  E LETTERATURE EUROPEE ED EXTRAEUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%201%20-%20ANNO%201%20-%20LINGUE%20%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE.ics)
+  - [1 - LETTERATURA E CULTURA AUSTRIACA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%20Primo%20anno/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%20Primo%20anno%20-%20ANNO%201%20-%20LETTERATURA%20E%20CULTURA%20AUSTRIACA.ics)
+  - [1 - LINGUE  E LETTERATURE EUROPEE ED EXTRAEUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%20Primo%20anno/Laurea%20Magistrale/LINGUE%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE%20-%20Primo%20anno%20-%20ANNO%201%20-%20LINGUE%20%20E%20LETTERATURE%20EUROPEE%20ED%20EXTRAEUROPEE.ics)
   
 </details>
 <details>
@@ -928,12 +928,12 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>LINGUE E LETTERATURE STRANIERE - 1</summary>
+  <summary>LINGUE E LETTERATURE STRANIERE - Primo anno</summary>
 
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%201/Laurea/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%20Primo%20anno/Laurea/LINGUE%20E%20LETTERATURE%20STRANIERE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -983,13 +983,13 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>MEDIAZIONE CULTURALE - 1</summary>
+  <summary>MEDIAZIONE CULTURALE - Primo anno</summary>
 
   ### Laurea
   
   #### ANNO 1
-  - [1 - MEDIAZIONE CULTURALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE%20-%201/Laurea/MEDIAZIONE%20CULTURALE%20-%201%20-%20ANNO%201%20-%20MEDIAZIONE%20CULTURALE.ics)
-  - [1 - STUDI INTERCULTURALI ITALO-FRANCESI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE%20-%201/Laurea/MEDIAZIONE%20CULTURALE%20-%201%20-%20ANNO%201%20-%20STUDI%20INTERCULTURALI%20ITALO-FRANCESI.ics)
+  - [1 - MEDIAZIONE CULTURALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE%20-%20Primo%20anno/Laurea/MEDIAZIONE%20CULTURALE%20-%20Primo%20anno%20-%20ANNO%201%20-%20MEDIAZIONE%20CULTURALE.ics)
+  - [1 - STUDI INTERCULTURALI ITALO-FRANCESI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDIAZIONE%20CULTURALE%20-%20Primo%20anno/Laurea/MEDIAZIONE%20CULTURALE%20-%20Primo%20anno%20-%20ANNO%201%20-%20STUDI%20INTERCULTURALI%20ITALO-FRANCESI.ics)
   
 </details>
 <details>
@@ -1044,12 +1044,12 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>RELAZIONI PUBBLICHE - 1</summary>
+  <summary>RELAZIONI PUBBLICHE - Primo anno</summary>
 
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE%20-%201/Laurea/RELAZIONI%20PUBBLICHE%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno/Laurea/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1142,13 +1142,13 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>SCIENZE DELL'EDUCAZIONE - 1</summary>
+  <summary>SCIENZE DELL'EDUCAZIONE - Primo anno</summary>
 
   ### Laurea
   
   #### ANNO 1
-  - [1 - EDUCATORE DEI SERVIZI EDUCATIVI PER L'INFANZIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE%20-%201/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%201%20-%20ANNO%201%20-%20EDUCATORE%20DEI%20SERVIZI%20EDUCATIVI%20PER%20L%27INFANZIA.ics)
-  - [1 - EDUCATORE PROFESSIONALE SOCIO-PEDAGOGICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE%20-%201/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%201%20-%20ANNO%201%20-%20EDUCATORE%20PROFESSIONALE%20SOCIO-PEDAGOGICO.ics)
+  - [1 - EDUCATORE DEI SERVIZI EDUCATIVI PER L'INFANZIA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE%20-%20Primo%20anno/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%20Primo%20anno%20-%20ANNO%201%20-%20EDUCATORE%20DEI%20SERVIZI%20EDUCATIVI%20PER%20L%27INFANZIA.ics)
+  - [1 - EDUCATORE PROFESSIONALE SOCIO-PEDAGOGICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27EDUCAZIONE%20-%20Primo%20anno/Laurea/SCIENZE%20DELL%27EDUCAZIONE%20-%20Primo%20anno%20-%20ANNO%201%20-%20EDUCATORE%20PROFESSIONALE%20SOCIO-PEDAGOGICO.ics)
   
 </details>
 <details>
@@ -1441,12 +1441,12 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>TRADUZIONE E MEDIAZIONE CULTURALE - 1</summary>
+  <summary>TRADUZIONE E MEDIAZIONE CULTURALE - Primo anno</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%201/Laurea%20Magistrale/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%201%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%20Primo%20anno/Laurea%20Magistrale/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
