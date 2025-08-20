@@ -800,8 +800,8 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - Curriculum Storia globale ed europea](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%201%20-%20Curriculum%20Storia%20globale%20ed%20europea.ics)
   
   #### ANNO 2
-  - [2 - Curriculum Storia e insegnamento](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%202%20-%20Curriculum%20Storia%20e%20insegnamento.ics)
-  - [2 - Curriculum Storia e ricerca](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%202%20-%20Curriculum%20Storia%20e%20ricerca.ics)
+  - [2 - Curriculum Metodologie di ricerca e divulgazione della storia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%202%20-%20Curriculum%20Metodologie%20di%20ricerca%20e%20divulgazione%20della%20storia.ics)
+  - [2 - Curriculum Storia globale ed europea](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo/Laurea%20Magistrale/Interateneo%20in%20Studi%20storici.%20Dall%27antico%20al%20contemporaneo%20-%20ANNO%202%20-%20Curriculum%20Storia%20globale%20ed%20europea.ics)
   
 </details>
 <details>
