@@ -432,6 +432,18 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>Gestione del turismo culturale e degli eventi (classe LM-49)</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29/Laurea%20Magistrale/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29%20-%20ANNO%201%20-%20Unico.ics)
+  
+  #### ANNO 2
+  - [2 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29/Laurea%20Magistrale/Gestione%20del%20turismo%20culturale%20e%20degli%20eventi%20%28classe%20LM-49%29%20-%20ANNO%202%20-%20Unico.ics)
+  
+</details>
+<details>
   <summary>GIURISPRUDENZA - nuovo ordinamento</summary>
 
   ### Laurea Magistrale Ciclo Unico 5 anni
