@@ -194,7 +194,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20ANNO%202%20-%20COMUNE.ics)
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/2%20-%20COMUNE/ORGANIZZAZIONE%20E%20DINAMICHE%20DEI%20MASS%20MEDIA.ics)
   
 </details>
 <details>
@@ -203,7 +203,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/SOSTENIBILITA%27%20E%20COMUNICAZIONE%20STRATEGICA.ics)
   
 </details>
 <details>
@@ -1049,10 +1049,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%202%20-%20CORSO%20COMUNE.ics)
+  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/2%20-%20CORSO%20COMUNE/GEOMATICA%20E%20NUOVE%20TECNOLOGIE.ics)
   
   #### ANNO 3
-  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%203%20-%20CORSO%20COMUNE.ics)
+  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/3%20-%20CORSO%20COMUNE/LABORATORIO%20DI%20TECNICHE%20DI%20ORGANIZZAZIONE.ics)
   
 </details>
 <details>
@@ -1061,7 +1061,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno/Laurea/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/STORIA%20CONTEMPORANEA%20E%20D.%20COMUNICAZIONI%20DI%20MASSA.ics)
   
 </details>
 <details>
