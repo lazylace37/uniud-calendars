@@ -1325,7 +1325,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/VALUTAZIONE%20DELL%27%20EFFICACIA%20DEI%20SISTEMI%20FORMATIVI.ics)
   
 </details>
 <details>
