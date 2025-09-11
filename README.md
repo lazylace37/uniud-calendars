@@ -28,12 +28,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/2%20-%20ALLEVAMENTO%20ANIMALE/LABORATORIO%20DI%20IMMUNOLOGIA%20E%20PATOLOGIA.ics)
-  - [2 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/2%20-%20ASSISTENTE%20VETERINARIO/LABORATORIO%20DI%20IMMUNOLOGIA%20E%20PATOLOGIA.ics)
+  - [2 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%202%20-%20ALLEVAMENTO%20ANIMALE.ics)
+  - [2 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%202%20-%20ASSISTENTE%20VETERINARIO.ics)
   
   #### ANNO 3
-  - [3 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/3%20-%20ALLEVAMENTO%20ANIMALE/PRINCIPI%20DI%20ECONOMIA%20E%20GESTIONE.ics)
-  - [3 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/3%20-%20ASSISTENTE%20VETERINARIO/TECNICHE%20INFERMIERISTICHE.ics)
+  - [3 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%203%20-%20ALLEVAMENTO%20ANIMALE.ics)
+  - [3 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%203%20-%20ASSISTENTE%20VETERINARIO.ics)
   
 </details>
 <details>
@@ -42,8 +42,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Primo%20anno/Laurea/1%20-%20ALLEVAMENTO%20ANIMALE/ISTOLOGIA%20E%20ANATOMIA%20DEGLI%20ANIMALI.ics)
-  - [1 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Primo%20anno/Laurea/1%20-%20ASSISTENTE%20VETERINARIO/ISTOLOGIA%20E%20ANATOMIA%20DEGLI%20ANIMALI.ics)
+  - [1 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Primo%20anno/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Primo%20anno%20-%20ANNO%201%20-%20ALLEVAMENTO%20ANIMALE.ics)
+  - [1 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Primo%20anno/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Primo%20anno%20-%20ANNO%201%20-%20ASSISTENTE%20VETERINARIO.ics)
   
 </details>
 <details>
@@ -52,7 +52,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO/TEORIE%20E%20TECNICHE%20DELLA%20COMPOSIZIONE%20ARCHITETTONICA.ics)
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA%20-%20I%20anno/Laurea%20Magistrale/ARCHITETTURA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -61,7 +61,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO/LABORATORIO%20INTEGRATO%20DI%20ARCHITETTURA%20SOSTENIBILE%20-%20Mod.%20III%20TECNOLOGIA%20DELL%27ARCHITETTURA.ics)
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA%20-%20II%20anno/Laurea%20Magistrale/ARCHITETTURA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -73,7 +73,7 @@ Search for your course and copy the link of the desired calendar; for example:
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/INFORMATION%20RETRIEVAL.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -82,14 +82,14 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/Appuntamenti%20del%20Marted%C3%AC%202%20anno%20LM.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea%20Magistrale/BANCA%20E%20FINANZA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/2%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%202%20anno%20LT.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/BANCA%20E%20FINANZA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/3%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%203%20anno%20LT.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA/Laurea/BANCA%20E%20FINANZA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -98,11 +98,11 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea/1%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%201%20anno%20LT.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea/BANCA%20E%20FINANZA-PRIMO%20ANNO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/Non%20solo%20finanza%201%20anno%20LM.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BANCA%20E%20FINANZA-PRIMO%20ANNO/Laurea%20Magistrale/BANCA%20E%20FINANZA-PRIMO%20ANNO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -134,10 +134,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/2%20-%20PERCORSO%20GENERICO/Modulo%20II%20-CHIMICA%20FISICA%20BIOLOGICA.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/BIOTECNOLOGIE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/3%20-%20PERCORSO%20GENERICO/MOD.%20II%20-%20MODELLI%20VEGETALI%20PER%20LE%20BIOTECNOLOGIE.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE/Laurea/BIOTECNOLOGIE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -146,7 +146,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/WELCOME%20DAY.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE%20-%20Primo%20anno/Laurea/BIOTECNOLOGIE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -155,7 +155,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - Percorso comune](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE%20MOLECOLARI/Laurea%20Magistrale/2%20-%20Percorso%20comune/TECNOLOGIE%20GENETICHE%20PER%20L%27INNOVAZIONE%20VEGETALE.ics)
+  - [2 - Percorso comune](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE%20MOLECOLARI/Laurea%20Magistrale/BIOTECNOLOGIE%20MOLECOLARI%20-%20ANNO%202%20-%20Percorso%20comune.ics)
   
 </details>
 <details>
@@ -164,7 +164,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE%20MOLECOLARI%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/TEORIA%20DEI%20GRAFI%20PER%20BIOINFORMATICA%20E%20SYSTEM%20BIOLOGY.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/BIOTECNOLOGIE%20MOLECOLARI%20-%20Primo%20anno/Laurea%20Magistrale/BIOTECNOLOGIE%20MOLECOLARI%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -173,10 +173,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20nuovo%20ordinamento/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/II%20MODULO%20-%20STORIA%20ECONOMICA%20D%27EUROPA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20nuovo%20ordinamento/Laurea%20Magistrale/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20nuovo%20ordinamento%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20nuovo%20ordinamento/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/LOGISTICS%2C%20TRANSPORT%20AND%20INTERNATIONAL%20TRADE%20LAW.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20nuovo%20ordinamento/Laurea%20Magistrale/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20nuovo%20ordinamento%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -185,7 +185,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20vecchio%20ordinamento/Laurea%20Magistrale/2%20-%20COMUNE/LOGISTICS%2C%20TRANSPORT%20AND%20INTERNATIONAL%20TRADE%20LAW.ics)
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20vecchio%20ordinamento/Laurea%20Magistrale/CITTADINANZA%2C%20ISTITUZIONI%20E%20POLITICHE%20EUROPEE%20-%20vecchio%20ordinamento%20-%20ANNO%202%20-%20COMUNE.ics)
   
 </details>
 <details>
@@ -194,7 +194,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/2%20-%20COMUNE/ORGANIZZAZIONE%20E%20DINAMICHE%20DEI%20MASS%20MEDIA.ics)
+  - [2 - COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20ANNO%202%20-%20COMUNE.ics)
   
 </details>
 <details>
@@ -203,7 +203,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/SOSTENIBILITA%27%20E%20COMUNICAZIONE%20STRATEGICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno/Laurea%20Magistrale/COMUNICAZIONE%20INTEGRATA%20PER%20LE%20IMPRESE%20E%20LE%20ORGANIZZAZIONI%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -212,13 +212,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/1%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS/PROGETTAZIONE%20DI%20APPLICAZIONI%20MOBILI.ics)
-  - [1 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/1%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN/INTELLIGENT%20AUDIO%20SYSTEMS.ics)
+  - [1 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%201%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS.ics)
+  - [1 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%201%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN.ics)
   
   #### ANNO 2
-  - [2 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/2%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS/ARTIFICIAL%20INTELLIGENCE%20FOR%20MULTIMEDIA.ics)
+  - [2 - ARTIFICIAL INTELLIGENCE, INDUSTRIAL AUTOMATION AND INTERNET OF THINGS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20ARTIFICIAL%20INTELLIGENCE%2C%20INDUSTRIAL%20AUTOMATION%20AND%20INTERNET%20OF%20THINGS.ics)
   - [2 - EDITORIA, MUSICA E COMUNICAZIONE DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20EDITORIA%2C%20MUSICA%20E%20COMUNICAZIONE%20DIGITALE.ics)
-  - [2 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/2%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN/PROGETTAZIONE%20DI%20APPLICAZIONI%20MOBILI.ics)
+  - [2 - SISTEMI MULTIMEDIALI E INTERACTION DESIGN](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/Laurea%20Magistrale/COMUNICAZIONE%20MULTIMEDIALE%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE%20-%20ANNO%202%20-%20SISTEMI%20MULTIMEDIALI%20E%20INTERACTION%20DESIGN.ics)
   
 </details>
 <details>
@@ -227,10 +227,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/2%20-%20PERCORSO%20COMUNE/STORIA%20E%20TECNICA%20DELLA%20FOTOGRAFIA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/3%20-%20PERCORSO%20COMUNE/TEORIE%20E%20PRATICHE%20DEL%20VIDEOGAME.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -239,7 +239,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/STORIA%20MODERNA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20Primo%20anno/Laurea/DAMS%20-%20DISCIPLINE%20DELL%27AUDIOVISIVO%2C%20DEI%20MEDIA%20E%20DELLO%20SPETTACOLO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -248,12 +248,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/1%20-%20IMPRESE/LINGUA%20INGLESE.ics)
-  - [1 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/1%20-%20PUBBLICHE%20AMMINISTRAZIONI/SAFETY%20MANAGEMENT%20E%20RESILIENZA.ics)
+  - [1 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%201%20-%20IMPRESE.ics)
+  - [1 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%201%20-%20PUBBLICHE%20AMMINISTRAZIONI.ics)
   
   #### ANNO 2
-  - [2 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/2%20-%20IMPRESE/LOGISTICS%2C%20TRANSPORT%20AND%20INTERNATIONAL%20TRADE%20LAW.ics)
-  - [2 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/2%20-%20PUBBLICHE%20AMMINISTRAZIONI/FINANZA%20PUBBLICA%20MULTILIVELLO%20-%20I%20MODULO.ics)
+  - [2 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%202%20-%20IMPRESE.ics)
+  - [2 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento/Laurea%20Magistrale/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%202%20-%20PUBBLICHE%20AMMINISTRAZIONI.ics)
   
 </details>
 <details>
@@ -262,8 +262,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20vecchio%20ordinamento/Laurea%20Magistrale/2%20-%20IMPRESE/LOGISTICS%2C%20TRASPORT%20AND%20INTERNATIONAL%20TRADE%20LAW.ics)
-  - [2 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20vecchio%20ordinamento/Laurea%20Magistrale/2%20-%20PUBBLICHE%20AMMINISTRAZIONI/KNOWLEDGE%20MANAGEMENT%20E%20CAPITALE%20INTELLETTUALE.ics)
+  - [2 - IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20vecchio%20ordinamento/Laurea%20Magistrale/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20vecchio%20ordinamento%20-%20ANNO%202%20-%20IMPRESE.ics)
+  - [2 - PUBBLICHE AMMINISTRAZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20vecchio%20ordinamento/Laurea%20Magistrale/DIRITTO%20PER%20L%27INNOVAZIONE%20DI%20IMPRESE%20E%20PUBBLICHE%20AMMINISTRAZIONI%20-%20vecchio%20ordinamento%20-%20ANNO%202%20-%20PUBBLICHE%20AMMINISTRAZIONI.ics)
   
 </details>
 <details>
@@ -272,19 +272,19 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/1%20-%20IMPRESA/TEORIA%20DELLA%20GIUSTIZIA%20E%20DEI%20DIRITTI.ics)
-  - [1 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/1%20-%20ISTITUZIONI/TEORIA%20DELLA%20GIUSTIZIA%20E%20DEI%20DIRITTI.ics)
-  - [1 - POLITICHE EUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/1%20-%20POLITICHE%20EUROPEE/STORIA%20DELLE%20ISTITUZIONI%20POLITICHE%20IN%20EUROPA.ics)
+  - [1 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%201%20-%20IMPRESA.ics)
+  - [1 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%201%20-%20ISTITUZIONI.ics)
+  - [1 - POLITICHE EUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%201%20-%20POLITICHE%20EUROPEE.ics)
   
   #### ANNO 2
-  - [2 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/2%20-%20IMPRESA/DIRITTO%20DELLA%20NAVIGAZIONE.ics)
-  - [2 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/2%20-%20ISTITUZIONI/DIRITTO%20DELLA%20NAVIGAZIONE.ics)
-  - [2 - POLITICHE EUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/2%20-%20POLITICHE%20EUROPEE/I%20MODULO%20-%20ECONOMIA%20AZIENDALE.ics)
+  - [2 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%202%20-%20IMPRESA.ics)
+  - [2 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%202%20-%20ISTITUZIONI.ics)
+  - [2 - POLITICHE EUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%202%20-%20POLITICHE%20EUROPEE.ics)
   
   #### ANNO 3
-  - [3 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/3%20-%20IMPRESA/DIRITTO%20PENALE%20DELL%27ECONOMIA.ics)
-  - [3 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/3%20-%20ISTITUZIONI/DIRITTO%20REGIONALE%20E%20DEGLI%20ENTI%20LOCALI.ics)
-  - [3 - POLITICHE EUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/3%20-%20POLITICHE%20EUROPEE/TUTELA%20DEI%20DIRITTI%20FONDAMENTALI%20NELL%27UNIONE%20EUROPEA.ics)
+  - [3 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%203%20-%20IMPRESA.ics)
+  - [3 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%203%20-%20ISTITUZIONI.ics)
+  - [3 - POLITICHE EUROPEE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20nuovo%20ordinamento%20-%20ANNO%203%20-%20POLITICHE%20EUROPEE.ics)
   
 </details>
 <details>
@@ -293,12 +293,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/2%20-%20IMPRESA/RAGIONERIA.ics)
-  - [2 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/2%20-%20ISTITUZIONI/DIRITTO%20DEI%20BENI%20CULTURALI.ics)
+  - [2 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento%20-%20ANNO%202%20-%20IMPRESA.ics)
+  - [2 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento%20-%20ANNO%202%20-%20ISTITUZIONI.ics)
   
   #### ANNO 3
-  - [3 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/3%20-%20IMPRESA/DIRITTO%20DELLA%20NAVIGAZIONE.ics)
-  - [3 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/3%20-%20ISTITUZIONI/DIRITTO%20AMMINISTRATIVO.ics)
+  - [3 - IMPRESA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento%20-%20ANNO%203%20-%20IMPRESA.ics)
+  - [3 - ISTITUZIONI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento/Laurea/DIRITTO%20PER%20LE%20IMPRESE%20E%20LE%20ISTITUZIONI%20-%20vecchio%20ordinamento%20-%20ANNO%203%20-%20ISTITUZIONI.ics)
   
 </details>
 <details>
@@ -307,9 +307,9 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE/LABORATORIO%20DI%20STRATEGIE%20E%20POLITICHE%20PER%20L%27AZIENDA.ics)
-  - [2 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20CONSULENZA%20AZIENDALE/FISCALITA%27%20DELL%27INNOVAZIONE.ics)
-  - [2 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/2%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE/MARKETING%20DEI%20SERVIZI%20PUBBLICI.ics)
+  - [2 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/ECONOMIA%20AZIENDALE%20-%20ANNO%202%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE.ics)
+  - [2 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/ECONOMIA%20AZIENDALE%20-%20ANNO%202%20-%20CONSULENZA%20AZIENDALE.ics)
+  - [2 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE/Laurea%20Magistrale/ECONOMIA%20AZIENDALE%20-%20ANNO%202%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE.ics)
   
 </details>
 <details>
@@ -318,12 +318,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/2%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
-  - [2 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/2%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
+  - [2 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/ECONOMIA%20AZIENDALE%20%28UDINE%29%20-%20ANNO%202%20-%20AMMINISTRAZIONE%20E%20CONTROLLO.ics)
+  - [2 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/ECONOMIA%20AZIENDALE%20%28UDINE%29%20-%20ANNO%202%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE.ics)
   
   #### ANNO 3
-  - [3 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/ORGANIZZAZIONE%20AZIENDALE.ics)
-  - [3 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/3%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/ORGANIZZAZIONE%20AZIENDALE.ics)
+  - [3 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/ECONOMIA%20AZIENDALE%20%28UDINE%29%20-%20ANNO%203%20-%20AMMINISTRAZIONE%20E%20CONTROLLO.ics)
+  - [3 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE%20%28UDINE%29/Laurea/ECONOMIA%20AZIENDALE%20%28UDINE%29%20-%20ANNO%203%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE.ics)
   
 </details>
 <details>
@@ -332,14 +332,14 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea/1%20-%20AMMINISTRAZIONE%20E%20CONTROLLO/STORIA%20ECONOMICA.ics)
-  - [1 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea/1%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE/STORIA%20ECONOMICA.ics)
+  - [1 - AMMINISTRAZIONE E CONTROLLO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea/ECONOMIA%20AZIENDALE-PRIMO%20ANNO%20-%20ANNO%201%20-%20AMMINISTRAZIONE%20E%20CONTROLLO.ics)
+  - [1 - MANAGEMENT E ORGANIZZAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea/ECONOMIA%20AZIENDALE-PRIMO%20ANNO%20-%20ANNO%201%20-%20MANAGEMENT%20E%20ORGANIZZAZIONE.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE/STRATEGIA%20E%20BUSINESS%20MODEL.ics)
-  - [1 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20CONSULENZA%20AZIENDALE/MISURAZIONI%20QUANTITATIVE%20PER%20L%27IMPRESA.ics)
-  - [1 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE/LABORATORIO%20DI%20CAPITALE%20INTELLETTUALE%20NELLE%20AZIENDE%20PUBBLICHE%20E%20DEI%20SERVIZI%20PUBBLICI.ics)
+  - [1 - AMMINISTRAZIONE E CONTROLLO NELLE IMPRESE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea%20Magistrale/ECONOMIA%20AZIENDALE-PRIMO%20ANNO%20-%20ANNO%201%20-%20AMMINISTRAZIONE%20E%20CONTROLLO%20NELLE%20IMPRESE.ics)
+  - [1 - CONSULENZA AZIENDALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea%20Magistrale/ECONOMIA%20AZIENDALE-PRIMO%20ANNO%20-%20ANNO%201%20-%20CONSULENZA%20AZIENDALE.ics)
+  - [1 - ECONOMIA E GESTIONE DELLE AMMINISTRAZIONI PUBBLICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20AZIENDALE-PRIMO%20ANNO/Laurea%20Magistrale/ECONOMIA%20AZIENDALE-PRIMO%20ANNO%20-%20ANNO%201%20-%20ECONOMIA%20E%20GESTIONE%20DELLE%20AMMINISTRAZIONI%20PUBBLICHE.ics)
   
 </details>
 <details>
@@ -348,12 +348,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/2%20-%20SCIENZE%20ECONOMICHE/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
-  - [2 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/2%20-%20SVILUPPO%20SOSTENIBILE/SISTEMI%20INFORMATIVI%20AZIENDALI.ics)
+  - [2 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/ECONOMIA%20E%20COMMERCIO%20-%20ANNO%202%20-%20SCIENZE%20ECONOMICHE.ics)
+  - [2 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/ECONOMIA%20E%20COMMERCIO%20-%20ANNO%202%20-%20SVILUPPO%20SOSTENIBILE.ics)
   
   #### ANNO 3
-  - [3 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/3%20-%20SCIENZE%20ECONOMICHE/SOCIOLOGIA.ics)
-  - [3 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/3%20-%20SVILUPPO%20SOSTENIBILE/POLITICA%20ECONOMICA%20E%20MONETARIA.ics)
+  - [3 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/ECONOMIA%20E%20COMMERCIO%20-%20ANNO%203%20-%20SCIENZE%20ECONOMICHE.ics)
+  - [3 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO/Laurea/ECONOMIA%20E%20COMMERCIO%20-%20ANNO%203%20-%20SVILUPPO%20SOSTENIBILE.ics)
   
 </details>
 <details>
@@ -362,8 +362,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO-PRIMO%20ANNO/Laurea/1%20-%20SCIENZE%20ECONOMICHE/STORIA%20ECONOMICA.ics)
-  - [1 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO-PRIMO%20ANNO/Laurea/1%20-%20SVILUPPO%20SOSTENIBILE/STORIA%20ECONOMICA.ics)
+  - [1 - SCIENZE ECONOMICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO-PRIMO%20ANNO/Laurea/ECONOMIA%20E%20COMMERCIO-PRIMO%20ANNO%20-%20ANNO%201%20-%20SCIENZE%20ECONOMICHE.ics)
+  - [1 - SVILUPPO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMIA%20E%20COMMERCIO-PRIMO%20ANNO/Laurea/ECONOMIA%20E%20COMMERCIO-PRIMO%20ANNO%20-%20ANNO%201%20-%20SVILUPPO%20SOSTENIBILE.ics)
   
 </details>
 <details>
@@ -372,8 +372,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/2%20-%20ECONOMICS/POLITICAL%20ECONOMY.ics)
-  - [2 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/2%20-%20SUSTAINABLE%20DEVELOPMENT/POLITICAL%20ECONOMY.ics)
+  - [2 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/ECONOMICS%20-%20SCIENZE%20ECONOMICHE%20-%20ANNO%202%20-%20ECONOMICS.ics)
+  - [2 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE/Laurea%20Magistrale/ECONOMICS%20-%20SCIENZE%20ECONOMICHE%20-%20ANNO%202%20-%20SUSTAINABLE%20DEVELOPMENT.ics)
   
 </details>
 <details>
@@ -382,8 +382,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20ECONOMICS/PUBLIC%20ECONOMICS.ics)
-  - [1 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20SUSTAINABLE%20DEVELOPMENT/PUBLIC%20ECONOMICS.ics)
+  - [1 - ECONOMICS](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE-PRIMO%20ANNO/Laurea%20Magistrale/ECONOMICS%20-%20SCIENZE%20ECONOMICHE-PRIMO%20ANNO%20-%20ANNO%201%20-%20ECONOMICS.ics)
+  - [1 - SUSTAINABLE DEVELOPMENT](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ECONOMICS%20-%20SCIENZE%20ECONOMICHE-PRIMO%20ANNO/Laurea%20Magistrale/ECONOMICS%20-%20SCIENZE%20ECONOMICHE-PRIMO%20ANNO%20-%20ANNO%201%20-%20SUSTAINABLE%20DEVELOPMENT.ics)
   
 </details>
 <details>
@@ -422,13 +422,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/1%20-%20PERCORSO%20GENERICO/PSICOLOGIA%20GENERALE.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/2%20-%20PERCORSO%20GENERICO/TRAUMATOLOGIA.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/3%20-%20PERCORSO%20GENERICO/TERAPIA%20DEL%20DOLORE%20E%20CURE%20PALLIATIVE.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29/Laurea/FISIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20FISIOTERAPISTA%29%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -449,19 +449,19 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale Ciclo Unico 5 anni
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/1%20-%20PERCORSO%20COMUNE/LINGUA%20INGLESE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20nuovo%20ordinamento%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/2%20-%20PERCORSO%20COMUNE/DIRITTO%20PUBBLICO%20COMPARATO.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20nuovo%20ordinamento%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/3%20-%20PERCORSO%20COMUNE/INFORMATICA%20GIURIDICA%20ED%20ETICA%20DELL%27INTELLIGENZA%20ARTIFICIALE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20nuovo%20ordinamento%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 4
-  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/4%20-%20PERCORSO%20COMUNE/PRINCIPI%20CONTABILI%20E%20DI%20BILANCIO.ics)
+  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20nuovo%20ordinamento%20-%20ANNO%204%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 5
-  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20COMUNE/TUTELA%20DEI%20DIRITTI%20FONDAMENTALI%20NELL%27UNIONE%20EUROPEA.ics)
+  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20nuovo%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20nuovo%20ordinamento%20-%20ANNO%205%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -470,20 +470,20 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale Ciclo Unico 5 anni
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/2%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20LINGUA%202.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20vecchio%20ordinamento%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/3%20-%20PERCORSO%20COMUNE/DIRITTO%20PUBBLICO%20COMPARATO.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20vecchio%20ordinamento%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 4
-  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/4%20-%20PERCORSO%20COMUNE/DIRITTO%20COSTITUZIONALE%20AVANZATO.ics)
+  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20vecchio%20ordinamento%20-%20ANNO%204%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 5
-  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/5%20-%20PERCORSO%20COMUNE/DIRITTO%20CIVILE%20I.ics)
+  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20vecchio%20ordinamento%20-%20ANNO%205%20-%20PERCORSO%20COMUNE.ics)
   
   #### insegnamentiascelta
   - [CLINICHE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20vecchio%20ordinamento%20-%20CLINICHE.ics)
-  - [OPZIONALI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/OPZIONALI/STORIA%20DEL%20DIRITTO%20ROMANO.ics)
+  - [OPZIONALI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/GIURISPRUDENZA%20-%20vecchio%20ordinamento/Laurea%20Magistrale%20Ciclo%20Unico%205%20anni/GIURISPRUDENZA%20-%20vecchio%20ordinamento%20-%20OPZIONALI.ics)
   
 </details>
 <details>
@@ -492,8 +492,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials/SUSTAINABLE%20MANUFACTURING.ics)
-  - [1 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy/SUSTAINABLE%20MANUFACTURING.ics)
+  - [1 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
+  - [1 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
   
 </details>
 <details>
@@ -502,8 +502,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials/FUNDAMENTALS%20OF%20METALLURGY.ics)
-  - [2 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy/SUSTAINABLE%20ENERGY%20CONVERSION%20SYSTEMS.ics)
+  - [2 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
+  - [2 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
   
 </details>
 <details>
@@ -515,10 +515,10 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/2%20-%20PERCORSO%20GENERICO/UROLOGIA.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/3%20-%20PERCORSO%20GENERICO/STATISTICA%20MEDICA.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20PORDENONE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -530,10 +530,10 @@ Search for your course and copy the link of the desired calendar; for example:
   - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/2%20-%20PERCORSO%20GENERICO/UROLOGIA.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/3%20-%20PERCORSO%20GENERICO/RIANIMAZIONE%20ED%20EMERGENZA.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -542,20 +542,20 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/1%20-%20PERCORSO%20COMUNE/PROGRAMMAZIONE%20E%20LABORATORIO%20MODULO%20I.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/2%20-%20CORSO%20GENERICO/SISTEMI%20OPERATIVI%20E%20LABORATORIO.ics)
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/3%20-%20CORSO%20GENERICO/RETI%20DI%20CALCOLATORI.ics)
+  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%203%20-%20CORSO%20GENERICO.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/WEB%20SEMANTICO.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/INFORMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/2%20-%20CORSO%20GENERICO/GENERATIVE%20AI.ics)
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/INFORMATICA%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -564,8 +564,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO - percorso Geoingegneria e resilienza territoriale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geoingegneria%20e%20resilienza%20territoriale/UTILIZZO%20E%20TUTELA%20DELLE%20RISORSE%20IDRICHE%20SOTTERRANEE.ics)
-  - [1 - CURRICULUM UNICO - percorso Resilienza idraulica e protezione ambientale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Resilienza%20idraulica%20e%20protezione%20ambientale/UTILIZZO%20E%20TUTELA%20DELLE%20RISORSE%20IDRICHE%20SOTTERRANEE.ics)
+  - [1 - CURRICULUM UNICO - percorso Geoingegneria e resilienza territoriale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geoingegneria%20e%20resilienza%20territoriale.ics)
+  - [1 - CURRICULUM UNICO - percorso Resilienza idraulica e protezione ambientale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Resilienza%20idraulica%20e%20protezione%20ambientale.ics)
   
 </details>
 <details>
@@ -574,8 +574,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia/IMPIANTI%20TECNICI%20I.ics)
-  - [1 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture/TEORIA%20DELLE%20STRUTTURE.ics)
+  - [1 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia.ics)
+  - [1 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture.ics)
   
 </details>
 <details>
@@ -584,8 +584,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia/TECNICHE%20TOPOGRAFICHE%20DI%20CONTROLLO%20DEL%20TERRITORIO%20E%20DELLE%20COSTRUZIONI.ics)
-  - [2 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture/ADVANCES%20IN%20COMPUTATIONAL%20MECHANICS.ics)
+  - [2 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia.ics)
+  - [2 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture.ics)
   
 </details>
 <details>
@@ -594,12 +594,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/2%20-%20AMBIENTE%20E%20TERRITORIO/TOPOGRAFIA.ics)
-  - [2 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/2%20-%20CIVILE/TOPOGRAFIA.ics)
+  - [2 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20AMBIENTE%20E%20TERRITORIO.ics)
+  - [2 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CIVILE.ics)
   
   #### ANNO 3
-  - [3 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/3%20-%20AMBIENTE%20E%20TERRITORIO/TECNICA%20DELLE%20COSTRUZIONI.ics)
-  - [3 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/3%20-%20CIVILE/TECNICA%20DELLE%20COSTRUZIONI.ics)
+  - [3 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20AMBIENTE%20E%20TERRITORIO.ics)
+  - [3 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20CIVILE.ics)
   
 </details>
 <details>
@@ -608,7 +608,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE-%20I%20anno/Laurea/1%20-%20CURRICULUM%20UNICO/FONDAMENTI%20DI%20INFORMATICA.ics)
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE-%20I%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -617,12 +617,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/2%20-%20CURRICULUM%20UNICO/TEORIA%20DELLE%20RETI%20ELETTRICHE.ics)
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
   
   #### ANNO 3
-  - [3 - INFORMATICA E RETI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/3%20-%20INFORMATICA%20E%20RETI/MISURE%20ELETTRICHE.ics)
-  - [3 - MECCATRONICA E ROBOTICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/3%20-%20MECCATRONICA%20E%20ROBOTICA/MISURE%20ELETTRICHE.ics)
-  - [3 - SISTEMI ELETTRONICI E TECNOLOGIE DELL'INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/3%20-%20SISTEMI%20ELETTRONICI%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE/MISURE%20ELETTRICHE.ics)
+  - [3 - INFORMATICA E RETI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%203%20-%20INFORMATICA%20E%20RETI.ics)
+  - [3 - MECCATRONICA E ROBOTICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%203%20-%20MECCATRONICA%20E%20ROBOTICA.ics)
+  - [3 - SISTEMI ELETTRONICI E TECNOLOGIE DELL'INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20%20II%20e%20III%20anno%20-%20ANNO%203%20-%20SISTEMI%20ELETTRONICI%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE.ics)
   
 </details>
 <details>
@@ -631,14 +631,14 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea/1%20-%20CURRICULUM%20UNICO/STRUTTURE%20DATI%20E%20ALGORITMI.ics)
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti/VISIONE%20ARTIFICIALE.ics)
-  - [1 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale/TEORIA%20DEI%20SISTEMI%20E%20DEL%20CONTROLLO.ics)
-  - [1 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica/VISIONE%20ARTIFICIALE.ics)
-  - [1 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione/TEORIA%20DEI%20SISTEMI%20E%20DEL%20CONTROLLO.ics)
+  - [1 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti.ics)
+  - [1 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale.ics)
+  - [1 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica.ics)
+  - [1 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione.ics)
   
 </details>
 <details>
@@ -647,10 +647,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti/ELECTRONIC%20INSTRUMENTATION%20AND%20SENSORS.ics)
-  - [2 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale/NANOELECTRONIC%20DEVICES%20AND%20CIRCUITS%20WITH%20HIGH%20ENERGY%20EFFICIENCY%20FOR%20IOT%20APPLICATIONS.ics)
-  - [2 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica/ELECTRONIC%20INSTRUMENTATION%20AND%20SENSORS.ics)
-  - [2 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione/NANOELECTRONIC%20DEVICES%20AND%20CIRCUITS%20WITH%20HIGH%20ENERGY%20EFFICIENCY%20FOR%20IOT%20APPLICATIONS.ics)
+  - [2 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti.ics)
+  - [2 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale.ics)
+  - [2 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica.ics)
+  - [2 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione.ics)
   
 </details>
 <details>
@@ -659,16 +659,16 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea/1%20-%20CURRICULUM%20UNICO/STRUTTURE%20DATI%20E%20ALGORITMI.ics)
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - INGEGNERIA GESTIONALE - percorso Advanced manufacturing](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Advanced%20manufacturing/DATA%20ANALYTICS%20AND%20MACHINE%20LEARNING.ics)
-  - [1 - INGEGNERIA GESTIONALE - percorso Digital business and analytics](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Digital%20business%20and%20analytics/SERVICE%20MANAGEMENT.ics)
-  - [1 - INGEGNERIA GESTIONALE - percorso Environmental Sustainability](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Environmental%20Sustainability/TECNOLOGIE%20PER%20LA%20RIDUZIONE%20DEI%20GAS%20SERRA%20E%20LO%20STOCCAGGIO%20DI%20ENERGIA.ics)
-  - [1 - INGEGNERIA GESTIONALE - percorso Industrial management](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Industrial%20management/SERVICE%20MANAGEMENT.ics)
-  - [1 - INGEGNERIA GESTIONALE - percorso Information  and  communication technology](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Information%20%20and%20%20communication%20technology/DATA%20ANALYTICS%20AND%20MACHINE%20LEARNING.ics)
-  - [1 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/1%20-%20MANAGEMENT%20ENGINEERING/MODELS%20AND%20METHODS%20FOR%20DECISION-MAKING.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Advanced manufacturing](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Advanced%20manufacturing.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Digital business and analytics](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Digital%20business%20and%20analytics.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Environmental Sustainability](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Environmental%20Sustainability.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Industrial management](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Industrial%20management.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Information  and  communication technology](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Information%20%20and%20%20communication%20technology.ics)
+  - [1 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20I%20anno%20-%20ANNO%201%20-%20MANAGEMENT%20ENGINEERING.ics)
   
 </details>
 <details>
@@ -677,12 +677,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/2%20-%20INDUSTRIALE/STATISTICA%20E%20CALCOLO%20DELLE%20PROBABILITA.ics)
-  - [2 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/2%20-%20INFORMAZIONE/STATISTICA%20E%20CALCOLO%20DELLE%20PROBABILITA.ics)
+  - [2 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20INDUSTRIALE.ics)
+  - [2 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20INFORMAZIONE.ics)
   
   #### ANNO 3
-  - [3 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/3%20-%20INDUSTRIALE/TECNOLOGIA%20MECCANICA.ics)
-  - [3 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/3%20-%20INFORMAZIONE/ORGANIZZAZIONE%20DELLA%20PRODUZIONE.ics)
+  - [3 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20INDUSTRIALE.ics)
+  - [3 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20INFORMAZIONE.ics)
   
 </details>
 <details>
@@ -691,8 +691,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - INGEGNERIA GESTIONALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE-%20II%20anno/Laurea%20Magistrale/2%20-%20INGEGNERIA%20GESTIONALE/MARKETING%20AND%20PRODUCT%20DEVELOPMENT.ics)
-  - [2 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE-%20II%20anno/Laurea%20Magistrale/2%20-%20MANAGEMENT%20ENGINEERING/MARKETING%20AND%20PRODUCT%20DEVELOPMENT.ics)
+  - [2 - INGEGNERIA GESTIONALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE-%20II%20anno%20-%20ANNO%202%20-%20INGEGNERIA%20GESTIONALE.ics)
+  - [2 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE-%20II%20anno%20-%20ANNO%202%20-%20MANAGEMENT%20ENGINEERING.ics)
   
 </details>
 <details>
@@ -701,10 +701,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/1%20-%20PERCORSO%20COMUNE/FONDAMENTI%20DI%20INFORMATICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/2%20-%20PERCORSO%20COMUNE/SCIENZA%20E%20TECNOLOGIA%20DEI%20MATERIALI%20PER%20L%27INGEGNERIA%20ENERGETICA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -713,10 +713,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/2%20-%20PERCORSO%20COMUNE/TERMODINAMICA%20APPLICATA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/3%20-%20PERCORSO%20COMUNE/SCIENZA%20E%20TECNOLOGIA%20DEI%20MATERIALI.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -725,7 +725,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE-%20I%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/FONDAMENTI%20DI%20INFORMATICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE-%20I%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE-%20I%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -734,7 +734,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20I%20anno/Laurea/1%20-%20CURRICULUM%20UNICO/FONDAMENTI%20DI%20INFORMATICA.ics)
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20I%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -743,8 +743,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica/PROGETTAZIONE%20ASSISTITA%20DI%20STRUTTURE%20MECCANICHE.ics)
-  - [2 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione/TECNOLOGIE%20METALLURGICHE.ics)
+  - [2 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica.ics)
+  - [2 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione.ics)
   
 </details>
 <details>
@@ -753,10 +753,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno/Laurea/2%20-%20CURRICULUM%20UNICO/MECCANICA%20APPLICATA%20ALLE%20MACCHINE%20I.ics)
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
   
   #### ANNO 3
-  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno/Laurea/3%20-%20CURRICULUM%20UNICO/TECNOLOGIA%20MECCANICA%20II.ics)
+  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -765,8 +765,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica/SPERIMENTAZIONE%20SULLE%20MACCHINE%20E%20I%20SISTEMI%20ENERGETICI.ics)
-  - [1 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA-%20I%20anno/Laurea%20Magistrale/1%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione/SCIENZA%20E%20TECNOLOGIA%20DEI%20MATERIALI%20COMPOSITI.ics)
+  - [1 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica.ics)
+  - [1 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA-%20I%20anno/Laurea%20Magistrale/INGEGNERIA%20MECCANICA-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione.ics)
   
 </details>
 <details>
@@ -775,8 +775,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO - percorso Geotecnica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geotecnica/SISMOLOGIA%20APPLICATA%20ALL%27INGEGNERIA.ics)
-  - [2 - CURRICULUM UNICO - Percorso Idraulica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno/Laurea%20Magistrale/2%20-%20CURRICULUM%20UNICO%20-%20Percorso%20Idraulica/SICUREZZA%20E%20PROTEZIONE%20CIVILE.ics)
+  - [2 - CURRICULUM UNICO - percorso Geotecnica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geotecnica.ics)
+  - [2 - CURRICULUM UNICO - Percorso Idraulica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno/Laurea%20Magistrale/INGEGNERIA%20PER%20L%27AMBIENTE%2C%20IL%20TERRITORIO%20E%20LA%20PROTEZIONE%20CIVILE%20-%20II%20%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20Percorso%20Idraulica.ics)
   
 </details>
 <details>
@@ -836,7 +836,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/QUALITY%20MANAGEMENT.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION/Laurea%20Magistrale/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -845,7 +845,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION-PRIMO%20ANNO/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/STRATEGY%20and%20BUSINESS%20MODELS.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION-PRIMO%20ANNO/Laurea%20Magistrale/INTERNATIONAL%20MARKETING%2C%20MANAGEMENT%20AND%20ORGANIZATION-PRIMO%20ANNO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -871,13 +871,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/1%20-%20PERCORSO%20COMUNE/TECNOLOGIE%20WEB%20E%20LABORATORIO.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/2%20-%20PERCORSO%20COMUNE/STATISTICA%20E%20LABORATORIO.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/3%20-%20PERCORSO%20COMUNE/SOCIAL%20COMPUTING.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -954,7 +954,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MANAGEMENT%20and%20BUSINESS%20ANALYTICS/Laurea/1%20-%20PERCORSO%20COMUNE/PERSONAL%20DEVELOPMENT%20SEMINARS.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MANAGEMENT%20and%20BUSINESS%20ANALYTICS/Laurea/MANAGEMENT%20and%20BUSINESS%20ANALYTICS%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -963,20 +963,20 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/1%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20STRUMENTI%20INFORMATICI%20PER%20LA%20MATEMATICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/2%20-%20PERCORSO%20COMUNE/TEORIA%20DI%20GALOIS.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/3%20-%20PERCORSO%20COMUNE/PROBABILITA%27%20I.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/MATEMATICA%20FINANZIARIA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/STORIA%20DELLA%20MATEMATICA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/MATEMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1010,19 +1010,19 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale Ciclo Unico 6 anni
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/2%20-%20PERCORSO%20COMUNE/ISTOLOGIA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/3%20-%20PERCORSO%20COMUNE/TECNICHE%20RADIOLOGICHE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 4
-  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/4%20-%20PERCORSO%20COMUNE/NEFROLOGIA.ics)
+  - [4 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%204%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 5
-  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/5%20-%20PERCORSO%20COMUNE/TOSSICOLOGIA.ics)
+  - [5 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%205%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 6
-  - [6 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/6%20-%20PERCORSO%20COMUNE/PEDIATRIA.ics)
+  - [6 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MEDICINA%20E%20CHIRURGIA/Laurea%20Magistrale%20Ciclo%20Unico%206%20anni/MEDICINA%20E%20CHIRURGIA%20-%20ANNO%206%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1049,10 +1049,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/2%20-%20CORSO%20COMUNE/GEOMATICA%20E%20NUOVE%20TECNOLOGIE.ics)
+  - [2 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%202%20-%20CORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/3%20-%20CORSO%20COMUNE/LABORATORIO%20DI%20TECNICHE%20DI%20ORGANIZZAZIONE.ics)
+  - [3 - CORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE/Laurea/RELAZIONI%20PUBBLICHE%20-%20ANNO%203%20-%20CORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1061,7 +1061,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/STORIA%20CONTEMPORANEA%20E%20D.%20COMUNICAZIONI%20DI%20MASSA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno/Laurea/RELAZIONI%20PUBBLICHE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1070,10 +1070,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO/Laurea/2%20-%20PERCORSO%20COMUNE/SICUREZZA%20ALIMENTARE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO/Laurea/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO/Laurea/3%20-%20PERCORSO%20COMUNE/TECNOLOGIE%20DIGITALI%20PER%20IL%20CIBO%20E%20LA%20RISTORAZIONE.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO/Laurea/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1082,7 +1082,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/STRUTTURA%20E%20TRASFORMAZIONI%20DELLA%20MATERIA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20Primo%20anno/Laurea/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1091,10 +1091,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/PRINCIPI%20DI%20ECONOMIA%20CIRCOLARE%20APPLICATI%20AL%20SETTORE%20AGROALIMENTARE.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/RISCHIO%20CONTAMINANTI%20E%20TUTELA%20DELLA%20QUALITA%27%20DEGLI%20ALIMENTI.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO/Laurea%20Magistrale/SCIENZA%20ED%20ECONOMIA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1103,10 +1103,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE/Laurea/2%20-%20PERCORSO%20GENERICO/MICROBIOLOGIA.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE/Laurea/SCIENZE%20AGRARIE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE/Laurea/3%20-%20PERCORSO%20GENERICO/PATOLOGIA%20VEGETALE.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE/Laurea/SCIENZE%20AGRARIE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -1115,7 +1115,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20GENERICO/ZOOLOGIA%20GENERALE%20AGRARIA.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE%20-%20Primo%20anno/Laurea/SCIENZE%20AGRARIE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -1124,7 +1124,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20anno/Laurea/1%20-%20CURRICULUM%20UNICO/STORIA%20DELL%27ARCHITETTURA%201.ics)
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -1133,10 +1133,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno/Laurea/2%20-%20CURRICULUM%20UNICO/STATICA.ics)
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
   
   #### ANNO 3
-  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno/Laurea/3%20-%20CURRICULUM%20UNICO/DIRITTO%20AMMINISTRATIVO%20E%20AMBIENTALE.ics)
+  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20II%20e%20III%20anno%20-%20ANNO%203%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -1240,7 +1240,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20AGRARIE/Laurea%20Magistrale/2%20-%20PERCORSO%20GENERICO/TECNOLOGIA%20E%20IMPIANTISTICA%20PER%20L%27UTILIZZO%20DELLE%20COLTURE.ics)
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20AGRARIE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20AGRARIE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -1249,7 +1249,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20AGRARIE%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20PERCORSO%20COMUNE/VITICOLTURA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20AGRARIE%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20AGRARIE%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1258,16 +1258,16 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea/2%20-%20CORSO%20GENERICO/PRODOTTI%20DI%20ORIGINE%20ANIMALE.ics)
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea/3%20-%20CORSO%20GENERICO/TECNOLOGIA%20LATTIERO%20CASEARIA.ics)
+  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%203%20-%20CORSO%20GENERICO.ics)
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - ALIMENTI E NUTRIZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/2%20-%20ALIMENTI%20E%20NUTRIZIONE/RESEARCH%20AND%20DEVELOPMENT%20FOR%20FOOD%20PRODUCTION.ics)
-  - [2 - CONTROLLO E GESTIONE DELLA QUALITA' DEGLI ALIMENTI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/2%20-%20CONTROLLO%20E%20GESTIONE%20DELLA%20QUALITA%27%20DEGLI%20ALIMENTI/RESEARCH%20AND%20DEVELOPMENT%20FOR%20FOOD%20PRODUCTION.ics)
-  - [2 - TECNOLOGIE ALIMENTARI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/2%20-%20TECNOLOGIE%20ALIMENTARI/RESEARCH%20AND%20DEVELOPMENT%20FOR%20FOOD%20PRODUCTION.ics)
+  - [2 - ALIMENTI E NUTRIZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20ALIMENTI%20E%20NUTRIZIONE.ics)
+  - [2 - CONTROLLO E GESTIONE DELLA QUALITA' DEGLI ALIMENTI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20CONTROLLO%20E%20GESTIONE%20DELLA%20QUALITA%27%20DEGLI%20ALIMENTI.ics)
+  - [2 - TECNOLOGIE ALIMENTARI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20TECNOLOGIE%20ALIMENTARI.ics)
   
 </details>
 <details>
@@ -1276,13 +1276,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/PRODUZIONI%20VEGETALI.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - ALIMENTI E NUTRIZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20ALIMENTI%20E%20NUTRIZIONE/PHYSIOLOGY%20OF%20PERCEPTION.ics)
-  - [1 - CONTROLLO E GESTIONE DELLA QUALITA' DEGLI ALIMENTI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20CONTROLLO%20E%20GESTIONE%20DELLA%20QUALITA%27%20DEGLI%20ALIMENTI/PHYSIOLOGY%20OF%20PERCEPTION.ics)
-  - [1 - TECNOLOGIE ALIMENTARI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20TECNOLOGIE%20ALIMENTARI/PHYSIOLOGY%20OF%20PERCEPTION.ics)
+  - [1 - ALIMENTI E NUTRIZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno%20-%20ANNO%201%20-%20ALIMENTI%20E%20NUTRIZIONE.ics)
+  - [1 - CONTROLLO E GESTIONE DELLA QUALITA' DEGLI ALIMENTI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno%20-%20ANNO%201%20-%20CONTROLLO%20E%20GESTIONE%20DELLA%20QUALITA%27%20DEGLI%20ALIMENTI.ics)
+  - [1 - TECNOLOGIE ALIMENTARI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Primo%20anno%20-%20ANNO%201%20-%20TECNOLOGIE%20ALIMENTARI.ics)
   
 </details>
 <details>
@@ -1291,12 +1291,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/2%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE/RETI%20E%20TECNICHE%20PER%20LA%20COMUNICAZIONE%20MULTIMEDIALE.ics)
-  - [2 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/2%20-%20MUSICA%20DIGITALE/SEMIOGRAFIA%20DIGITALE%20DELLA%20MUSICA.ics)
+  - [2 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%202%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE.ics)
+  - [2 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%202%20-%20MUSICA%20DIGITALE.ics)
   
   #### ANNO 3
-  - [3 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/3%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE/LABORATORIO%20DI%20GAME%20PROGRAMMING.ics)
-  - [3 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/3%20-%20MUSICA%20DIGITALE/LABORATORIO%20DI%20GAME%20PROGRAMMING.ics)
+  - [3 - MULTIMEDIA E INDUSTRIA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%203%20-%20MULTIMEDIA%20E%20INDUSTRIA%20DIGITALE.ics)
+  - [3 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI/Laurea/SCIENZE%20E%20TECNOLOGIE%20MULTIMEDIALI%20-%20ANNO%203%20-%20MUSICA%20DIGITALE.ics)
   
 </details>
 <details>
@@ -1305,8 +1305,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - RECUPERO AMBIENTALE E TUTELA DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/2%20-%20RECUPERO%20AMBIENTALE%20E%20TUTELA%20DELLA%20BIODIVERSITA%27/FITOTECNOLOGIE.ics)
-  - [2 - TECNOLOGIE SOSTENIBILI E AMBIENTI ANTROPIZZATI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/2%20-%20TECNOLOGIE%20SOSTENIBILI%20E%20AMBIENTI%20ANTROPIZZATI/TECNOLOGIE%20PER%20LA%20RIDUZIONE%20DEI%20GAS%20SERRA%20E%20LO%20STOCCAGGIO%20DI%20ENERGIA.ics)
+  - [2 - RECUPERO AMBIENTALE E TUTELA DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%202%20-%20RECUPERO%20AMBIENTALE%20E%20TUTELA%20DELLA%20BIODIVERSITA%27.ics)
+  - [2 - TECNOLOGIE SOSTENIBILI E AMBIENTI ANTROPIZZATI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%202%20-%20TECNOLOGIE%20SOSTENIBILI%20E%20AMBIENTI%20ANTROPIZZATI.ics)
   
 </details>
 <details>
@@ -1315,8 +1315,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - RECUPERO AMBIENTALE E TUTELA DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20RECUPERO%20AMBIENTALE%20E%20TUTELA%20DELLA%20BIODIVERSITA%27/SERVIZI%20ECOSISTEMICI.ics)
-  - [1 - TECNOLOGIE SOSTENIBILI E AMBIENTI ANTROPIZZATI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20TECNOLOGIE%20SOSTENIBILI%20E%20AMBIENTI%20ANTROPIZZATI/SERVIZI%20ECOSISTEMICI.ics)
+  - [1 - RECUPERO AMBIENTALE E TUTELA DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20Primo%20anno%20-%20ANNO%201%20-%20RECUPERO%20AMBIENTALE%20E%20TUTELA%20DELLA%20BIODIVERSITA%27.ics)
+  - [1 - TECNOLOGIE SOSTENIBILI E AMBIENTI ANTROPIZZATI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20Primo%20anno/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20Primo%20anno%20-%20ANNO%201%20-%20TECNOLOGIE%20SOSTENIBILI%20E%20AMBIENTI%20ANTROPIZZATI.ics)
   
 </details>
 <details>
@@ -1325,7 +1325,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/2%20-%20PERCORSO%20COMUNE/VALUTAZIONE%20DELL%27%20EFFICACIA%20DEI%20SISTEMI%20FORMATIVI.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE/Laurea%20Magistrale/SCIENZE%20INFERMIERISTICHE%20E%20OSTETRICHE%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1355,12 +1355,12 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - DIFESA E VALORIZZAZIONE DELL?AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/2%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%3FAMBIENTE%20MONTANO-FORESTALE/SCIENZE%20DELLA%20TERRA.ics)
-  - [2 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA?](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/2%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%3F/SCIENZE%20DELLA%20TERRA.ics)
+  - [2 - DIFESA E VALORIZZAZIONE DELL?AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%202%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%3FAMBIENTE%20MONTANO-FORESTALE.ics)
+  - [2 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA?](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%202%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%3F.ics)
   
   #### ANNO 3
-  - [3 - DIFESA E VALORIZZAZIONE DELL?AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/3%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%3FAMBIENTE%20MONTANO-FORESTALE/FUNZIONALITA%27%20AMBIENTALE%20DEI%20SUOLI.ics)
-  - [3 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA?](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/3%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%3F/SELVICOLTURA%20E%20DENDROMETRIA.ics)
+  - [3 - DIFESA E VALORIZZAZIONE DELL?AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%203%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%3FAMBIENTE%20MONTANO-FORESTALE.ics)
+  - [3 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA?](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%203%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%3F.ics)
   
 </details>
 <details>
@@ -1369,8 +1369,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - DIFESA E VALORIZZAZIONE DELL?AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno/Laurea/1%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%3FAMBIENTE%20MONTANO-FORESTALE/MATEMATICA.ics)
-  - [1 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA?](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno/Laurea/1%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%3F/MATEMATICA.ics)
+  - [1 - DIFESA E VALORIZZAZIONE DELL?AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno%20-%20ANNO%201%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%3FAMBIENTE%20MONTANO-FORESTALE.ics)
+  - [1 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA?](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Primo%20anno%20-%20ANNO%201%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%3F.ics)
   
 </details>
 <details>
@@ -1379,7 +1379,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Semestre Filtro
   
   #### ANNO 1
-  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Semestre%20filtro%20di%20Medicina%20e%20Odontoiatria/Semestre%20Filtro/1%20-%20Unico/FISICA.ics)
+  - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Semestre%20filtro%20di%20Medicina%20e%20Odontoiatria/Semestre%20Filtro/Semestre%20filtro%20di%20Medicina%20e%20Odontoiatria%20-%20ANNO%201%20-%20Unico.ics)
   
 </details>
 <details>
@@ -1400,13 +1400,13 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/1%20-%20PERCORSO%20COMUNE/PRINCIPI%20DI%20FISICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/2%20-%20PERCORSO%20COMUNE/PRINCIPI%20DI%20PROGETTAZIONE%20ARCHITETTONICA%20E%20URBANA.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/3%20-%20PERCORSO%20COMUNE/LABORATORIO%20DI%20IMPIANTI%20TECNICI%20DEGLI%20EDIFICI.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1415,7 +1415,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20LABORATORIO%20BIOMEDICO%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20LABORATORIO%20BIOMEDICO%29/Laurea/1%20-%20PERCORSO%20GENERICO/STATISTICA%20MEDICA.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20LABORATORIO%20BIOMEDICO%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20LABORATORIO%20BIOMEDICO%29/Laurea/TECNICHE%20DI%20LABORATORIO%20BIOMEDICO%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20LABORATORIO%20BIOMEDICO%29%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
   - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20LABORATORIO%20BIOMEDICO%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20LABORATORIO%20BIOMEDICO%29/Laurea/TECNICHE%20DI%20LABORATORIO%20BIOMEDICO%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20LABORATORIO%20BIOMEDICO%29%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
@@ -1427,10 +1427,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29/Laurea/1%20-%20PERCORSO%20GENERICO/RADIOPROTEZIONE.ics)
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29/Laurea/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29/Laurea/3%20-%20PERCORSO%20GENERICO/TECNICHE%2C%20APPARECCHIATURE%20E%20PROTOCOLLI%20IN%20SENOLOGIA.ics)
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29/Laurea/TECNICHE%20DI%20RADIOLOGIA%20MEDICA%2C%20PER%20IMMAGINI%20E%20RADIOTERAPIA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20TECNICO%20DI%20RADIOLOGIA%20MEDICA%29%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
   
 </details>
 <details>
@@ -1439,8 +1439,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - DIGITAL IMAGING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/1%20-%20DIGITAL%20IMAGING/SOCIOLOGIA%20DELLA%20COMUNICAZIONE.ics)
-  - [1 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/1%20-%20MUSICA%20DIGITALE/TEORIE%20E%20SCRITTURE%20MUSICALI.ics)
+  - [1 - DIGITAL IMAGING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE%20-%20ANNO%201%20-%20DIGITAL%20IMAGING.ics)
+  - [1 - MUSICA DIGITALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE/Laurea/TECNOLOGIE%20DIGITALI%20E%20COMUNICAZIONE%20PER%20LE%20INDUSTRIE%20CREATIVE%20-%20ANNO%201%20-%20MUSICA%20DIGITALE.ics)
   
 </details>
 <details>
@@ -1467,8 +1467,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - ALLEVAMENTO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/2%20-%20ALLEVAMENTO%20SOSTENIBILE/TRASFORMAZIONE%20E%20CONSERVAZIONE%20DEI%20PRODOTTI%20DI%20ORIGINE%20ANIMALE.ics)
-  - [2 - TUTELA ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/2%20-%20TUTELA%20ANIMALE/GESTIONE%20E%20TUTELA%20DELLE%20PICCOLE%20SPECIE%20ORNAMENTALI.ics)
+  - [2 - ALLEVAMENTO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20ANNO%202%20-%20ALLEVAMENTO%20SOSTENIBILE.ics)
+  - [2 - TUTELA ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20ANNO%202%20-%20TUTELA%20ANIMALE.ics)
   
 </details>
 <details>
@@ -1477,8 +1477,8 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 1
-  - [1 - ALLEVAMENTO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20ALLEVAMENTO%20SOSTENIBILE/SISTEMI%20ZOOTECNICI%20SOSTENIBILI%20E%20BIOLOGICI.ics)
-  - [1 - TUTELA ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20Primo%20anno/Laurea%20Magistrale/1%20-%20TUTELA%20ANIMALE/SISTEMI%20ZOOTECNICI%20SOSTENIBILI%20E%20BIOLOGICI.ics)
+  - [1 - ALLEVAMENTO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20Primo%20anno/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20Primo%20anno%20-%20ANNO%201%20-%20ALLEVAMENTO%20SOSTENIBILE.ics)
+  - [1 - TUTELA ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20Primo%20anno/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20Primo%20anno%20-%20ANNO%201%20-%20TUTELA%20ANIMALE.ics)
   
 </details>
 <details>
@@ -1487,10 +1487,10 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 2
-  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA/Laurea/2%20-%20PERCORSO%20COMUNE/MORFOLOGIA%2C%20AMPELOGRAFIA%20E%20FISIOLOGIA%20DELLA%20VITE.ics)
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA/Laurea/VITICOLTURA%20ED%20ENOLOGIA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
   #### ANNO 3
-  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA/Laurea/3%20-%20PERCORSO%20COMUNE/TECNOLOGIA%20DEI%20DERIVATI%20DELLA%20FILIERA%20VITIVINICOLA.ics)
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA/Laurea/VITICOLTURA%20ED%20ENOLOGIA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1499,7 +1499,7 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea
   
   #### ANNO 1
-  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA%20-%20Primo%20anno/Laurea/1%20-%20PERCORSO%20COMUNE/MATEMATICA%20E%20STATISTICA.ics)
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA%20-%20Primo%20anno/Laurea/VITICOLTURA%20ED%20ENOLOGIA%20-%20Primo%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
@@ -1508,6 +1508,6 @@ Search for your course and copy the link of the desired calendar; for example:
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%2C%20ENOLOGIA%20E%20MERCATI%20VITIVINICOLI/Laurea%20Magistrale/2%20-%20CORSO%20GENERICO/WINERY%20MANAGEMENT%20AND%20CLIMATE%20CHANGE.ics)
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%2C%20ENOLOGIA%20E%20MERCATI%20VITIVINICOLI/Laurea%20Magistrale/VITICOLTURA%2C%20ENOLOGIA%20E%20MERCATI%20VITIVINICOLI%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
   
 </details>
