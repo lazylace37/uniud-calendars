@@ -61,7 +61,7 @@ def get_course_lessons(
             "anno": year,
             "corso": f"{courseId}",
             "anno2[]": f"{courseYearCode}",
-            "date": "01-09-2023",
+            "date": "01-08-2025",
             "all_events": "1",
         },
     ).json()

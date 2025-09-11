@@ -53,12 +53,12 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         c.events = sorted(c.events)
 
         ical_file_name = (
-            f'{course["label"]} - ANNO {anno["label"]}.ics'
+            f"{course['label']} - ANNO {anno['label']}.ics"
             if anno_di_insegnamento.isdigit()
-            else f'{course["label"]} - {anno["label"]}.ics'
+            else f"{course['label']} - {anno['label']}.ics"
         )
         ical_file_path_name = (
-            f'ical/{course["label"]}/{course["tipo"]}/{ical_file_name}'
+            f"ical/{course['label']}/{course['tipo']}/{ical_file_name}"
         )
         ical_file_path = Path(ical_file_path_name)
         ical_file_path.parent.mkdir(exist_ok=True, parents=True)
@@ -66,20 +66,20 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
             my_file.write(c.serialize())
         # endregion
 
+        link = f"https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/{urllib.parse.quote(ical_file_path_name)}"
+        course_dict[anno_di_insegnamento][anno["label"]] = link
+
         # region Create and save .ical file for each lesson
         for lesson_name, events in lessons_map.items():
             c = Calendar()
             c.events = events
             ical_file_name = f"{lesson_name}.ics"
-            ical_file_path_name = f'ical/{course["label"]}/{course["tipo"]}/{anno["label"]}/{ical_file_name}'
+            ical_file_path_name = f"ical/{course['label']}/{course['tipo']}/{anno['label']}/{ical_file_name}"
             ical_file_path = Path(ical_file_path_name)
             ical_file_path.parent.mkdir(exist_ok=True, parents=True)
             with open(str(ical_file_path), "w") as my_file:
                 my_file.write(c.serialize())
         # endregion
-
-        link = f"https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/{urllib.parse.quote(ical_file_path_name)}"
-        course_dict[anno_di_insegnamento][anno["label"]] = link
     print(f"Done {course['label']} - {course['tipo']}")
     return course["label"], course["tipo"], course_dict
 
@@ -108,7 +108,7 @@ def main():
             ]
         )
     results = loop.run_until_complete(future)
-    print(f"Download courses timetables took {(datetime.now()-now).total_seconds()}s")
+    print(f"Download courses timetables took {(datetime.now() - now).total_seconds()}s")
 
     all_courses: defaultdict = nesteddefaultdict()
     for course_label, course_type, course_dict in results:
