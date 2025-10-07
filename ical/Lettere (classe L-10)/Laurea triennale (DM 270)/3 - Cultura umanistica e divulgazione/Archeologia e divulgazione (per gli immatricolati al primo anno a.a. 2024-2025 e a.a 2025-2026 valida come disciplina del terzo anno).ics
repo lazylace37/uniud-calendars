@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART:20250922T140000
+DTEND:20250922T153000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1758549600
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250924T083000
+DTEND:20250924T100000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1758702600
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251006T140000
+DTEND:20251006T153000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1759759200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251008T083000
+DTEND:20251008T100000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1759912200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251010T103000
+DTEND:20251010T120000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1760092200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T140000
+DTEND:20251013T153000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1760364000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T083000
+DTEND:20251015T100000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1760517000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T103000
+DTEND:20251017T120000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1760697000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251020T140000
+DTEND:20251020T153000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1760968800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T083000
+DTEND:20251022T100000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1761121800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T103000
+DTEND:20251024T120000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1761301800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251027T150000
+DTEND:20251027T163000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1761577200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T093000
+DTEND:20251029T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1761730200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T113000
+DTEND:20251031T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1761910200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T150000
+DTEND:20251103T163000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1762182000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T093000
+DTEND:20251105T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1762335000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T113000
+DTEND:20251107T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1762515000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251110T150000
+DTEND:20251110T163000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1762786800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T093000
+DTEND:20251112T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1762939800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T113000
+DTEND:20251114T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1763119800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T150000
+DTEND:20251117T163000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1763391600
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T093000
+DTEND:20251119T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1763544600
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T113000
+DTEND:20251121T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1763724600
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T150000
+DTEND:20251124T163000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1763996400
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T093000
+DTEND:20251126T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1764149400
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251128T113000
+DTEND:20251128T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1764329400
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T150000
+DTEND:20251201T163000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1764601200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T093000
+DTEND:20251203T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1764754200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T113000
+DTEND:20251205T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1764934200
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T093000
+DTEND:20251210T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1765359000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T113000
+DTEND:20251212T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1765539000
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T150000
+DTEND:20251215T163000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1765810800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T093000
+DTEND:20251217T110000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1765963800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T113000
+DTEND:20251219T130000
+SUMMARY:Archeologia e divulgazione (per gli immatricolati al primo anno 
+ a.a. 2024-2025 e a.a 2025-2026 valida come disciplina del terzo anno)
+UID:1766143800
+LOCATION:Rubinich Marina - Aula 12 [Palazzo Antonini]
+LAST-MODIFIED:20251007T004156Z
+DTSTAMP:20251007T004245Z
+END:VEVENT
+END:VCALENDAR
