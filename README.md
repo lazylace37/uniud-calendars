@@ -1374,6 +1374,35 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>SCUOLA SUPERIORE - 2 ANNI</summary>
+
+  ### Corso Ordinario Secondo Livello
+  
+  #### Comune
+  - [PERCORSO CLASSE SCIENTIFICO-ECONOMICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCUOLA%20SUPERIORE%20-%202%20ANNI/Corso%20Ordinario%20Secondo%20Livello/SCUOLA%20SUPERIORE%20-%202%20ANNI%20-%20PERCORSO%20CLASSE%20SCIENTIFICO-ECONOMICA.ics)
+  - [PERCORSO CLASSE UMANISTICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCUOLA%20SUPERIORE%20-%202%20ANNI/Corso%20Ordinario%20Secondo%20Livello/SCUOLA%20SUPERIORE%20-%202%20ANNI%20-%20PERCORSO%20CLASSE%20UMANISTICA.ics)
+  
+</details>
+<details>
+  <summary>SCUOLA SUPERIORE - 5 ANNI</summary>
+
+  ### Corso Ordinario Ciclo Unico 5 Anni
+  
+  #### Comune
+  - [PERCORSO AREA SCIENTIFICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCUOLA%20SUPERIORE%20-%205%20ANNI/Corso%20Ordinario%20Ciclo%20Unico%205%20Anni/SCUOLA%20SUPERIORE%20-%205%20ANNI%20-%20PERCORSO%20AREA%20SCIENTIFICA.ics)
+  - [PERCORSO AREA UMANISTICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCUOLA%20SUPERIORE%20-%205%20ANNI/Corso%20Ordinario%20Ciclo%20Unico%205%20Anni/SCUOLA%20SUPERIORE%20-%205%20ANNI%20-%20PERCORSO%20AREA%20UMANISTICA.ics)
+  
+</details>
+<details>
+  <summary>SCUOLA SUPERIORE - 6 ANNI</summary>
+
+  ### Corso Ordinario Ciclo Unico 6 Anni
+  
+  #### Comune
+  - [PERCORSO AREA MEDICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCUOLA%20SUPERIORE%20-%206%20ANNI/Corso%20Ordinario%20Ciclo%20Unico%206%20Anni/SCUOLA%20SUPERIORE%20-%206%20ANNI%20-%20PERCORSO%20AREA%20MEDICA.ics)
+  
+</details>
+<details>
   <summary>Semestre filtro di Medicina e Odontoiatria</summary>
 
   ### Semestre Filtro
