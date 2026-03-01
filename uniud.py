@@ -1,12 +1,27 @@
 import json
-from datetime import datetime
-from typing import Dict, List, Tuple, TypedDict
+from datetime import datetime, timezone
+from typing import Any, Dict, List, Tuple, TypedDict
 
 import requests
 
-from models import Closure, Lesson
-
 s = requests.Session()
+
+
+class Event:
+    start_date: datetime
+    end_date: datetime
+
+
+class Lesson(Event):
+    id: str
+    room: str
+    nome_insegnamento: str
+    docente: str
+    # mail_docente: str
+
+
+class Closure(Event):
+    pass
 
 
 class Year(TypedDict):
@@ -61,7 +76,7 @@ def get_course_lessons(
             "anno": year,
             "corso": f"{courseId}",
             "anno2[]": f"{courseYearCode}",
-            "date": "01-08-2025",
+            "date": "31-01-2026",
             "all_events": "1",
         },
     ).json()
@@ -78,7 +93,7 @@ def get_course_lessons(
             lesson.docente = cella["docente"]
             # lesson.mail_docente = cella["mail_docente"]
 
-            lesson.start_date = datetime.fromtimestamp(cella["timestamp"])
+            lesson.start_date = datetime.fromtimestamp(cella["timestamp"], timezone.utc)
 
             start_time = datetime.strptime(cella["ora_inizio"], "%H:%M")
             end_time = datetime.strptime(cella["ora_fine"], "%H:%M")
@@ -88,7 +103,9 @@ def get_course_lessons(
             lessons.append(lesson)
         elif tipo == "chiusura_type":
             closure = Closure()
-            closure.start_date = datetime.fromtimestamp(cella["timestamp"])
+            closure.start_date = datetime.fromtimestamp(
+                cella["timestamp"], timezone.utc
+            )
 
             start_time = datetime.strptime(cella["ora_inizio"], "%H:%M")
             end_time = datetime.strptime(
@@ -101,5 +118,5 @@ def get_course_lessons(
     return lessons, closures
 
 
-def extract_json_from_eval(dirty_string: str) -> Dict:
+def extract_json_from_eval(dirty_string: str) -> Any:
     return json.loads(dirty_string.split("=")[1].split(";")[0])

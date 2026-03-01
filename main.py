@@ -3,13 +3,51 @@ import concurrent.futures
 import json
 import urllib.parse
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
-from ics import Calendar, Event
 from jinja2 import Environment, FileSystemLoader
 
 from uniud import Course, get_course_lessons, get_year_courses, get_years
+
+
+def format_datetime(dt: datetime) -> str:
+    return dt.strftime("%Y%m%dT%H%M%SZ")
+
+
+def create_vevent(
+    summary: str,
+    uid: str,
+    dtstart: str,
+    dtend: str,
+    dtstamp: str,
+    last_modified: str,
+    location: str | None = None,
+) -> str:
+    location_line = f"LOCATION:{location}\n" if location else ""
+    return (
+        f"BEGIN:VEVENT\n"
+        f"DTSTART:{dtstart}\n"
+        f"DTEND:{dtend}\n"
+        f"SUMMARY:{summary}\n"
+        f"UID:{uid}\n"
+        f"LAST-MODIFIED:{last_modified}\n"
+        f"DTSTAMP:{dtstamp}\n"
+        f"{location_line}"
+        f"END:VEVENT"
+    )
+
+
+def create_calendar(events: list[str]) -> str:
+    return (
+        "BEGIN:VCALENDAR\n"
+        "VERSION:2.0\n"
+        "PRODID:-//University of Udine//Timetables//EN\n"
+        "CALSCALE:GREGORIAN\n"
+        "METHOD:PUBLISH\n"
+        "X-WR-TIMEZONE:Europe/Rome\n" + "\n".join(events) + "\n"
+        "END:VCALENDAR"
+    )
 
 
 def nesteddefaultdict():
@@ -27,30 +65,37 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         )
 
         # region Create and save .ical file
-        c = Calendar()
+        dtstamp = format_datetime(now)
+        last_modified = format_datetime(now)
+
+        vevents = []
         for lesson in lessons:
-            e = Event(
+            uid = f"{(int)(lesson.start_date.timestamp())}"
+            vevent = create_vevent(
                 summary=lesson.nome_insegnamento,
-                uid=f"{(int)(lesson.start_date.timestamp())}",
-                begin=lesson.start_date,
-                end=lesson.end_date,
-                last_modified=now,
+                uid=uid,
+                dtstart=format_datetime(lesson.start_date),
+                dtend=format_datetime(lesson.end_date),
+                dtstamp=dtstamp,
+                last_modified=last_modified,
                 location=f"{lesson.docente} - {lesson.room}",
             )
-            lessons_map[e.summary].append(e)
-            c.events.append(e)
+            vevents.append(vevent)
+            lessons_map[lesson.nome_insegnamento].append(vevent)
         for closure in closures:
-            e = Event(
+            uid = f"{(int)(closure.start_date.timestamp())}"
+            vevent = create_vevent(
                 summary="HOLIDAY: lessons not scheduled",
-                uid=f"{(int)(closure.start_date.timestamp())}",
-                begin=closure.start_date,
-                end=closure.end_date,
-                last_modified=now,
+                uid=uid,
+                dtstart=format_datetime(closure.start_date),
+                dtend=format_datetime(closure.end_date),
+                dtstamp=dtstamp,
+                last_modified=last_modified,
             )
-            c.events.append(e)
+            vevents.append(vevent)
 
         # Sort events
-        c.events = sorted(c.events)
+        vevents.sort(key=lambda e: e.split("DTSTART:")[1].split("\n")[0])
 
         ical_file_name = (
             f"{course['label']} - ANNO {anno['label']}.ics"
@@ -62,23 +107,22 @@ def get_course_timetables(course: Course, latest_year: int, now: datetime):
         )
         ical_file_path = Path(ical_file_path_name)
         ical_file_path.parent.mkdir(exist_ok=True, parents=True)
-        with open(str(ical_file_path), "w") as my_file:
-            my_file.write(c.serialize())
+        with open(str(ical_file_path), "w") as f:
+            f.write(create_calendar(vevents))
         # endregion
 
         link = f"https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/{urllib.parse.quote(ical_file_path_name)}"
         course_dict[anno_di_insegnamento][anno["label"]] = link
 
         # region Create and save .ical file for each lesson
-        for lesson_name, events in lessons_map.items():
-            c = Calendar()
-            c.events = events
+        for lesson_name, vevents in lessons_map.items():
+            vevents.sort(key=lambda e: e.split("DTSTART:")[1].split("\n")[0])
             ical_file_name = f"{lesson_name}.ics"
             ical_file_path_name = f"ical/{course['label']}/{course['tipo']}/{anno['label']}/{ical_file_name}"
             ical_file_path = Path(ical_file_path_name)
             ical_file_path.parent.mkdir(exist_ok=True, parents=True)
-            with open(str(ical_file_path), "w") as my_file:
-                my_file.write(c.serialize())
+            with open(str(ical_file_path), "w") as f:
+                f.write(create_calendar(vevents))
         # endregion
     print(f"Done {course['label']} - {course['tipo']}")
     return course["label"], course["tipo"], course_dict
@@ -96,7 +140,7 @@ def main():
     latest_year = int(ordered_years[0]["valore"])
     lastest_year_courses = get_year_courses(latest_year)
 
-    now = datetime.now()
+    now = datetime.now(timezone.utc)
     loop = asyncio.get_event_loop()
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         future = asyncio.gather(
@@ -108,7 +152,8 @@ def main():
             ]
         )
     results = loop.run_until_complete(future)
-    print(f"Download courses timetables took {(datetime.now() - now).total_seconds()}s")
+    results_time_s = (datetime.now(timezone.utc) - now).total_seconds()
+    print(f"Download courses timetables took {results_time_s}s")
 
     all_courses: defaultdict = nesteddefaultdict()
     for course_label, course_type, course_dict in results:
