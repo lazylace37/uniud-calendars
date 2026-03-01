@@ -1,4 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+PRODID:-//University of Udine//Timetables//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Rome
+
 END:VCALENDAR
