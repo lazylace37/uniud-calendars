@@ -23,6 +23,30 @@ Search for your course and copy the link of the desired calendar; for example:
 ## Calendar Links
 
 <details>
+  <summary>ALLEVAMENTO E SALUTE ANIMALE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%201%20-%20ALLEVAMENTO%20ANIMALE.ics)
+  - [1 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%201%20-%20ASSISTENTE%20VETERINARIO.ics)
+  
+  #### ANNO 2
+  - [2 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%202%20-%20ALLEVAMENTO%20ANIMALE.ics)
+  - [2 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20ANNO%202%20-%20ASSISTENTE%20VETERINARIO.ics)
+  
+</details>
+<details>
+  <summary>ALLEVAMENTO E SALUTE ANIMALE - Terzo anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - ALLEVAMENTO ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Terzo%20anno/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Terzo%20anno%20-%20ANNO%203%20-%20ALLEVAMENTO%20ANIMALE.ics)
+  - [3 - ASSISTENTE VETERINARIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Terzo%20anno/Laurea/ALLEVAMENTO%20E%20SALUTE%20ANIMALE%20-%20Terzo%20anno%20-%20ANNO%203%20-%20ASSISTENTE%20VETERINARIO.ics)
+  
+</details>
+<details>
   <summary>BANCA E FINANZA</summary>
 
   ### Laurea Magistrale
@@ -487,6 +511,48 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>SCIENZA E CULTURA DEL CIBO</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO/Laurea/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO/Laurea/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>SCIENZA E CULTURA DEL CIBO - Terzo anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20Terzo%20anno/Laurea/SCIENZA%20E%20CULTURA%20DEL%20CIBO%20-%20Terzo%20anno%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE AGRARIE</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE/Laurea/SCIENZE%20AGRARIE%20-%20ANNO%201%20-%20PERCORSO%20GENERICO.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE/Laurea/SCIENZE%20AGRARIE%20-%20ANNO%202%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE AGRARIE - Terzo anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20AGRARIE%20-%20Terzo%20anno/Laurea/SCIENZE%20AGRARIE%20-%20Terzo%20anno%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
   <summary>SCIENZE DELL'EDUCAZIONE</summary>
 
   ### Laurea
@@ -561,6 +627,64 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>SCIENZE E TECNOLOGIE AGRARIE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20AGRARIE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20AGRARIE%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20AGRARIE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20AGRARIE%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE E TECNOLOGIE ALIMENTARI</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - ALIMENTI E NUTRIZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%201%20-%20ALIMENTI%20E%20NUTRIZIONE.ics)
+  - [1 - CONTROLLO E GESTIONE DELLA QUALITA' DEGLI ALIMENTI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%201%20-%20CONTROLLO%20E%20GESTIONE%20DELLA%20QUALITA%27%20DEGLI%20ALIMENTI.ics)
+  - [1 - TECNOLOGIE ALIMENTARI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%201%20-%20TECNOLOGIE%20ALIMENTARI.ics)
+  
+  #### ANNO 2
+  - [2 - ALIMENTI E NUTRIZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20ALIMENTI%20E%20NUTRIZIONE.ics)
+  - [2 - CONTROLLO E GESTIONE DELLA QUALITA' DEGLI ALIMENTI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20CONTROLLO%20E%20GESTIONE%20DELLA%20QUALITA%27%20DEGLI%20ALIMENTI.ics)
+  - [2 - TECNOLOGIE ALIMENTARI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20ANNO%202%20-%20TECNOLOGIE%20ALIMENTARI.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE E TECNOLOGIE ALIMENTARI - Terzo anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Terzo%20anno/Laurea/SCIENZE%20E%20TECNOLOGIE%20ALIMENTARI%20-%20Terzo%20anno%20-%20ANNO%203%20-%20CORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE E TECNOLOGIE SOSTENIBILI PER L'AMBIENTE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - RECUPERO AMBIENTALE E TUTELA DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%201%20-%20RECUPERO%20AMBIENTALE%20E%20TUTELA%20DELLA%20BIODIVERSITA%27.ics)
+  - [1 - TECNOLOGIE SOSTENIBILI E AMBIENTI ANTROPIZZATI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%201%20-%20TECNOLOGIE%20SOSTENIBILI%20E%20AMBIENTI%20ANTROPIZZATI.ics)
+  
+  #### ANNO 2
+  - [2 - RECUPERO AMBIENTALE E TUTELA DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%202%20-%20RECUPERO%20AMBIENTALE%20E%20TUTELA%20DELLA%20BIODIVERSITA%27.ics)
+  - [2 - TECNOLOGIE SOSTENIBILI E AMBIENTI ANTROPIZZATI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE/Laurea%20Magistrale/SCIENZE%20E%20TECNOLOGIE%20SOSTENIBILI%20PER%20L%27AMBIENTE%20-%20ANNO%202%20-%20TECNOLOGIE%20SOSTENIBILI%20E%20AMBIENTI%20ANTROPIZZATI.ics)
+  
+</details>
+<details>
   <summary>SCIENZE INFERMIERISTICHE E OSTETRICHE - PROFILO INFERMIERISTICO</summary>
 
   ### Laurea Magistrale
@@ -588,6 +712,30 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 3
   - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20MOTORIE%20-%20terzo%20anno/Laurea/SCIENZE%20MOTORIE%20-%20terzo%20anno%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE PER L'AMBIENTE E LA NATURA</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - DIFESA E VALORIZZAZIONE DELL'AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%201%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%27AMBIENTE%20MONTANO-FORESTALE.ics)
+  - [1 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%201%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%27.ics)
+  
+  #### ANNO 2
+  - [2 - DIFESA E VALORIZZAZIONE DELL'AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%202%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%27AMBIENTE%20MONTANO-FORESTALE.ics)
+  - [2 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20ANNO%202%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%27.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE PER L'AMBIENTE E LA NATURA - Terzo anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - DIFESA E VALORIZZAZIONE DELL'AMBIENTE MONTANO-FORESTALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Terzo%20anno/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Terzo%20anno%20-%20ANNO%203%20-%20DIFESA%20E%20VALORIZZAZIONE%20DELL%27AMBIENTE%20MONTANO-FORESTALE.ics)
+  - [3 - SALVAGUARDIA DEL PATRIMONIO NATURALE E DELLA BIODIVERSITA'](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Terzo%20anno/Laurea/SCIENZE%20PER%20L%27AMBIENTE%20E%20LA%20NATURA%20-%20Terzo%20anno%20-%20ANNO%203%20-%20SALVAGUARDIA%20DEL%20PATRIMONIO%20NATURALE%20E%20DELLA%20BIODIVERSITA%27.ics)
   
 </details>
 <details>
@@ -627,5 +775,49 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 2
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE/Laurea%20Magistrale/TRADUZIONE%20E%20MEDIAZIONE%20CULTURALE%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>TUTELA E BENESSERE ANIMALE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - ALLEVAMENTO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20ANNO%201%20-%20ALLEVAMENTO%20SOSTENIBILE.ics)
+  - [1 - TUTELA ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20ANNO%201%20-%20TUTELA%20ANIMALE.ics)
+  
+  #### ANNO 2
+  - [2 - ALLEVAMENTO SOSTENIBILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20ANNO%202%20-%20ALLEVAMENTO%20SOSTENIBILE.ics)
+  - [2 - TUTELA ANIMALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TUTELA%20E%20BENESSERE%20ANIMALE/Laurea%20Magistrale/TUTELA%20E%20BENESSERE%20ANIMALE%20-%20ANNO%202%20-%20TUTELA%20ANIMALE.ics)
+  
+</details>
+<details>
+  <summary>VITICOLTURA ED ENOLOGIA</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA/Laurea/VITICOLTURA%20ED%20ENOLOGIA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA/Laurea/VITICOLTURA%20ED%20ENOLOGIA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>VITICOLTURA ED ENOLOGIA - Terzo anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%20ED%20ENOLOGIA%20-%20Terzo%20anno/Laurea/VITICOLTURA%20ED%20ENOLOGIA%20-%20Terzo%20anno%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>VITICOLTURA, ENOLOGIA E MERCATI VITIVINICOLI</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 2
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%2C%20ENOLOGIA%20E%20MERCATI%20VITIVINICOLI/Laurea%20Magistrale/VITICOLTURA%2C%20ENOLOGIA%20E%20MERCATI%20VITIVINICOLI%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
   
 </details>
