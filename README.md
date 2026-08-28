@@ -825,11 +825,11 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
-  <summary>VITICOLTURA, ENOLOGIA E MERCATI VITIVINICOLI</summary>
+  <summary>VITICOLTURE, ENOLOGY AND WINE MARKETING</summary>
 
   ### Laurea Magistrale
   
   #### ANNO 2
-  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURA%2C%20ENOLOGIA%20E%20MERCATI%20VITIVINICOLI/Laurea%20Magistrale/VITICOLTURA%2C%20ENOLOGIA%20E%20MERCATI%20VITIVINICOLI%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
+  - [2 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/VITICOLTURE%2C%20ENOLOGY%20AND%20WINE%20MARKETING/Laurea%20Magistrale/VITICOLTURE%2C%20ENOLOGY%20AND%20WINE%20MARKETING%20-%20ANNO%202%20-%20CORSO%20GENERICO.ics)
   
 </details>
