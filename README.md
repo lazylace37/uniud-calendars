@@ -47,6 +47,18 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>ARCHITETTURA</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA/Laurea%20Magistrale/ARCHITETTURA%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARCHITETTURA/Laurea%20Magistrale/ARCHITETTURA%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
   <summary>BANCA E FINANZA</summary>
 
   ### Laurea Magistrale
@@ -347,6 +359,20 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>INDUSTRIAL ENGINEERING FOR SUSTAINABLE MANUFACTURING</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
+  - [1 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Metal productions and materials](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Metal%20productions%20and%20materials.ics)
+  - [2 - CURRICULUM UNICO - percorso Processing and environment/energy](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING/Laurea%20Magistrale/INDUSTRIAL%20ENGINEERING%20FOR%20SUSTAINABLE%20MANUFACTURING%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Processing%20and%20environment/energy.ics)
+  
+</details>
+<details>
   <summary>INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) PORDENONE</summary>
 
   ### Laurea
@@ -374,6 +400,210 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 3
   - [3 - PERCORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE/Laurea/INFERMIERISTICA%20%28ABILITANTE%20ALLA%20PROFESSIONE%20SANITARIA%20DI%20INFERMIERE%29%20UDINE%20-%20ANNO%203%20-%20PERCORSO%20GENERICO.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA AMBIENTALE PER LA RESILIENZA TERRITORIALE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Geoingegneria e resilienza territoriale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geoingegneria%20e%20resilienza%20territoriale.ics)
+  - [1 - CURRICULUM UNICO - percorso Resilienza idraulica e protezione ambientale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Resilienza%20idraulica%20e%20protezione%20ambientale.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Geoingegneria e resilienza territoriale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Geoingegneria%20e%20resilienza%20territoriale.ics)
+  - [2 - CURRICULUM UNICO - percorso Resilienza idraulica e protezione ambientale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE/Laurea%20Magistrale/INGEGNERIA%20AMBIENTALE%20PER%20LA%20RESILIENZA%20TERRITORIALE%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Resilienza%20idraulica%20e%20protezione%20ambientale.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA CIVILE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia.ics)
+  - [1 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Edilizia](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Edilizia.ics)
+  - [2 - CURRICULUM UNICO - percorso Strutture](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE/Laurea%20Magistrale/INGEGNERIA%20CIVILE%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Strutture.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA CIVILE E AMBIENTALE - I e II anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20I%20e%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 2
+  - [2 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20AMBIENTE%20E%20TERRITORIO.ics)
+  - [2 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20CIVILE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA CIVILE E AMBIENTALE - III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - AMBIENTE E TERRITORIO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20III%20anno%20-%20ANNO%203%20-%20AMBIENTE%20E%20TERRITORIO.ics)
+  - [3 - CIVILE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20III%20anno/Laurea/INGEGNERIA%20CIVILE%20E%20AMBIENTALE%20-%20III%20anno%20-%20ANNO%203%20-%20CIVILE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA ELETTRONICA</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti.ics)
+  - [1 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale.ics)
+  - [1 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica.ics)
+  - [1 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Informatica e reti](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Informatica%20e%20reti.ics)
+  - [2 - CURRICULUM UNICO - percorso Internazionale](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Internazionale.ics)
+  - [2 - CURRICULUM UNICO - percorso Meccatronica e robotica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Meccatronica%20e%20robotica.ics)
+  - [2 - CURRICULUM UNICO - percorso Sistemi elettronici e tecnologie dell'informazione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA/Laurea%20Magistrale/INGEGNERIA%20ELETTRONICA%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Sistemi%20elettronici%20e%20tecnologie%20dell%27informazione.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA ELETTRONICA - I e II anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20I%20e%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA ELETTRONICA - III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - INFORMATICA E RETI](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20III%20anno%20-%20ANNO%203%20-%20INFORMATICA%20E%20RETI.ics)
+  - [3 - MECCATRONICA E ROBOTICA](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20III%20anno%20-%20ANNO%203%20-%20MECCATRONICA%20E%20ROBOTICA.ics)
+  - [3 - SISTEMI ELETTRONICI E TECNOLOGIE DELL'INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20ELETTRONICA%20-%20III%20anno/Laurea/INGEGNERIA%20ELETTRONICA%20-%20III%20anno%20-%20ANNO%203%20-%20SISTEMI%20ELETTRONICI%20E%20TECNOLOGIE%20DELL%27INFORMAZIONE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA GESTIONALE</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - INGEGNERIA GESTIONALE - percorso Advanced manufacturing](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Advanced%20manufacturing.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Digital business and analytics](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Digital%20business%20and%20analytics.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Environmental Sustainability](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Environmental%20Sustainability.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Industrial management](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Industrial%20management.ics)
+  - [1 - INGEGNERIA GESTIONALE - percorso Information  and  communication technology](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%201%20-%20INGEGNERIA%20GESTIONALE%20-%20percorso%20Information%20%20and%20%20communication%20technology.ics)
+  - [1 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%201%20-%20MANAGEMENT%20ENGINEERING.ics)
+  
+  #### ANNO 2
+  - [2 - INGEGNERIA GESTIONALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%202%20-%20INGEGNERIA%20GESTIONALE.ics)
+  - [2 - MANAGEMENT ENGINEERING](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE/Laurea%20Magistrale/INGEGNERIA%20GESTIONALE%20-%20ANNO%202%20-%20MANAGEMENT%20ENGINEERING.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA GESTIONALE - I e II anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20I%20e%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 2
+  - [2 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20INDUSTRIALE.ics)
+  - [2 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20INFORMAZIONE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA GESTIONALE - III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - INDUSTRIALE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20III%20anno%20-%20ANNO%203%20-%20INDUSTRIALE.ics)
+  - [3 - INFORMAZIONE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20GESTIONALE%20-%20III%20anno/Laurea/INGEGNERIA%20GESTIONALE%20-%20III%20anno%20-%20ANNO%203%20-%20INFORMAZIONE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA INDUSTRIALE PER L'ENERGIA</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20L%27ENERGIA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA INDUSTRIALE PER LA SOSTENIBILITA' AMBIENTALE - I e II anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20I%20e%20II%20anno%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA INDUSTRIALE PER LA SOSTENIBILITA' AMBIENTALE - III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20III%20anno/Laurea/INGEGNERIA%20INDUSTRIALE%20PER%20LA%20SOSTENIBILITA%27%20AMBIENTALE%20-%20III%20anno%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA MECCANICA</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica.ics)
+  - [1 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20ANNO%201%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO - percorso Energetica](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Energetica.ics)
+  - [2 - CURRICULUM UNICO - percorso Materiali, costruzione, produzione](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA/Laurea%20Magistrale/INGEGNERIA%20MECCANICA%20-%20ANNO%202%20-%20CURRICULUM%20UNICO%20-%20percorso%20Materiali%2C%20costruzione%2C%20produzione.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA MECCANICA - I e II anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20I%20e%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20I%20e%20II%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>INGEGNERIA MECCANICA - III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INGEGNERIA%20MECCANICA%20-%20III%20anno/Laurea/INGEGNERIA%20MECCANICA%20-%20III%20anno%20-%20ANNO%203%20-%20CURRICULUM%20UNICO.ics)
   
 </details>
 <details>
@@ -577,6 +807,27 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>SCIENZE DELL'ARCHITETTURA - I e II anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20e%20II%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20e%20II%20anno%20-%20ANNO%201%20-%20CURRICULUM%20UNICO.ics)
+  
+  #### ANNO 2
+  - [2 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20e%20II%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20I%20e%20II%20anno%20-%20ANNO%202%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
+  <summary>SCIENZE DELL'ARCHITETTURA - III anno</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - CURRICULUM UNICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/SCIENZE%20DELL%27ARCHITETTURA%20-%20III%20anno/Laurea/SCIENZE%20DELL%27ARCHITETTURA%20-%20III%20anno%20-%20ANNO%203%20-%20CURRICULUM%20UNICO.ics)
+  
+</details>
+<details>
   <summary>SCIENZE DELL'EDUCAZIONE</summary>
 
   ### Laurea
@@ -769,6 +1020,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 1
   - [1 - Unico](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/Semestre%20filtro%20di%20Medicina%20e%20Odontoiatria/Semestre%20Filtro/Semestre%20filtro%20di%20Medicina%20e%20Odontoiatria%20-%20ANNO%201%20-%20Unico.ics)
+  
+</details>
+<details>
+  <summary>TECNICHE DELL'EDILIZIA E DEL TERRITORIO</summary>
+
+  ### Laurea
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO/Laurea/TECNICHE%20DELL%27EDILIZIA%20E%20DEL%20TERRITORIO%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
