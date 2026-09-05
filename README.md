@@ -59,6 +59,18 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>ARTIFICIAL INTELLIGENCE and CYBERSECURITY</summary>
+
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY/Laurea%20Magistrale/ARTIFICIAL%20INTELLIGENCE%20and%20CYBERSECURITY%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>BANCA E FINANZA</summary>
 
   ### Laurea Magistrale
@@ -417,6 +429,28 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>INFORMATICA</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - CORSO GENERICO](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%203%20-%20CORSO%20GENERICO.ics)
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea/INFORMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/INFORMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INFORMATICA/Laurea%20Magistrale/INFORMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>INGEGNERIA AMBIENTALE PER LA RESILIENZA TERRITORIALE</summary>
 
   ### Laurea Magistrale
@@ -633,6 +667,21 @@ Search for your course and copy the link of the desired calendar; for example:
   
 </details>
 <details>
+  <summary>INTERNET OF THINGS, BIG DATA, MACHINE LEARNING</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING/Laurea/INTERNET%20OF%20THINGS%2C%20BIG%20DATA%2C%20MACHINE%20LEARNING%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
   <summary>LINGUE E LETTERATURE EUROPEE ED EXTRAEUROPEE</summary>
 
   ### Laurea Magistrale
@@ -677,6 +726,28 @@ Search for your course and copy the link of the desired calendar; for example:
   
   #### ANNO 2
   - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MANAGEMENT%20and%20BUSINESS%20ANALYTICS/Laurea/MANAGEMENT%20and%20BUSINESS%20ANALYTICS%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  
+</details>
+<details>
+  <summary>MATEMATICA</summary>
+
+  ### Laurea
+  
+  #### ANNO 3
+  - [3 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%203%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea/MATEMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
+  ### Laurea Magistrale
+  
+  #### ANNO 1
+  - [1 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/MATEMATICA%20-%20ANNO%201%20-%20PERCORSO%20COMUNE.ics)
+  
+  #### ANNO 2
+  - [2 - PERCORSO COMUNE](https://raw.githubusercontent.com/lazylace37/uniud-calendars/main/ical/MATEMATICA/Laurea%20Magistrale/MATEMATICA%20-%20ANNO%202%20-%20PERCORSO%20COMUNE.ics)
   
 </details>
 <details>
